@@ -22,5 +22,9 @@ tcline_sum = tcline %>%
          tcline_percent = (yes_tcline/n_tcline_obs)*100) %>%
   filter(n_tcline_obs>9)
 
+windows(height = 4.5, width = 6)
 plot(rank(tcline_sum$tcline_percent), tcline_sum$tcline_percent)
-hist(tcline_sum$tcline_percent)
+hist(tcline_sum$tcline_percent, ylab = "Number of Lakes", xlab = "% of observations Thermocline Observed (2007-2020)", cex.lab = 1, main = "")
+
+#pair with lake depth, surface area
+
