@@ -91,3 +91,4 @@ mutate(date = parse_date_time(sampleDate, orders = "mdy HMS"),
          -Microcystin, -Phycocyanin, -Ecoli, -windSpeed)
 
 write.csv(wide_alm, file = "ALM Data 2000-2021 WIDE.csv")
+
