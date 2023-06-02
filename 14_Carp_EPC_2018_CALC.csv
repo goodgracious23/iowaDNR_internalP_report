@@ -1,0 +1,8 @@
+year,lake_name,lake_id,EPC_mgL,EPC_ugL,EPC_flag
+2018,Swan,114,0.0494,49.4,r
+2018,South Twin,406,NA,NA,f
+2018,North Twin,90,NA,NA,f
+2018,Silver,105,0.2353,235.3,r
+2018,Storm,113,0.1636,163.6,
+2018,Five Island,36,0.1775,177.5,
+2018,Center,19,0.0771,77.1,

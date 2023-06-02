@@ -1,0 +1,19 @@
+lake_name,year,exp_condition,total_transect,transect_detect,per_transects
+Center,2018,Pre-Harvest,15,6,40
+Center,2019,Post-Harvest,15,4,26.7
+Center,2020,Post-Harvest,15,9,60
+Five Island,2018,Pre-Harvest,25,5,20
+Five Island,2019,Post-Harvest,25,3,12
+Five Island,2020,Post-Harvest,25,4,16
+North Twin,2018,Pre-Harvest,20,10,50
+North Twin,2019,Pre-Harvest,20,4,20
+North Twin,2020,Post-Harvest,20,12,60
+Silver,2018,Pre-Harvest,25,13,52
+Silver,2019,Pre-Harvest,25,12,48
+Silver,2020,Post-Harvest,25,21,84
+South Twin,2018,Reference,25,23,92
+South Twin,2019,Reference,25,21,84
+South Twin,2020,Reference,25,23,92
+Storm,2018,Reference,25,8,32
+Storm,2019,Reference,25,8,32
+Storm,2020,Reference,25,20,80

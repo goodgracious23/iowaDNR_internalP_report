@@ -1,0 +1,131 @@
+year,doy,siteID,lake,site,name,TSS,TFSS
+2012,158,22970001,Browns Lake,max depth,Browns Lake,14,NA
+2012,130,22970001,Browns Lake,max depth,Browns Lake,16,NA
+2012,226,22970001,Browns Lake,max depth,Browns Lake,26,NA
+2012,192,22970001,Browns Lake,max depth,Browns Lake,28,NA
+2012,255,22970001,Browns Lake,max depth,Browns Lake,35,NA
+2012,158,22870003,Windmill Lake,max depth,Windmill Lake,20,NA
+2012,130,22870003,Windmill Lake,max depth,Windmill Lake,11,NA
+2012,191,22870003,Windmill Lake,max depth,Windmill Lake,18,NA
+2012,226,22870003,Windmill Lake,max depth,Windmill Lake,38,NA
+2012,254,22870003,Windmill Lake,max depth,Windmill Lake,20,NA
+2011,256,22880002,Thayer Lake,max depth,Thayer Lake,9,NA
+2011,243,22880002,Thayer Lake,max depth,Thayer Lake,17,NA
+2011,132,22880002,Thayer Lake,max depth,Thayer Lake,58,NA
+2011,167,22880002,Thayer Lake,max depth,Thayer Lake,14,NA
+2011,187,22880002,Thayer Lake,max depth,Thayer Lake,9,NA
+2011,229,22880002,Thayer Lake,max depth,Thayer Lake,7,NA
+2010,140,22860001,Casey Lake,max depth,Casey Lake,2,1
+2010,259,22860001,Casey Lake,max depth,Casey Lake,10,1
+2010,229,22860001,Casey Lake,max depth,Casey Lake,13,1
+2010,189,22860001,Casey Lake,max depth,Casey Lake,6,1
+2010,161,22860001,Casey Lake,max depth,Casey Lake,3,1
+2008,262,22820001,Lake of the Hills,max depth,Lake of the Hills,15,4
+2008,211,22820001,Lake of the Hills,max depth,Lake of the Hills,8,3
+2008,238,22820001,Lake of the Hills,max depth,Lake of the Hills,18,6
+2008,177,22820001,Lake of the Hills,max depth,Lake of the Hills,9,4
+2008,140,22820001,Lake of the Hills,max depth,Lake of the Hills,9,3
+2008,255,22770004,Big Creek,max depth,Big Creek,3,1
+2008,227,22770004,Big Creek,max depth,Big Creek,7,1
+2008,128,22770004,Big Creek,max depth,Big Creek,2,1
+2008,164,22770004,Big Creek,max depth,Big Creek,21,16
+2008,184,22770004,Big Creek,max depth,Big Creek,3,2
+2012,130,22780003,Lake Manawa,max depth,Lake Manawa,38,NA
+2012,158,22780003,Lake Manawa,max depth,Lake Manawa,41,NA
+2012,226,22780003,Lake Manawa,max depth,Lake Manawa,42,NA
+2012,191,22780003,Lake Manawa,max depth,Lake Manawa,54,NA
+2012,254,22780003,Lake Manawa,max depth,Lake Manawa,52,NA
+2011,231,22600001,Lake Pahoja,max depth,Lake Pahoja,19,NA
+2011,262,22600001,Lake Pahoja,max depth,Lake Pahoja,11,NA
+2011,203,22600001,Lake Pahoja,max depth,Lake Pahoja,20,NA
+2011,180,22600001,Lake Pahoja,max depth,Lake Pahoja,2,NA
+2011,146,22600001,Lake Pahoja,max depth,Lake Pahoja,2,NA
+2005,157,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,22,NA
+2005,146,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,9,NA
+2005,133,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,21,NA
+2005,74,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,7,NA
+2005,195,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,48,NA
+2005,171,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,23,NA
+2005,210,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,58,NA
+2005,223,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,34,NA
+2005,235,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,21,NA
+2005,259,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,12,NA
+2005,272,22590001,Williamson Pond,max depth,Williamson Pond Max Depth,16,NA
+2011,256,22520005,Kent Park Lake,max depth,Kent Park Lake,14,NA
+2011,195,22520005,Kent Park Lake,max depth,Kent Park Lake,13,NA
+2011,220,22520005,Kent Park Lake,max depth,Kent Park Lake,11,NA
+2011,130,22520005,Kent Park Lake,max depth,Kent Park Lake,3,NA
+2011,159,22520005,Kent Park Lake,max depth,Kent Park Lake,8,NA
+2011,159,22530001,Central Park Lake,max depth,Central Park Lake,18,NA
+2011,130,22530001,Central Park Lake,max depth,Central Park Lake,3,NA
+2011,195,22530001,Central Park Lake,max depth,Central Park Lake,20,NA
+2011,256,22530001,Central Park Lake,max depth,Central Park Lake,25,NA
+2011,243,22530001,Central Park Lake,max depth,Central Park Lake,11,NA
+2011,228,22530001,Central Park Lake,max depth,Central Park Lake,19,NA
+2008,247,22400004,Briggs Woods Lake,max depth,Briggs Woods Lake,4,1
+2008,227,22400004,Briggs Woods Lake,max depth,Briggs Woods Lake,7,1
+2008,192,22400004,Briggs Woods Lake,max depth,Briggs Woods Lake,9,1
+2008,164,22400004,Briggs Woods Lake,max depth,Briggs Woods Lake,3,1
+2008,127,22400004,Briggs Woods Lake,max depth,Briggs Woods Lake,1,1
+2010,154,22410002,Eldred Sherwood,max depth,Eldred Sherwood Lake,2,1
+2010,189,22410002,Eldred Sherwood,max depth,Eldred Sherwood Lake,7,1
+2010,217,22410002,Eldred Sherwood,max depth,Eldred Sherwood Lake,4,2
+2010,244,22410002,Eldred Sherwood,max depth,Eldred Sherwood Lake,33,1
+2010,125,22410002,Eldred Sherwood,max depth,Eldred Sherwood Lake,13,7
+2010,125,22420001,Lower Pine,max depth,Lower Pine Lake,19,12
+2009,258,22420001,Lower Pine,max depth,Lower Pine Lake,19,NA
+2009,229,22420001,Lower Pine,max depth,Lower Pine Lake,15,NA
+2009,188,22420001,Lower Pine,max depth,Lower Pine Lake,12,NA
+2010,260,22420001,Lower Pine,max depth,Lower Pine Lake,17,6
+2010,215,22420001,Lower Pine,max depth,Lower Pine Lake,14,7
+2010,187,22420001,Lower Pine,max depth,Lower Pine Lake,10,4
+2010,152,22420001,Lower Pine,max depth,Lower Pine Lake,15,7
+2009,167,22420001,Lower Pine,max depth,Lower Pine Lake,14,NA
+2009,139,22420001,Lower Pine,max depth,Lower Pine Lake,16,NA
+2010,187,22420002,Upper Pine,max depth,Upper Pine Lake,14,4
+2010,215,22420002,Upper Pine,max depth,Upper Pine Lake,9,3
+2010,260,22420002,Upper Pine,max depth,Upper Pine Lake,9,2
+2010,125,22420002,Upper Pine,max depth,Upper Pine Lake,16,8
+2010,152,22420002,Upper Pine,max depth,Upper Pine Lake,8,3
+2012,192,22430001,DeSoto Bend,max depth,DeSoto Bend Lake,22,NA
+2012,226,22430001,DeSoto Bend,max depth,DeSoto Bend Lake,28,NA
+2012,254,22430001,DeSoto Bend,max depth,DeSoto Bend Lake,40,NA
+2012,158,22430001,DeSoto Bend,max depth,DeSoto Bend Lake,21,NA
+2012,130,22430001,DeSoto Bend,max depth,DeSoto Bend Lake,58,NA
+2012,129,22480001,Lake Iowa,max depth,Lake Iowa,5,NA
+2012,257,22480001,Lake Iowa,max depth,Lake Iowa,12,NA
+2012,222,22480001,Lake Iowa,max depth,Lake Iowa,8,NA
+2012,164,22480001,Lake Iowa,max depth,Lake Iowa,11,NA
+2012,191,22480001,Lake Iowa,max depth,Lake Iowa,15,NA
+2010,125,22350001,Beeds Lake,max depth,Beeds Lake,33,22
+2010,244,22350001,Beeds Lake,max depth,Beeds Lake,12,3
+2010,216,22350001,Beeds Lake,max depth,Beeds Lake,8,2
+2010,189,22350001,Beeds Lake,max depth,Beeds Lake,11,7
+2010,154,22350001,Beeds Lake,max depth,Beeds Lake,3,1
+2005,237,22300007,Silver Lake,max depth,Silver Lake Max Depth,10,NA
+2005,256,22300007,Silver Lake,max depth,Silver Lake Max Depth,24,NA
+2005,221,22300007,Silver Lake,max depth,Silver Lake Max Depth,13,NA
+2005,214,22300007,Silver Lake,max depth,Silver Lake Max Depth,23,NA
+2005,271,22300007,Silver Lake,max depth,Silver Lake Max Depth,25,NA
+2005,172,22300007,Silver Lake,max depth,Silver Lake Max Depth,6,NA
+2005,159,22300007,Silver Lake,max depth,Silver Lake Max Depth,12,NA
+2005,193,22300007,Silver Lake,max depth,Silver Lake Max Depth,9,NA
+2005,131,22300007,Silver Lake,max depth,Silver Lake Max Depth,29,NA
+2005,144,22300007,Silver Lake,max depth,Silver Lake Max Depth,17,NA
+2005,90,22300007,Silver Lake,max depth,Silver Lake Max Depth,26,NA
+2012,130,22280003,Backbone Lake,max depth,Backbone Lake,6,NA
+2012,256,22280003,Backbone Lake,max depth,Backbone Lake,14,NA
+2012,193,22280003,Backbone Lake,max depth,Backbone Lake,44,NA
+2012,221,22280003,Backbone Lake,max depth,Backbone Lake,12,NA
+2012,163,22280003,Backbone Lake,max depth,Backbone Lake,8,NA
+2005,90,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,320,NA
+2005,159,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,240,NA
+2005,143,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,57,NA
+2005,131,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,69,NA
+2005,173,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,61,NA
+2005,193,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,44,NA
+2005,208,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,83,NA
+2005,222,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,110,NA
+2005,236,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,280,NA
+2005,256,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,99,NA
+2005,270,22210001,Trumball Lake,max depth,Trumbull Lake Max Depth,170,NA

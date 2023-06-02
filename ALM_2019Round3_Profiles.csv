@@ -1,0 +1,1624 @@
+badNames,Lake,DATE,TIME,Depth (m),Temperature (Deg C),pH,DO (% Saturation),DO (mg/L),Specific Conductivity (uS/cm),Turbidity (NTU),TDS (mg/L)
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,0,24.74,8.33,109.03,9.04,503.17,20.68,326.9
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,0.5,24.3,8.31,105.94,8.85,514.57,23.87,334.43
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,1,23.84,8.16,92.43,7.79,516.65,19.23,336
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,1.5,23.47,8.01,76.16,6.46,517.96,16.14,336.63
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,2,22.91,7.89,52.37,4.49,519.19,14.79,337.5
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,2.5,22.31,7.77,30.21,2.62,518.58,15.27,337
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,3,21.84,7.69,16.43,1.44,518.82,18.17,337.22
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,3.5,21.44,7.55,10.28,0.91,522.43,19.35,339.67
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,4,20.4,7.37,8.71,0.78,576.41,17.95,374.57
+(1) Arbor Lake (Poweshiek),Arbor Lake,9/18/2019,10:42:00 AM,4.5,18.97,7.03,6.93,0.64,747.64,26.03,485.9
+(2) Arrowhead Pond (Pottawattamie),Arrowhead Pond,9/10/2019,3:50:00 PM,0,24.91,8.46,154.96,12.81,454.66,14.75,295.56
+(2) Arrowhead Pond (Pottawattamie),Arrowhead Pond,9/10/2019,3:50:00 PM,0.5,24.57,8.45,165.65,13.77,461.82,16.78,300.17
+(2) Arrowhead Pond (Pottawattamie),Arrowhead Pond,9/10/2019,3:50:00 PM,1,23.93,8.3,144.61,12.16,466.39,13.82,303.29
+(2) Arrowhead Pond (Pottawattamie),Arrowhead Pond,9/10/2019,3:50:00 PM,1.5,23.25,8.21,124.85,10.63,470.6,13.03,305.83
+(2) Arrowhead Pond (Pottawattamie),Arrowhead Pond,9/10/2019,3:50:00 PM,2,22.81,8.06,103.85,8.93,474.7,12.02,308.63
+(2) Arrowhead Pond (Pottawattamie),Arrowhead Pond,9/10/2019,3:50:00 PM,2.5,22.52,7.95,84.1,7.27,480.1,10.47,312
+(2) Arrowhead Pond (Pottawattamie),Arrowhead Pond,9/10/2019,3:50:00 PM,3,22.34,7.75,57.93,5.02,488.23,8.51,317.5
+(2) Arrowhead Pond (Pottawattamie),Arrowhead Pond,9/10/2019,3:50:00 PM,3.5,22.14,7.67,41.88,3.65,497.46,7.31,323.2
+(2) Arrowhead Pond (Pottawattamie),Arrowhead Pond,9/10/2019,3:50:00 PM,4,21.94,7.49,28.48,2.49,507.38,12.45,329.67
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,0,24.94,8.18,89.39,7.39,488.7,4.95,317.57
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,0.5,24.98,8.12,85.77,7.08,489.71,2.35,318.09
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,1,25,8.1,83.61,6.9,490.26,1.87,319
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,1.5,25,8.08,82.75,6.83,490.31,1.91,319
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,2,25,8.07,81.16,6.7,490.51,1.95,319
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,2.5,25,8.05,79.89,6.59,490.7,1.9,319
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,3,25,8.05,79.39,6.55,490.72,1.9,319
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,3.5,24.98,8.04,79.45,6.56,490.85,2.06,319
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,4,24.94,7.95,66.7,5.51,491.6,2.24,319.43
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,4.5,24.85,7.77,39.94,3.3,494.55,2.38,321.5
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,5,23.46,7.54,13.46,1.14,512.3,4.13,333
+(3) Arrowhead Lake (Sac),Arrowhead Lake,8/19/2019,9:21:00 AM,5.5,21.17,7.2,8.15,0.72,550.01,8.7,357.55
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,0,21.72,7.73,83.37,7.33,168.45,13.84,109.33
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,0.5,21.87,7.67,72.25,6.33,200.05,15.06,130
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,1,21.89,7.64,66.98,5.87,199.95,13,130
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,1.5,21.89,7.62,63.95,5.6,199.9,12.34,130
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,2,21.89,7.58,60.07,5.26,199.9,12.3,130
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,2.5,21.89,7.54,59.07,5.17,199.89,12.07,130
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,3,21.89,7.51,58.02,5.08,199.8,12.25,130
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,3.5,21.89,7.5,57.35,5.02,199.84,12.17,130
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,4,21.8,7.48,51.56,4.52,200.93,12.56,130.57
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,4.5,21.58,7.33,39.59,3.49,205.67,14.29,133.71
+(4) Avenue of the Saints Pond (Bremer),Avenue of the Saints Pond,9/25/2019,1:41:00 PM,5,20.25,7.12,26.5,2.4,220.9,16.31,143.5
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,0,23.68,8.37,99.85,8.45,241.57,30.78,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,0.5,23.72,8.43,99.38,8.41,241.59,29.19,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,1,23.72,8.46,98.9,8.37,241.67,28.94,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,1.5,23.72,8.47,98.45,8.33,241.78,30.96,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,2,23.72,8.49,98.3,8.31,241.8,30.9,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,2.5,23.72,8.49,98.32,8.31,241.8,30.87,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,3,23.72,8.49,98.18,8.3,241.86,28.42,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,3.5,23.72,8.51,97.98,8.28,241.9,29.97,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,4,23.72,8.52,97.9,8.28,241.9,29.75,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,4.5,23.72,8.52,97.36,8.23,241.96,30.43,157
+(5) Badger Creek Lake (Madison),Badger Creek Lake,8/27/2019,4:55:00 PM,5,23.72,8.53,97.1,8.21,241.9,27.73,157
+(6) Badger Lake (Webster),Badger Lake,8/20/2019,9:20:00 AM,0,24.9,8.67,127.28,10.53,395.18,3.98,257
+(6) Badger Lake (Webster),Badger Lake,8/20/2019,9:20:00 AM,0.5,24.94,8.69,129.52,10.71,395.35,5.26,257
+(6) Badger Lake (Webster),Badger Lake,8/20/2019,9:20:00 AM,1,24.94,8.71,130.2,10.76,395.6,5.3,257
+(6) Badger Lake (Webster),Badger Lake,8/20/2019,9:20:00 AM,1.5,24.93,8.63,124.85,10.32,396.23,5.1,257.5
+(6) Badger Lake (Webster),Badger Lake,8/20/2019,9:20:00 AM,2,24.78,8.45,110.29,9.14,398.36,4.58,258.86
+(6) Badger Lake (Webster),Badger Lake,8/20/2019,9:20:00 AM,2.5,24.35,7.94,45.98,3.83,426.08,6.99,276.88
+(6) Badger Lake (Webster),Badger Lake,8/20/2019,9:20:00 AM,3,23.27,7.61,18,1.53,521.52,12.11,339
+(6) Badger Lake (Webster),Badger Lake,8/20/2019,9:20:00 AM,3.5,21.5,7.38,11.78,1.03,619.98,14.98,403
+(6) Badger Lake (Webster),Badger Lake,8/20/2019,9:20:00 AM,4,18.79,7.14,7.15,0.67,764.62,14.97,497.17
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,0,21.49,7.8,95.05,8.42,103.38,9.97,67.17
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,0.5,23.18,8.06,80.98,6.92,232.5,8.49,151
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,1,23.22,8.12,78.32,6.69,232.22,8.12,151
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,1.5,23.22,8.14,76.4,6.52,232.31,8.06,151
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,2,23.22,8.17,74.08,6.32,232.5,7.93,151
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,2.5,23.26,8.2,72.75,6.21,232.63,7.56,151
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,3,23.28,8.22,72.05,6.15,232.7,7.68,151
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,3.5,23.17,8,54.72,4.67,234.74,6.87,152.55
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,4,22.7,7.7,18.63,1.6,243.92,3.96,158.53
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,4.5,22.42,7.57,11.04,0.96,248,3.89,161.2
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,5,21.94,7.38,9.47,0.83,255.77,4.39,166.33
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,5.5,19.81,7.15,7.34,0.67,323.18,4.65,210
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,6,17.74,7.06,5.63,0.53,365.33,4.35,237.33
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,6.5,16.08,7.01,4.29,0.42,381.31,3.97,248
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,7,13.97,6.98,3.5,0.36,398.04,4.07,258.8
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,7.5,13.26,6.94,2.78,0.29,400.97,4.26,260.82
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,8,11.68,6.9,2.24,0.24,417.99,4.44,271.57
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,8.5,10.96,6.88,2,0.22,433.2,4.74,281.5
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,9,10.69,6.86,1.83,0.2,445.88,4.95,289.75
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,9.5,10.49,6.73,1.65,0.19,462.53,6.17,300.75
+(7) Beaver Lake (Dallas),Beaver Lake,9/8/2019,8:45:00 AM,10,10.04,6.64,1.41,0.16,510.24,27.53,331.63
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,0,22.57,8.23,96.16,8.31,453.73,11.09,294.85
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,0.5,22.66,8.27,93.53,8.07,455.06,11.21,296
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,1,22.71,8.32,92.2,7.94,456.15,11.24,296.64
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,1.5,22.72,8.34,91.26,7.86,456.84,10.19,297
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,2,22.71,8.28,86.68,7.47,458.18,9.29,297.92
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,2.5,21.89,7.93,47.49,4.14,470.67,6.67,305.89
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,3,20.9,7.78,21.38,1.91,485.17,4.3,315.33
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,3.5,20.49,7.71,11.96,1.07,488.61,3.4,317.6
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,4,20.14,7.63,7.61,0.69,494.73,3.78,321.67
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,4.5,19.78,7.55,5.24,0.48,505.72,4.16,328.62
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,5,19.41,7.42,4.14,0.38,518.97,4.82,337.45
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,5.5,19.06,7.31,3.5,0.33,534.64,5.5,347.38
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,6,17.45,6.95,2.86,0.27,647.95,9.75,421.24
+(8) Beeds Lake (Franklin),Beeds Lake,9/22/2019,11:55:00 AM,6.5,16.72,6.81,2.57,0.25,744.4,14.81,484
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,0,28.32,8.55,112.5,8.71,392.58,3.51,255
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,0.5,26.53,8.57,120.59,9.67,399.26,2.47,259.67
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,1,26.24,8.58,121.33,9.79,391.22,3.07,254.33
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,1.5,25.88,8.45,107.2,8.7,388.57,3.23,252.67
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,2,25.39,8.36,93.82,7.68,390.98,3.14,254.17
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,2.5,25.17,8.17,73.24,6.03,393.7,3.06,255.89
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,3,25.07,8.09,56.12,4.63,395.88,3.01,257.4
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,3.5,24.99,7.98,47.48,3.92,397.18,3,258
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,4,24.93,7.96,40.03,3.31,398.33,3.01,259
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,4.5,24.85,7.94,32.4,2.68,399.8,3.08,259.67
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,5,24.76,7.91,25.28,2.1,402.44,3.09,261.6
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,5.5,24.63,7.88,19.9,1.65,405.8,3.13,263.8
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,6,24.56,7.82,15.43,1.28,408.55,3.19,265.5
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,6.5,24.43,7.74,8.83,0.74,413.1,3.35,268.5
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,7,22.06,7.71,6.5,0.56,486.88,3.58,316.25
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,7.5,20.17,7.67,5.35,0.48,536.23,4.48,348.5
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,8,18.94,7.64,4.45,0.42,552.88,6.02,359.33
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,8.5,18.46,7.63,3.55,0.33,557.35,7.31,362.25
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,9,18.1,7.61,3.04,0.29,558.56,7.26,363
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,9.5,17.6,7.6,2.7,0.26,559.08,6.5,363.5
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,10,17.13,7.59,2.48,0.24,559.76,5.74,364
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,10.5,16.7,7.58,2.26,0.22,559.88,5.2,364
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,11,16.35,7.58,2.1,0.21,559.82,5.84,364
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,11.5,16.08,7.56,1.95,0.19,560.93,7.09,364.67
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,12,15.79,7.55,1.85,0.18,561.93,8.01,365.25
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,12.5,15.41,7.51,1.73,0.17,563.96,8.46,366.57
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,13,15.03,7.4,1.62,0.16,568.33,8.66,369.33
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,13.5,14.71,7.37,1.51,0.15,574.29,8.63,373.29
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,14,14.54,7.36,1.47,0.15,578.25,8.47,375.83
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,14.5,14.45,7.35,1.4,0.14,580.2,8.57,377.17
+(9) Big Creek Lake (Polk),Big Creek Lake,8/20/2019,4:20:00 PM,15,14.28,7.11,1.32,0.14,588.05,10.33,382.23
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,0,21.03,8.29,101.68,9.05,369.98,12.87,240.4
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,0.5,21.22,8.31,102.34,9.08,368.8,12.57,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,1,21.22,8.33,103.2,9.15,368.9,11.86,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,1.5,21.22,8.35,103.71,9.19,369.01,11.55,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,2,21.22,8.37,103.8,9.21,369.1,12.04,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,2.5,21.22,8.37,103.8,9.21,369.12,13.11,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,3,21.22,8.38,103.8,9.2,369.1,12.55,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,3.5,21.22,8.38,103.71,9.2,369.17,11.95,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,4,21.22,8.39,103.52,9.18,369.3,11.78,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,4.5,21.22,8.39,103.32,9.16,369.37,11.6,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,5,21.22,8.39,103.14,9.15,369.4,11.15,240
+(10) Big Spirit Lake (Dickinson),Big Spirit Lake,9/3/2019,10:15:00 AM,5.5,21.22,8.39,102.98,9.13,369.43,10.99,240
+(11) Black Hawk Lake (Sac),Black Hawk Lake,8/19/2019,8:32:00 AM,0,24.03,8.49,101.28,8.51,394.78,10.09,256.7
+(11) Black Hawk Lake (Sac),Black Hawk Lake,8/19/2019,8:32:00 AM,0.5,24.09,8.5,100.67,8.45,395.86,18.24,257.11
+(11) Black Hawk Lake (Sac),Black Hawk Lake,8/19/2019,8:32:00 AM,1,24.15,8.51,99.65,8.36,396.73,18.72,258
+(11) Black Hawk Lake (Sac),Black Hawk Lake,8/19/2019,8:32:00 AM,1.5,24.17,8.51,98.86,8.29,396.96,19.29,258
+(11) Black Hawk Lake (Sac),Black Hawk Lake,8/19/2019,8:32:00 AM,2,24.17,8.48,91.72,7.69,397.91,27.45,258.67
+(12) Blue Lake (Monona),Blue Lake,8/19/2019,12:35:00 PM,0,26.19,8.32,102.2,8.25,553.82,6.32,359.8
+(12) Blue Lake (Monona),Blue Lake,8/19/2019,12:35:00 PM,0.5,26.04,8.29,102.14,8.27,555.51,12.1,361.18
+(12) Blue Lake (Monona),Blue Lake,8/19/2019,12:35:00 PM,1,25.53,8.23,94.27,7.7,557.64,13.37,362.5
+(12) Blue Lake (Monona),Blue Lake,8/19/2019,12:35:00 PM,1.5,24.99,8.12,83.58,6.89,559.44,12.84,363.6
+(12) Blue Lake (Monona),Blue Lake,8/19/2019,12:35:00 PM,2,24.7,8.04,68.48,5.68,560.95,15.48,364.8
+(12) Blue Lake (Monona),Blue Lake,8/19/2019,12:35:00 PM,2.5,24.65,7.92,52.36,4.35,561.32,31.33,365
+(13) Bob White Lake (Wayne),Bob White Lake,8/27/2019,12:08:00 PM,0,23.5,7.83,72.8,6.18,159,59.19,103
+(13) Bob White Lake (Wayne),Bob White Lake,8/27/2019,12:08:00 PM,0.5,23.31,7.77,66.98,5.7,159.28,55.79,103.75
+(13) Bob White Lake (Wayne),Bob White Lake,8/27/2019,12:08:00 PM,1,22.81,7.69,61.72,5.3,159.72,63.14,104
+(13) Bob White Lake (Wayne),Bob White Lake,8/27/2019,12:08:00 PM,1.5,22.41,7.57,54.74,4.75,160.38,77.87,104
+(13) Bob White Lake (Wayne),Bob White Lake,8/27/2019,12:08:00 PM,2,22.27,7.52,52.26,4.54,160.35,95.22,104
+(13) Bob White Lake (Wayne),Bob White Lake,8/27/2019,12:08:00 PM,2.5,22.13,7.5,51.17,4.46,160.17,108.28,104
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,0,23.17,8.64,114.11,9.76,289.1,8.81,188
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,0.5,23.17,8.67,114.95,9.82,289.15,9.15,188
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,1,23.1,8.69,114.78,9.82,289.71,8.9,188.22
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,1.5,23.01,8.67,105.86,9.07,291.39,8.13,189.46
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,2,22.99,8.61,98.01,8.4,292.86,7.92,190.21
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,2.5,22.92,8.57,91.23,7.83,293.81,7.4,191.2
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,3,21.65,8.26,47.66,4.18,306.26,4.83,199.15
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,3.5,21.07,8.06,22.92,2.04,311.51,3.69,202.33
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,4,19.91,7.84,14.18,1.29,322.41,5.36,209.75
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,4.5,17.82,7.56,10.28,0.97,400.45,7.22,260.17
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,5,15.74,7.4,8.35,0.83,447.75,7.84,291.08
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,5.5,14.49,7.25,6.07,0.62,466.4,7.72,303
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,6,13.41,7.17,4.85,0.5,487.7,8.56,317
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,6.5,12.06,7.11,3.89,0.42,519.19,8.67,337.5
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,7,11.46,6.97,3.15,0.34,543.55,8.46,353.31
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,7.5,10.73,6.93,2.6,0.29,572.88,9.24,372.25
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,8,10.39,6.88,2.23,0.25,590.34,9.77,383.75
+(14) Briggs Woods Lake (Hamilton),Briggs Woods Lake,9/22/2019,1:40:00 PM,8.5,9.95,6.7,1.22,0.14,621.25,10.86,403.85
+(15) Browns Lake (Woodbury),Browns Lake,8/19/2019,10:56:00 AM,0,25.54,8.24,103.36,8.45,451.2,15.75,293
+(15) Browns Lake (Woodbury),Browns Lake,8/19/2019,10:56:00 AM,0.5,25.35,8.28,105.88,8.68,529.39,19.06,344.33
+(15) Browns Lake (Woodbury),Browns Lake,8/19/2019,10:56:00 AM,1,25.13,8.2,97.53,8.03,531.34,31.6,345.38
+(15) Browns Lake (Woodbury),Browns Lake,8/19/2019,10:56:00 AM,1.5,24.81,8.13,83.06,6.88,533.66,31.99,346.75
+(15) Browns Lake (Woodbury),Browns Lake,8/19/2019,10:56:00 AM,2,24.63,8.13,78.53,6.52,534.23,52.42,347
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,0,24.44,8.25,107.13,8.94,556.83,8.01,361.83
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,0.5,24.53,8.23,110.18,9.17,559.78,7.66,363.8
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,1,24.57,8.21,111.99,9.31,561.21,1,364.78
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,1.5,24.61,8.21,113.72,9.45,562.02,0.42,365
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,2,24.61,8.2,114.2,9.49,562.12,0.41,365
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,2.5,24.67,8.2,114.5,9.51,562.2,0.42,365
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,3,24.67,8.2,114.68,9.52,562.3,0.42,365.17
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,3.5,24.67,8.2,114.53,9.51,562.74,0.43,366
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,4,24.67,8.2,113.8,9.45,563.9,0.41,366.5
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,4.5,24.6,8.1,106.11,8.82,567.26,0.38,368.57
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,5,24.14,7.85,72.57,6.06,608.33,0.43,395.5
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,5.5,22.59,7.73,36.68,3.16,666,0.49,432.83
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,6,21.71,7.69,22.43,1.97,678.7,0.55,441.17
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,6.5,18.83,7.68,15.94,1.48,689.34,0.53,448.13
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,7,16.91,7.66,9.78,0.94,667.81,0.46,433.88
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,7.5,15.42,7.64,8.34,0.83,673.46,0.46,437.71
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,8,14.42,7.64,7.7,0.78,670.64,0.41,435.8
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,8.5,14.04,7.64,7.5,0.77,659.77,0.34,429
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,9,12.33,7.65,8.1,0.86,671.6,0.3,436.5
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,9.5,11.9,7.65,8.56,0.92,665.88,0.28,432.8
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,10,11.69,7.66,8.62,0.94,655.18,0.28,425.67
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,10.5,11.17,7.67,8.53,0.93,648.13,0.26,421.22
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,11,9.6,7.67,8.14,0.92,656.4,0.22,426.57
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,11.5,8.9,7.67,7.24,0.84,648.63,0.2,421.63
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,12,8.58,7.67,6.58,0.76,640.48,0.21,416.6
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,12.5,8.15,7.66,5.36,0.63,639.68,0.24,416
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,13,7.8,7.65,4.02,0.48,641.12,0.28,416.8
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,13.5,7.56,7.63,3.24,0.39,642.6,0.33,417.6
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,14,7.26,7.58,2.65,0.32,645.67,0.37,419.67
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,14.5,6.88,7.57,2.15,0.26,651.65,0.4,423.5
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,15,6.52,7.54,1.8,0.22,659.38,0.44,428.5
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,15.5,6.22,7.55,1.63,0.2,666.17,0.48,433
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,16,6,7.54,1.5,0.19,672.52,0.48,437
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,16.5,5.67,7.54,1.34,0.17,681.5,0.42,442.86
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,17,5.44,7.53,1.28,0.16,687.75,0.37,447
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,17.5,5.34,7.51,1.2,0.15,690.76,0.4,449
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,18,5.28,7.49,1.16,0.15,692.99,0.48,450.43
+(16) Brushy Creek Lake (Webster),Brushy Creek Lake,8/20/2019,7:46:00 AM,18.5,5.18,7.47,1.14,0.15,699.46,21.32,454.65
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,0,24.41,7.82,90.23,7.52,709.3,15.58,461
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,0.5,24.03,7.83,84.47,7.09,826.47,19,537
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,1,23.71,7.78,70.83,5.98,827.28,18.01,537.89
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,1.5,23.33,7.7,58.96,5.01,828.83,19.77,538.67
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,2,23.17,7.67,48.46,4.13,834.88,18.63,542.63
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,2.5,23.02,7.59,43.27,3.7,847.98,16.23,551.17
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,3,22.86,7.47,32.47,2.78,866.34,13.42,563.1
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,3.5,22.56,7.39,19.31,1.66,894.06,12.84,580.89
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,4,21.97,7.26,11.05,0.96,911.04,14.75,592
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,4.5,19.67,7.13,7.11,0.65,939.29,15.97,610.63
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,5,18.01,6.95,6.1,0.57,953.8,18.54,620
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,5.5,17,6.78,5.2,0.5,965,19.55,627.25
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,6,16.67,6.73,4.34,0.42,970.28,22.34,631
+(17) Carter Lake (Pottawattamie),Carter Lake,9/10/2019,1:20:00 PM,6.5,16.5,6.7,3.9,0.38,974.9,22.7,634
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,0,22.09,8.19,100.68,8.79,294.76,15.42,191.8
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,0.5,22.31,8.21,101.13,8.79,294.64,16.5,191.63
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,1,22.44,8.23,101.4,8.78,294.14,13.88,191
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,1.5,22.48,8.26,101.26,8.77,294.61,13.45,191.5
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,2,22.42,8.19,81.74,7.08,295.6,12.81,192.29
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,2.5,22.03,7.94,46.2,4.03,299.75,11.58,194.83
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,3,21.51,7.75,27.39,2.41,307.55,9.89,199.88
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,3.5,21.24,7.65,16.43,1.46,314.76,8.64,204.57
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,4,20.99,7.5,13.5,1.2,323.41,7.59,210.14
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,4.5,20.67,7.41,11.3,1.01,337.4,6.68,219.14
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,5,20.25,7.27,8.83,0.8,353.45,6.6,229.67
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,5.5,19.54,7.16,6.97,0.64,375.24,7.7,243.89
+(18) Casey Lake (Tama),Casey Lake,9/25/2019,7:17:00 AM,6,18.77,7.04,5.72,0.53,397.94,11.73,258.6
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,0,22.58,8.4,100.14,8.64,544.3,9.37,353.86
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,0.5,22.53,8.48,101.94,8.81,546,10.89,355
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,1,22.5,8.51,102.43,8.86,545.85,12.45,355
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,1.5,22.46,8.53,102.96,8.91,545.86,12.59,355
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,2,22.38,8.57,102.58,8.89,545.96,12.66,355
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,2.5,22.32,8.57,101.46,8.8,546.11,12.93,355
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,3,22.25,8.53,98.53,8.56,546.36,13.17,355
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,3.5,21.95,8.18,65.95,5.75,548.57,12.07,356.67
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,4,21.39,7.91,34.26,3.02,553.95,9.87,359.91
+(19) Center Lake (Dickinson),Center Lake,9/3/2019,1:37:00 PM,4.5,21.11,7.83,24.08,2.14,556.38,20.44,361.75
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,0,23.22,8.6,152.68,13.03,332.83,9.79,216
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,0.5,23.04,8.63,150.79,12.91,333.13,9.94,216.56
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,1,22.59,8.33,106.95,9.23,340.35,9.3,221.22
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,1.5,22.26,8.04,69.03,6,346.94,8.25,225.47
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,2,22.01,7.79,28.45,2.48,351.47,8.12,228.43
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,2.5,21.71,7.67,11.04,0.97,357.52,5.7,232.42
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,3,21.29,7.54,6.03,0.53,368.04,4.83,239.24
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,3.5,20.63,7.25,3.89,0.35,395.65,6.46,257.26
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,4,19.53,6.82,2.97,0.27,575.87,13.1,374.42
+(20) Central Park Lake (Jones),Central Park Lake,9/16/2019,10:15:00 AM,4.5,17.75,6.63,2.31,0.22,780.16,21.75,507
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,0,21.73,8.2,94.61,8.31,298.3,14.71,194
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,0.5,21.67,8.25,96.28,8.47,302.44,15.63,197
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,1,21.59,8.27,97.29,8.57,302.56,14.11,197
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,1.5,21.56,8.28,98.33,8.67,302.68,13.84,197
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,2,21.5,8.3,98.96,8.73,302.7,13.92,197
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,2.5,21.5,8.32,99.25,8.76,302.77,14.16,197
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,3,21.47,8.34,99.15,8.75,302.83,14.41,197
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,3.5,21.44,8.34,98.88,8.73,302.95,14.54,197
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,4,21.43,8.35,98.16,8.67,303.21,14.88,197
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,4.5,21.37,8.34,96.7,8.55,303.51,15.06,197
+(21) Clear Lake (Cerro Gordo),Clear Lake,9/24/2019,2:40:00 PM,5,21.33,8.34,95.36,8.44,303.78,15.75,197.2
+(22) Cold Springs Lake (Cass),Cold Springs Lake,9/9/2019,1:35:00 PM,0,24.07,7.81,90.9,7.59,207.18,2.3,134.8
+(22) Cold Springs Lake (Cass),Cold Springs Lake,9/9/2019,1:35:00 PM,0.5,23.91,7.85,85.37,7.19,258.93,1.66,168
+(22) Cold Springs Lake (Cass),Cold Springs Lake,9/9/2019,1:35:00 PM,1,23.87,7.85,82,6.91,258.8,1.19,168
+(22) Cold Springs Lake (Cass),Cold Springs Lake,9/9/2019,1:35:00 PM,1.5,23.71,7.84,75.06,6.35,258.68,0.66,168
+(22) Cold Springs Lake (Cass),Cold Springs Lake,9/9/2019,1:35:00 PM,2,23.56,7.83,73.5,6.23,258.67,0.6,168
+(22) Cold Springs Lake (Cass),Cold Springs Lake,9/9/2019,1:35:00 PM,2.5,23.37,7.82,70.88,6.03,258.72,0.71,168
+(22) Cold Springs Lake (Cass),Cold Springs Lake,9/9/2019,1:35:00 PM,3,23.22,7.7,62.74,5.36,260.12,0.83,169
+(22) Cold Springs Lake (Cass),Cold Springs Lake,9/9/2019,1:35:00 PM,3.5,23.08,7.59,49.01,4.19,265.21,1.02,172.29
+(22) Cold Springs Lake (Cass),Cold Springs Lake,9/9/2019,1:35:00 PM,4,22.87,7.49,39.52,3.39,274.04,2.6,178
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,0,25.28,8.52,99.53,8.17,260.54,3.08,169.33
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,0.5,24.8,8.78,105.29,8.72,388.29,8.19,252.38
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,1,24.55,8.8,107.1,8.92,389.5,9.99,253
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,1.5,24.5,8.81,108.4,9.03,389.24,10.01,253
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,2,24.46,8.82,109.06,9.09,388.91,9.99,253
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,2.5,24.44,8.82,109.57,9.14,388.75,10.14,253
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,3,24.42,8.82,107.88,9.01,388.72,10.41,253
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,3.5,24.12,8.28,60.41,5.06,393.49,8.45,255.9
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,4,23.42,7.88,15.51,1.32,411.51,3.65,267.4
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,4.5,22.83,7.69,7.64,0.66,426.37,1.68,277
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,5,21.22,7.5,5.92,0.52,451.01,1.33,293.22
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,5.5,20.53,7.45,4.05,0.36,472.85,1.31,307.27
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,6,18.81,7.41,3.15,0.29,504.75,1.42,328.18
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,6.5,18.15,7.36,2.66,0.25,523.28,1.5,340
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,7,16.67,7.24,2.14,0.21,547.54,1.58,355.86
+(24) Crawford Creek Impoundment (Ida),Crawford Creek Impoundment,8/19/2019,10:42:00 AM,7.5,15.9,7.13,1.78,0.18,571.12,3.06,371.09
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,0,22.41,8.64,106.71,9.25,277.78,46.15,180.64
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,0.5,22.33,8.7,110.14,9.56,280.94,47.1,183
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,1,22.33,8.72,111.12,9.65,280.9,44.36,183
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,1.5,22.31,8.75,112,9.73,280.92,40.51,183
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,2,22.28,8.77,112.33,9.76,281,39.34,183
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,2.5,22.28,8.79,112.48,9.77,281.1,44.43,183
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,3,22.28,8.8,112.34,9.76,281.23,40.92,183
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,3.5,22.28,8.8,111.87,9.72,281.35,38.16,183
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,4,22.28,8.8,111.5,9.69,281.4,40.63,183
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,4.5,22.26,8.77,108.78,9.45,281.5,32.13,183
+(25) Crystal Lake (Hancock),Crystal Lake,9/24/2019,4:08:00 PM,5,22.17,8.63,100.6,8.75,282.1,37.07,183
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,0,23.25,8.01,88.3,7.53,659.3,10.72,428.5
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,0.5,23.6,8.01,84.29,7.14,655.28,10.56,425.88
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,1,23.69,8.01,80.57,6.81,654.13,10.23,425
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,1.5,23.63,8.01,78.84,6.67,654.5,10.45,425
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,2,23.6,8.01,77.08,6.53,654.62,10.71,425.4
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,2.5,23.56,8.01,75.76,6.42,654.7,10.9,426
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,3,23.56,8.01,74.54,6.32,654.8,11.07,426
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,3.5,23.56,8.01,73.77,6.26,654.83,11.13,426
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,4,23.54,8,73.06,6.19,654.93,11.72,426
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,4.5,23.5,8,72.18,6.12,655.05,13.06,426
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,5,23.46,7.99,70.54,5.99,655.24,16.61,426
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,5.5,23.44,7.99,68.83,5.84,655.4,19.94,426
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,6,23.44,7.98,67.87,5.76,655.4,19.69,426
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,6.5,23.44,7.98,66.86,5.68,655.46,21.49,426
+(28) DeSoto Bend (Harrison),DeSoto Bend,9/10/2019,11:27:00 AM,7,23.42,7.97,65.88,5.6,655.52,23.15,426
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,0,27.25,8.56,140.24,11.12,278.78,13.86,181
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,0.5,26.31,8.59,141.77,11.42,283.17,14.14,183.83
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,1,25.07,8.56,134.71,11.11,285.37,14.2,185.5
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,1.5,24.83,8.34,113.81,9.42,283.43,11.84,184.29
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,2,24.46,8.11,86,7.17,286.57,8.04,186.17
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,2.5,24.03,8,58.9,4.95,289.79,4.84,188.29
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,3,23.58,7.86,38.73,3.28,291.81,3.38,189.71
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,3.5,23.07,7.76,24.33,2.08,295.01,5.89,191.86
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,4,22.56,7.61,15.58,1.35,303.8,18.31,197.67
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,4.5,21.27,7.45,11.52,1.02,324.54,23.95,211.2
+(29) Diamond Lake (Poweshiek),Diamond Lake,9/18/2019,1:58:00 PM,5,20.78,7.27,10.24,0.91,378.24,23.97,245.6
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,0,23.5,8.54,140.05,11.89,413.33,13.63,268.88
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,0.5,23.6,8.56,147.57,12.51,413.04,13.19,268.29
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,1,23.61,8.59,149.18,12.64,413.08,13.49,268
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,1.5,23.61,8.6,150.67,12.76,413.1,13.49,268
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,2,23.61,8.61,152.57,12.93,413.1,13.65,269
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,2.5,23.02,8.5,146.32,12.49,417.2,12.83,271.33
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,3,21.05,8.06,98.52,8.75,438.9,8.43,285.17
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,3.5,20.67,7.76,53.1,4.76,450.11,4.3,292.63
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,4,19.64,7.42,25.4,2.31,508.1,5.89,330.3
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,4.5,17.98,7.14,14.11,1.33,622.24,11.36,404.56
+(30) Dog Creek Lake (Obrien),Dog Creek Lake,9/3/2019,4:07:00 PM,5,15.76,6.91,10.67,1.05,692.57,16.78,450.3
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,0,26.19,8.53,131.73,10.64,459.17,9.49,298.67
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,0.5,25.78,8.52,131.68,10.71,460.47,2.32,299.2
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,1,25.39,8.5,130.64,10.7,461.01,2.66,300
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,1.5,25.19,8.49,130.7,10.75,460.02,2.65,299
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,2,24.92,8.27,105.87,8.75,462.44,2.48,300.57
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,2.5,24.42,8.05,74.02,6.17,473.39,2.3,307.62
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,3,24.23,7.95,57.24,4.79,478.4,2.2,311.13
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,3.5,23.93,7.83,33.11,2.79,483.69,2.18,314.33
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,4,23.64,7.79,19.52,1.65,488.97,2.07,317.83
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,4.5,23.44,7.76,12.1,1.03,492.15,2.23,319.9
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,5,22.07,7.72,7.85,0.68,507.5,2.41,329.75
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,5.5,19.09,7.6,6.31,0.58,552.81,2.16,359.13
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,6,15.33,7.6,4.6,0.46,621.98,1.54,404.25
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,6.5,13.2,7.61,3.51,0.37,659.56,1.02,428.71
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,7,12.72,7.61,2.93,0.31,655.58,0.78,426.5
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,7.5,12.29,7.61,2.55,0.27,648.77,0.77,421.67
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,8,11.57,7.61,2.21,0.24,646.76,0.76,420.29
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,8.5,10.99,7.6,2.04,0.22,649.32,1.02,422.2
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,9,10.56,7.58,1.89,0.21,654.3,1.38,425.29
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,9.5,10.22,7.47,1.76,0.2,660.58,1.47,429.4
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,10,9.95,7.39,1.65,0.19,669.6,1.66,435
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,10.5,9.75,7.35,1.58,0.18,679.9,2.36,442
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,11,9.49,7.18,1.44,0.16,699.56,7.95,454.8
+(31) Don Williams Lake (Boone),Don Williams Lake,8/20/2019,2:34:00 PM,11.5,9.35,7.11,1.4,0.16,710.13,14.74,461.33
+(32) East Lake (Osceola) (Clarke),East Lake (Osceola),8/27/2019,1:36:00 PM,0,25.19,9.08,135.1,11.12,184.55,42.35,120
+(32) East Lake (Osceola) (Clarke),East Lake (Osceola),8/27/2019,1:36:00 PM,0.5,25.05,9.03,126.96,10.47,187.6,40.59,122
+(32) East Lake (Osceola) (Clarke),East Lake (Osceola),8/27/2019,1:36:00 PM,1,24.34,8.83,102.72,8.58,189.39,34.66,123.1
+(32) East Lake (Osceola) (Clarke),East Lake (Osceola),8/27/2019,1:36:00 PM,1.5,23.72,8.48,72.2,6.1,191.17,28.08,124.29
+(32) East Lake (Osceola) (Clarke),East Lake (Osceola),8/27/2019,1:36:00 PM,2,23.06,8.1,36.15,3.09,194.56,17.58,126.5
+(32) East Lake (Osceola) (Clarke),East Lake (Osceola),8/27/2019,1:36:00 PM,2.5,22.43,7.86,16.09,1.4,201.65,16.5,131.1
+(32) East Lake (Osceola) (Clarke),East Lake (Osceola),8/27/2019,1:36:00 PM,3,21.94,7.38,12.83,1.12,287.11,12.48,186.67
+(32) East Lake (Osceola) (Clarke),East Lake (Osceola),8/27/2019,1:36:00 PM,3.5,19.83,6.62,6.47,0.59,479.6,12.83,311.71
+(32) East Lake (Osceola) (Clarke),East Lake (Osceola),8/27/2019,1:36:00 PM,4,18.39,6.52,4.6,0.43,624.7,14.57,406
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,0,21.71,8.35,96.05,8.44,441.03,8.86,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,0.5,21.72,8.36,95.65,8.4,441.15,13.16,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,1,21.72,8.37,95.43,8.38,441.2,16.48,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,1.5,21.77,8.37,95.16,8.35,441.3,16.21,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,2,21.78,8.38,94.83,8.32,441.4,17.55,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,2.5,21.78,8.38,94.73,8.31,441.47,15.84,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,3,21.78,8.39,94.5,8.29,441.5,17.76,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,3.5,21.78,8.4,94.3,8.27,441.6,17.58,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,4,21.78,8.41,94.1,8.25,441.63,17.13,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,4.5,21.78,8.41,93.85,8.23,441.7,17.58,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,5,21.83,8.41,93.6,8.21,441.75,15.56,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,5.5,21.83,8.41,93.38,8.19,441.8,14.69,287
+(33) East Okoboji Lake (Dickinson),East Okoboji Lake,9/3/2019,10:06:00 AM,6,21.83,8.41,93.13,8.16,441.8,17.04,287
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,0,25.71,8.36,115.55,9.42,277.23,2.91,180.17
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,0.5,25.47,8.38,120.9,9.89,331.95,2.93,216
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,1,25.33,8.39,122.2,10.03,331.37,2.98,215.33
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,1.5,25.04,8.39,123.18,10.15,331.13,3.05,215
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,2,23.56,8.23,123.07,10.35,336.37,2.96,218.33
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,2.5,23.13,8.14,118.07,10.09,338.33,2.9,220
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,3,23,7.88,104.78,8.97,335.98,2.87,218.2
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,3.5,22.83,7.63,83.77,7.2,367.33,3.05,238.67
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,4,20.76,7.26,62.94,5.57,659.84,4.02,428.8
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,4.5,18.54,7.16,46.5,4.31,916.85,5.35,595.75
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,5,16.19,7.11,37.16,3.63,1067.76,6.25,694
+(34) Easter Lake (Polk),Easter Lake,8/29/2019,4:31:00 PM,5.5,15.22,7.01,28.9,2.89,1150.23,5.87,747.5
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,0,22.96,7.63,85.53,7.34,389.68,6.26,253.25
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,0.5,23.05,7.68,84.33,7.22,430.61,5.19,280
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,1,23.1,7.74,82.44,7.05,431.46,4.68,280.21
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,1.5,22.89,7.61,61.05,5.24,438.61,4.81,285.1
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,2,21.98,7.41,27.97,2.44,455.31,4.5,296
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,2.5,19.51,7.21,15.06,1.38,485.29,5.65,315.5
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,3,18.17,6.95,11.06,1.04,606.4,8.61,394
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,3.5,16.26,6.78,8.08,0.79,683.13,7.27,444.06
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,4,15,6.73,5.01,0.5,733.55,6.66,476.88
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,4.5,14.15,6.69,3.86,0.4,759.2,6.9,493.43
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,5,12.19,6.66,3.24,0.35,812.1,7.34,528
+(35) Eldred Sherwood Lake (Hancock),Eldred Sherwood Lake,9/22/2019,8:50:00 AM,5.5,11.82,6.61,2.7,0.29,862.26,9.25,560.38
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,0,25.22,8.73,144.43,11.88,394.7,31.21,256.57
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,0.5,23.84,8.75,156.93,13.23,401.38,31.15,261
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,1,22.72,8.62,144.03,12.4,393.27,30.33,255.56
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,1.5,22.17,8.48,117.98,10.26,385.93,21.6,251
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,2,21.75,8.4,93.39,8.19,391.47,23.83,254.46
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,2.5,21.58,8.37,84.8,7.46,393.34,25.79,255.78
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,3,21.43,8.38,87.61,7.74,391.26,26.22,254.36
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,3.5,21.39,8.41,89.32,7.9,390.5,28.17,254
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,4,21.34,8.41,88.7,7.85,391.06,27.2,254
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,4.5,21.31,8.4,86.78,7.68,391.8,27.13,255
+(36) Five Island Lake (Palo Alto),Five Island Lake,9/4/2019,4:15:00 PM,5,21.28,8.39,85.3,7.55,392.33,29.36,255
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,0,23.06,7.94,78.6,6.73,219.75,5.83,143
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,0.5,23.06,7.89,71.44,6.12,219.54,6.49,143
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,1,23.06,7.84,64.53,5.53,219.44,6.8,143
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,1.5,23.06,7.75,62.53,5.36,219.4,6.7,143
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,2,23.09,7.7,60.62,5.19,219.45,6.61,143
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,2.5,23.06,7.66,46.38,3.97,220.23,7.03,143.17
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,3,23.01,7.53,26.73,2.29,222.39,7.35,144.43
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,3.5,22.52,7.45,16.21,1.4,228.11,6.27,148.29
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,4,20.38,7.22,10.45,0.94,248.78,4.89,161.67
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,4.5,18.77,7.03,8.82,0.82,279.9,4.38,182
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,5,17.36,6.87,7.23,0.69,321.06,4.52,208.43
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,5.5,15.67,6.81,5.51,0.54,361.93,5.21,235.14
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,6,14.89,6.73,4.55,0.46,386,6.5,251
+(37) Fogle Lake S.W.A. (Ringgold),Fogle Lake S.W.A.,9/9/2019,7:11:00 AM,6.5,14.7,6.66,3.9,0.4,404.9,8.86,263.17
+(38) George Wyth Lake (Black Hawk),George Wyth Lake,9/23/2019,10:10:00 AM,0,21.89,7.84,70.43,6.16,413.43,16.95,269
+(38) George Wyth Lake (Black Hawk),George Wyth Lake,9/23/2019,10:10:00 AM,0.5,21.89,7.82,69.72,6.1,413.62,17.14,269
+(38) George Wyth Lake (Black Hawk),George Wyth Lake,9/23/2019,10:10:00 AM,1,21.89,7.83,68.59,6,413.79,16.7,269
+(38) George Wyth Lake (Black Hawk),George Wyth Lake,9/23/2019,10:10:00 AM,1.5,21.89,7.81,66.06,5.78,414.14,16.15,269
+(38) George Wyth Lake (Black Hawk),George Wyth Lake,9/23/2019,10:10:00 AM,2,21.84,7.78,59.96,5.25,414.61,15.7,269.43
+(38) George Wyth Lake (Black Hawk),George Wyth Lake,9/23/2019,10:10:00 AM,2.5,21.78,7.65,45.33,3.97,418.4,12.22,272
+(38) George Wyth Lake (Black Hawk),George Wyth Lake,9/23/2019,10:10:00 AM,3,21.65,7.52,18.99,1.67,425.23,8.26,276.36
+(38) George Wyth Lake (Black Hawk),George Wyth Lake,9/23/2019,10:10:00 AM,3.5,21.47,7.45,7.95,0.7,429.07,7.81,278.93
+(38) George Wyth Lake (Black Hawk),George Wyth Lake,9/23/2019,10:10:00 AM,4,20.71,7.32,4.92,0.44,440.68,6.16,286.53
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,0,22.39,7.88,98.33,8.52,638.67,7.75,415.14
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,0.5,22.57,7.94,96.06,8.29,758.66,6.48,493
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,1,22.62,7.96,94.42,8.14,758.98,3.94,493
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,1.5,22.67,7.97,93.2,8.03,759.4,3.75,494
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,2,22.67,7.98,92.32,7.95,759.8,3.7,494
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,2.5,22.67,8,91.42,7.88,760.32,3.76,494
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,3,22.67,8.01,89.52,7.71,761.28,4.04,494.83
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,3.5,22.64,7.91,81.28,7.01,763.14,4.78,496
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,4,22.58,7.84,69.3,5.98,765.15,5.36,497.5
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,4.5,22.48,7.76,49.6,4.29,767.22,5.74,498.6
+(39) Green Belt Lake (Black Hawk),Green Belt Lake,9/25/2019,12:04:00 PM,5,22.29,7.63,34.15,2.96,769.38,9.63,500.25
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,0,23.78,8.82,101.36,8.56,278.65,-0.7,180.88
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,0.5,23.83,8.88,101.98,8.61,281.38,-0.68,183
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,1,23.83,8.9,102.59,8.66,280.93,-0.66,183
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,1.5,23.83,8.92,100.9,8.51,281.16,-0.65,183
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,2,23.41,8.69,72.09,6.13,286.51,-0.39,186.25
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,2.5,22.58,8.49,41.39,3.57,295.31,0.7,191.88
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,3,21.97,8.11,24.16,2.11,316.75,2.53,205.75
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,3.5,19.68,7.59,16.58,1.5,476.4,6.2,309.67
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,4,17.39,7.27,11.36,1.08,539.09,11.64,350.63
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,4.5,16.27,7.09,9.57,0.94,560.93,12.24,364.57
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,5,14.25,7,7.56,0.77,583.81,8.58,379.57
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,5.5,13.63,6.95,6.01,0.62,588.89,6.36,382.71
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,6,12.97,6.88,4.81,0.5,641.66,6.59,416.88
+(40) Green Castle Lake (Marshall),Green Castle Lake,9/18/2019,7:27:00 AM,6.5,12.12,6.78,3.95,0.42,725.01,11.1,471.25
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,0,22.94,8.83,73.4,6.3,192.63,29.33,125
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,0.5,22.94,8.82,72.7,6.24,192.55,29.19,125
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,1,23,8.81,71.36,6.12,192.43,30,125
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,1.5,23,8.79,69.66,5.97,192.4,31.27,125
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,2,23,8.77,68.85,5.91,192.4,26.54,125
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,2.5,23,8.77,68.38,5.87,192.4,31.02,125
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,3,22.96,8.76,67.62,5.8,192.48,30.55,125
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,3.5,22.94,8.75,63.08,5.41,192.78,27,125
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,4,22.9,8.72,61.02,5.24,193.12,23.99,125.8
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,4.5,22.89,8.7,57.08,4.9,193.46,27.74,126
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,5,22.88,8.67,55.37,4.76,193.95,24.86,126
+(41) Green Valley Lake (Union),Green Valley Lake,9/8/2019,1:00:00 PM,5.5,22.8,8.45,48.23,4.15,195.11,28.6,126.71
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,0,22.41,8.25,96.53,8.38,238.63,5.08,155
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,0.5,22.67,8.25,94.57,8.16,238.37,5.86,155
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,1,22.82,8.26,93.28,8.03,237.73,6.29,154.5
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,1.5,23.13,8.28,91.98,7.87,236.28,7.25,153.5
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,2,23.17,8.28,90.15,7.71,236.05,7.41,153
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,2.5,23.17,8.29,89.05,7.61,236,7.43,153
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,3,23.17,8.3,88.55,7.57,236.1,7.4,153
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,3.5,23.17,8.3,88.03,7.52,236.28,7.42,154
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,4,23.14,8.09,78.23,6.69,237.7,7.27,154.5
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,4.5,22.92,7.84,50.42,4.33,244.76,6.3,159
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,5,21.16,7.56,30.74,2.72,269.6,5.15,175
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,5.5,20.5,7.29,17.93,1.61,341.21,4.45,221.67
+(42) Greenfield Lake (Adair),Greenfield Lake,9/8/2019,10:45:00 AM,6,20.28,7.2,14.8,1.34,346.9,7.42,226
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,0,23.41,8.39,97.28,8.27,251.06,17.25,163
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,0.5,23.08,8.39,83.5,7.14,252.44,17.55,164.25
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,1,22.64,8.35,68.64,5.92,254.34,16.17,165.22
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,1.5,22.53,8.21,60.88,5.27,254.96,15.54,166
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,2,22.48,8.2,55,4.76,255.4,15,166
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,2.5,22.42,8.13,47.84,4.15,256.04,14.34,166.38
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,3,22.32,7.91,30.74,2.67,258.61,12.42,168.14
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,3.5,21.65,7.61,13.69,1.2,278.7,7.37,181.06
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,4,20.4,7.18,6.78,0.61,362.57,8.56,235.67
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,4.5,18.77,6.78,4.5,0.42,496.06,11.28,322.54
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,5,17.12,6.65,3.35,0.32,582.19,12.54,378.5
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,5.5,15.8,6.58,2.66,0.26,626.74,13.64,407.44
+(43) Hannen Lake (Benton),Hannen Lake,9/15/2019,12:25:00 PM,6,15.36,6.5,2.25,0.23,662.7,15.37,431
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,0,25.72,8.52,103.54,8.44,180.26,5.96,117.38
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,0.5,25.37,8.55,106.16,8.7,204.31,7.38,133
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,1,25.08,8.56,105.62,8.71,204.73,7.93,133
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,1.5,24.72,8.45,95.42,7.92,205.3,7.95,133.33
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,2,24.39,8.3,80.49,6.72,206.21,7.66,134
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,2.5,24.21,8.1,61.56,5.16,207.34,7.24,135
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,3,24.03,7.98,42.78,3.6,208.15,6.72,135
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,3.5,23.62,7.85,25.03,2.12,209.01,5.59,136
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,4,23.02,7.78,15.8,1.35,211.68,3.97,137.5
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,4.5,22.54,7.64,9.73,0.84,217.54,3.15,141.29
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,5,21.94,7.55,8.34,0.73,228.61,2.97,148.57
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,5.5,20.04,7.34,7.11,0.65,268.36,3.06,174.29
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,6,19,7.15,5.8,0.54,336.08,3.21,218.6
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,6.5,17.89,7.05,4.83,0.46,362.07,3.43,235.33
+(44) Hawthorne Lake (Mahaska),Hawthorne Lake,9/18/2019,12:45:00 PM,7,16.6,6.9,4.03,0.39,390.73,5.34,254
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,0,23.8,7.71,77.78,6.57,237.25,4.84,154
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,0.5,23.83,7.7,75.41,6.36,237.16,5.01,154
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,1,23.79,7.68,68.23,5.76,237.2,5.12,154
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,1.5,23.6,7.54,61.7,5.23,237.27,5.24,154
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,2,23.28,7.5,55.45,4.73,237.76,5.77,154.5
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,2.5,23.05,7.49,52.56,4.5,238.46,6.28,155
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,3,22.9,7.43,44.74,3.84,239.19,6.42,155.43
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,3.5,21.72,7.13,27.63,2.42,266.51,7.57,173.25
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,4,19.69,6.93,16.02,1.46,343.86,9.08,223.6
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,4.5,17.44,6.77,9.59,0.91,401.5,9.45,260.88
+(46) Hooper Area Pond (Warren),Hooper Area Pond,8/27/2019,4:10:00 PM,5,16.53,6.71,7.9,0.77,475.2,10.99,308.75
+(47) Indian Lake (Van Buren),Indian Lake,8/26/2019,11:57:00 AM,0,24.05,8.32,91.21,7.69,151.23,15.37,98.14
+(47) Indian Lake (Van Buren),Indian Lake,8/26/2019,11:57:00 AM,0.5,24.94,7.95,73.68,6.09,257.26,13.65,167
+(47) Indian Lake (Van Buren),Indian Lake,8/26/2019,11:57:00 AM,1,24.94,7.79,70.28,5.81,257.08,13.62,167
+(47) Indian Lake (Van Buren),Indian Lake,8/26/2019,11:57:00 AM,1.5,24.92,7.75,64.83,5.36,257,13.87,167
+(47) Indian Lake (Van Buren),Indian Lake,8/26/2019,11:57:00 AM,2,24.89,7.71,59.12,4.89,257.12,14.78,167
+(48) Ingham Lake (Emmet),Ingham Lake,9/4/2019,2:30:00 PM,0,25.83,8.7,134.54,10.94,398.08,30.06,258.6
+(48) Ingham Lake (Emmet),Ingham Lake,9/4/2019,2:30:00 PM,0.5,23.17,8.74,147.14,12.56,414.03,32.92,269.3
+(48) Ingham Lake (Emmet),Ingham Lake,9/4/2019,2:30:00 PM,1,22.24,8.76,149.96,13.03,406.08,32.45,263.92
+(48) Ingham Lake (Emmet),Ingham Lake,9/4/2019,2:30:00 PM,1.5,21.63,8.68,130.15,11.44,406.47,30.75,264.13
+(48) Ingham Lake (Emmet),Ingham Lake,9/4/2019,2:30:00 PM,2,21.31,8.59,110.13,9.74,407.66,29.28,265.11
+(48) Ingham Lake (Emmet),Ingham Lake,9/4/2019,2:30:00 PM,2.5,21.11,8.56,100.8,8.95,409.1,27.52,266
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,0,24.22,8.29,111.63,9.35,290.66,3.56,189
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,0.5,23.53,8.32,104.75,8.88,293.06,4.23,190.45
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,1,23.21,8.26,93.73,8,295.35,4.41,191.79
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,1.5,23.1,8.22,89.71,7.68,295.37,4.4,191.8
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,2,23.02,8.25,92.99,7.97,292.26,4.26,190
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,2.5,22.93,8.11,77.3,6.63,292.37,4.16,190.11
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,3,22.68,7.66,39.99,3.45,304.7,3.84,197.92
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,3.5,22.05,7.16,16.54,1.44,400.15,7.16,260.15
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,4,21.11,6.87,9.3,0.83,600.88,9.69,390.5
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,4.5,19.41,6.7,7.89,0.72,764.47,6.77,497
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,5,18.43,6.66,6.23,0.58,937.71,3.72,609.5
+(49) Kent Park Lake (Johnson),Kent Park Lake,9/15/2019,2:05:00 PM,5.5,16.82,6.66,4.98,0.48,1097.28,6.19,713.2
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,0,24.37,8.28,94.25,7.89,152.1,1.82,98.88
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,0.5,24.89,8.1,88.5,7.32,237.06,0.99,154
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,1,24.87,8.07,84.27,6.98,236.93,1.34,154
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,1.5,24.83,8.03,82.69,6.85,236.98,1.61,154
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,2,24.78,7.99,82.11,6.81,237.13,1.93,154
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,2.5,24.73,7.93,80.55,6.68,237.43,2.41,154
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,3,24.34,7.81,63.15,5.26,238.47,3.2,154.67
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,3.5,20.81,7.63,34.9,3.1,246.82,4.68,160.33
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,4,17.42,7.47,18.56,1.76,248.62,8.34,161.6
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,4.5,15.42,7.31,13.55,1.34,245.5,12.94,159.5
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,5,14.14,7.25,8.25,0.84,243.1,16.8,157.83
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,5.5,13.54,7.19,6.1,0.63,244,17.57,158.57
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,6,13.05,7.05,5.3,0.55,254.55,16.05,165.5
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,6.5,12.58,7.02,4.42,0.47,268.16,14.93,174.2
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,7,12.31,6.99,3.71,0.4,281.91,14.53,183.29
+(50) Lacey Keosauqua Park Lake (Van Buren),Lacey Keosauqua Park Lake,8/26/2019,12:50:00 PM,7.5,12.17,6.8,3.4,0.36,389.6,15.06,253
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,0,23.98,7.64,73.54,6.19,234.82,9.04,152.86
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,0.5,24.01,7.61,63.44,5.33,234.74,4.33,153
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,1,23.99,7.59,58,4.88,234.58,4.38,152.25
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,1.5,23.94,7.57,56.39,4.75,234.5,4.46,152
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,2,23.83,7.54,50.07,4.23,234.53,4.55,152
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,2.5,23.69,7.5,46.1,3.9,234.69,4.69,152.88
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,3,23.56,7.41,36.93,3.13,235.2,4.8,153
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,3.5,23.39,7.32,23.96,2.04,238.34,5.27,154.88
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,4,23.13,7.26,15.92,1.36,247.15,5.97,160.8
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,4.5,22.06,7.06,9.11,0.79,270.94,5.94,176.38
+(51) Lake Ahquabi (Warren),Lake Ahquabi,8/27/2019,3:30:00 PM,5,20.04,6.86,7.12,0.65,351.58,7.04,228.5
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,0,22.92,8.09,90.43,7.77,248.65,12.96,162
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,0.5,22.97,8.14,92.65,7.95,248.7,13.7,162
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,1,23,8.22,93.8,8.04,248.53,14.05,162
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,1.5,23.06,8.28,94.8,8.13,248.5,14.69,162
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,2,23.06,8.3,95.93,8.22,248.55,14.66,162
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,2.5,23.06,8.31,97.28,8.33,248.75,14.63,162
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,3,23.06,8.31,97.4,8.34,249.03,14.45,162
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,3.5,23,8.18,81.33,6.97,249.6,13.89,162
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,4,22.89,8.04,67.4,5.79,250.7,13.23,163
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,4.5,22.72,7.97,51.97,4.48,252.1,12.12,164
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,5,22.54,7.8,36.3,3.13,254.07,10.43,165.33
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,5.5,22.14,7.71,19.54,1.7,260.24,7.55,169.2
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,6,21.28,7.65,12.87,1.14,271.23,4.96,176
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,6.5,18.96,7.43,7.85,0.72,330.73,3.39,215
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,7,18.17,7.38,6.7,0.63,360.03,2.8,234
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,7.5,16.82,7.34,6.03,0.58,373.28,3,242.5
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,8,16.24,7.24,5.53,0.54,382.95,3.31,248.75
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,8.5,15.93,7.14,4.8,0.47,390.03,3.61,253.75
+(52) Lake Anita (Cass),Lake Anita,9/8/2019,4:25:00 PM,9,15.76,6.95,3.8,0.38,402.1,8.24,261.38
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,0,23.06,8.2,90.73,7.77,323.3,10.73,210
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,0.5,23.11,8.21,90.06,7.7,323.44,10.6,210
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,1,23.11,8.21,89.64,7.66,323.76,10.84,210
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,1.5,23.11,8.22,89.16,7.62,323.95,10.92,211
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,2,23.17,8.22,88.59,7.57,324.07,11.14,211
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,2.5,23.12,8.22,87.94,7.52,324.25,11.63,211
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,3,23.11,8.22,87.01,7.44,324.4,11.31,211
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,3.5,23.11,8.23,86.65,7.41,324.35,11.84,211
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,4,23.11,8.23,87.04,7.45,324.25,11.51,211
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,4.5,23.11,8.23,86.71,7.42,324.74,11.93,211
+(53) Lake Cornelia (Wright),Lake Cornelia,9/22/2019,10:15:00 AM,5,23.11,8.21,85.77,7.34,325.5,31.59,211.67
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,0,25.75,8.8,124.21,10.11,220.39,54.94,143.14
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,0.5,25.69,8.87,133.9,10.92,224.43,57.07,146
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,1,25.6,8.9,139.79,11.42,224.4,55.6,146
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,1.5,25.52,8.94,140.64,11.51,224.46,56.72,146
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,2,25.48,8.99,141.35,11.57,224.56,55.88,146
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,2.5,25.44,9.03,141.86,11.62,224.6,57.42,146
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,3,25.44,9.05,142.1,11.64,224.6,53.31,146
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,3.5,25.26,9.03,140.21,11.52,225.43,37.36,146.44
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,4,23.84,8.68,93.41,7.88,233.13,18.23,151.5
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,4.5,23.44,8.3,46.81,3.97,241.18,15.64,156.89
+(54) Lake Darling (Washington),Lake Darling,9/17/2019,11:40:00 AM,5,21.39,7.76,25.19,2.22,331.71,11.16,215.57
+(56) Lake Hendricks (Howard),Lake Hendricks,9/24/2019,11:31:00 AM,0,20.96,8.37,104.15,9.28,210.46,16.53,136.67
+(56) Lake Hendricks (Howard),Lake Hendricks,9/24/2019,11:31:00 AM,0.5,20.65,8.46,113.28,10.16,250.33,17,163
+(56) Lake Hendricks (Howard),Lake Hendricks,9/24/2019,11:31:00 AM,1,20.47,8.47,114.84,10.34,250.89,17.33,163.13
+(56) Lake Hendricks (Howard),Lake Hendricks,9/24/2019,11:31:00 AM,1.5,20.27,8.29,110.58,9.99,254.73,16.85,165.67
+(56) Lake Hendricks (Howard),Lake Hendricks,9/24/2019,11:31:00 AM,2,19.83,7.91,86.68,7.89,272.44,14.46,176.75
+(56) Lake Hendricks (Howard),Lake Hendricks,9/24/2019,11:31:00 AM,2.5,19.2,7.73,54.32,5.01,299.49,11.88,194.78
+(56) Lake Hendricks (Howard),Lake Hendricks,9/24/2019,11:31:00 AM,3,18.91,7.61,38.32,3.56,312.28,11.07,203
+(56) Lake Hendricks (Howard),Lake Hendricks,9/24/2019,11:31:00 AM,3.5,18.57,7.52,28.84,2.69,321.54,10.79,209
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,0,23.94,8.74,119.8,10.09,206.4,28.03,134
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,0.5,23.98,8.73,120,10.1,206.4,32.01,134
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,1,24,8.72,120.1,10.11,206.5,29.75,134
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,1.5,23.96,8.71,117.83,9.92,206.6,31.17,134
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,2,23.94,8.5,108.65,9.15,206.9,30.15,134.5
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,2.5,23.91,8.45,104.37,8.8,207.4,19.97,135
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,3,23.82,8.41,96.85,8.17,208.2,20.39,135.25
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,3.5,23.76,8.4,95,8.03,208.97,19.96,136
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,4,23.72,8.39,94.23,7.97,209.33,20.95,136
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,4.5,23.68,8.38,93.6,7.92,209.48,19.01,136
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,5,23.67,8.36,90.9,7.7,209.6,17.1,136
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,5.5,23.65,8.22,83.83,7.1,210.05,13.21,136.5
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,6,23.54,7.97,53.13,4.51,212.35,16.96,137.75
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,6.5,22.54,7.63,26.68,2.3,232.82,35.37,151.4
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,7,20.82,7.31,15.15,1.35,304.65,47.23,198
+(57) Lake Icaria (Adams),Lake Icaria,9/8/2019,3:03:00 PM,7.5,20.5,7.11,12.28,1.1,316.2,43.37,205.75
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,0,24.89,8.62,111.63,9.24,223.1,9.09,145
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,0.5,24.85,8.65,117.49,9.73,226.19,8.72,147
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,1,24.76,8.66,118.76,9.85,226.34,8.97,147
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,1.5,24.65,8.68,119.45,9.93,226.32,9.18,147
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,2,24.15,8.5,100.88,8.46,228.14,9.56,148.25
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,2.5,23.58,8.23,67.36,5.71,231.44,8.97,150.4
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,3,23.21,8,34.1,2.91,233.69,7.11,151.9
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,3.5,22.82,7.82,16.76,1.44,237.73,5.08,154.44
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,4,22.43,7.69,11.36,0.98,244.11,3.74,158.71
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,4.5,20.81,7.52,9.69,0.86,268.06,3.11,174.43
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,5,19.17,7.26,7.61,0.7,351.17,3.09,228.43
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,5.5,17.55,7.04,6,0.57,384,3.39,249.5
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,6,16.94,6.99,5.02,0.48,401.1,3.85,260.8
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,6.5,16.4,6.93,4.23,0.41,426.13,4.32,276.86
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,7,15.62,6.81,3.54,0.35,449.56,4.82,292.43
+(58) Iowa Lake (Iowa),Iowa Lake,9/17/2019,2:55:00 PM,7.5,14.97,6.78,2.96,0.3,464.83,7.26,302.25
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,0,24.94,9.14,159.62,13.2,215.86,41.61,140
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,0.5,24.94,9.18,164.43,13.59,215.68,41.33,140
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,1,24.89,9.1,155.93,12.9,216.82,35.73,140.83
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,1.5,24.44,8.93,115,9.59,225.53,29.12,146.56
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,2,23.83,8.87,86.78,7.32,234.22,21.62,152.33
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,2.5,23.38,8.57,51.95,4.42,238.09,15.59,154.67
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,3,23.1,8.28,24.87,2.13,244.96,12.54,159.14
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,3.5,22.34,7.96,15.82,1.37,256.52,11,166.5
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,4,20.72,7.46,11.78,1.05,347.29,10.1,225.88
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,4.5,19.86,7.06,9.73,0.88,421,9.91,273.71
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,5,18.13,6.86,7.49,0.7,541.39,9.99,351.86
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,5.5,17.62,6.66,5.82,0.55,625.18,11.31,406.44
+(59) Lake Keomah (Mahaska),Lake Keomah,9/17/2019,8:35:00 AM,6,17.28,6.63,5.1,0.49,650.3,16.96,423
+(60) Lake Manawa (Pottawattamie),Lake Manawa,9/10/2019,2:27:00 PM,0,25.54,8.24,106.5,8.7,310.8,36.37,202
+(60) Lake Manawa (Pottawattamie),Lake Manawa,9/10/2019,2:27:00 PM,0.5,25.16,8.3,110.92,9.12,399.4,13.08,259.4
+(60) Lake Manawa (Pottawattamie),Lake Manawa,9/10/2019,2:27:00 PM,1,24.82,8.31,109.62,9.08,401.04,13.3,260.8
+(60) Lake Manawa (Pottawattamie),Lake Manawa,9/10/2019,2:27:00 PM,1.5,24.53,8.29,102.1,8.5,401.62,13.63,261
+(60) Lake Manawa (Pottawattamie),Lake Manawa,9/10/2019,2:27:00 PM,2,24.18,8.14,89.98,7.54,402.9,14.6,261.8
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,0,25.64,8.7,129.35,10.56,295,3.04,191.85
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,0.5,25.48,8.72,139.11,11.39,293.56,3.11,191
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,1,25.33,8.74,139.6,11.45,293.22,3.32,191
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,1.5,25.1,8.75,140.07,11.54,293.17,3.64,191
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,2,24.84,8.76,140.72,11.65,293.12,3.9,190.67
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,2.5,24.68,8.76,140.84,11.69,293.08,3.97,190.6
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,3,24.49,8.76,137.4,11.45,293.25,3.83,190.75
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,3.5,23.56,8.6,118,10,295.77,3.38,192.22
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,4,22.83,8.49,100.19,8.61,297.86,3.08,194
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,4.5,22.72,8.46,92.83,8,297.55,3.07,193
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,5,22.63,8.3,84.39,7.28,298.24,3.04,194
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,5.5,22.09,8.09,60.34,5.25,303.38,3.09,197.25
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,6,20.72,7.88,35.91,3.22,319.74,3.18,207.75
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,6.5,19.19,7.73,22.92,2.11,344.67,3.28,223.89
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,7,15.83,7.6,17.25,1.7,387.33,3.21,251.75
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,7.5,14.98,7.54,15.28,1.54,404.09,2.86,262.63
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,8,14.5,7.47,10.32,1.05,407.8,2.58,265
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,8.5,13.21,7.36,9.65,1.01,416.48,2.56,271
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,9,12.75,7.33,8.85,0.94,416.25,2.8,270.55
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,9.5,12.59,7.3,7.55,0.8,415.28,3,269.88
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,10,12.04,7.26,6.39,0.69,418.21,3.08,271.73
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,10.5,11.53,7.22,5.57,0.61,422.45,3.39,274.67
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,11,11.13,7.17,4.97,0.55,428.4,3.84,278.5
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,11.5,10.73,7.1,4.41,0.49,438.7,4.12,285.2
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,12,10.52,7.04,3.99,0.44,446.48,4.22,290.22
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,12.5,10.2,6.99,3.61,0.4,455.46,4.54,296.11
+(61) Lake MacBride (Johnson),Lake MacBride,9/16/2019,5:03:00 PM,13,9.9,6.94,3.3,0.37,469.24,5.31,305.14
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,0,20.79,7.63,83.55,7.47,483.05,1.24,314
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,0.5,20.78,7.62,79.89,7.14,483.1,1.26,314
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,1,20.77,7.62,78.55,7.03,483.33,1.2,314
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,1.5,20.72,7.62,76.93,6.89,483.24,1.17,314
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,2,20.72,7.63,75.74,6.78,483.04,1.18,314
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,2.5,20.72,7.63,74.78,6.69,482.98,1.15,314
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,3,20.63,7.56,67.5,6.05,486.73,1.18,316.29
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,3.5,20.39,7.47,47.37,4.27,500.6,1.24,325.43
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,4,20.03,7.44,34.02,3.09,516.28,1.28,335.5
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,4.5,19.72,7.42,24.15,2.2,528.07,1.48,343.17
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,5,19.31,7.4,16.93,1.56,540.2,2.43,351.25
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,5.5,18.85,7.37,13.15,1.22,552.44,4.61,359.13
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,6,18.08,7.35,11.14,1.05,570.9,6.15,371
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,6.5,16.51,7.23,8.68,0.84,648.7,7.16,421.5
+(62) Lake Meyer (Winneshiek),Lake Meyer,9/24/2019,9:23:00 AM,7,14.54,7,6.96,0.7,806.36,13.05,524.14
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,0,24.66,8.63,101.98,8.47,163.6,21.81,106.3
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,0.5,24.59,8.7,103.5,8.61,180.11,21.74,117
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,1,24.53,8.72,103.87,8.65,180.02,22.13,117
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,1.5,24.43,8.74,102.87,8.59,180.05,22.56,117
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,2,24.35,8.75,100.93,8.44,180.19,22,117
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,2.5,24.29,8.76,98.96,8.28,180.3,21.68,117
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,3,24.25,8.77,97.5,8.17,180.3,21.66,117
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,3.5,24.22,8.77,96.42,8.08,180.37,21.76,117
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,4,24.2,8.77,95.82,8.03,180.82,21.45,117.5
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,4.5,21.12,7.86,69.77,6.12,289.58,5.74,188.17
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,5,19.63,7.03,36.74,3.36,433.1,4.92,281.57
+(63) Lake Miami (Monroe),Lake Miami,8/29/2019,2:14:00 PM,5.5,19.26,6.87,24.5,2.26,457.23,7.65,297
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,0,22.6,8.23,97.92,8.44,285.5,4.65,185.67
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,0.5,22.11,8.49,101.5,8.85,426.09,10.04,277
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,1,22.06,8.5,102.7,8.96,425.3,11.29,276.5
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,1.5,22.02,8.5,102.86,8.98,424.94,11.21,276
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,2,22,8.5,102.04,8.91,424.9,10.98,276
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,2.5,22,8.5,101.02,8.83,425,10.74,276
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,3,21.98,8.49,100.15,8.75,425.1,10.75,276
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,3.5,21.94,8.49,99.45,8.69,425.18,10.97,276
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,4,21.94,8.46,98.83,8.64,425.27,11.59,276.17
+(64) Minnewashta Lake (Dickinson),Minnewashta Lake,9/3/2019,10:58:00 AM,4.5,21.9,8.25,86.76,7.59,426.54,17.44,277.4
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,0,22.57,7.89,90.45,7.83,184.28,5.79,120
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,0.5,22.94,7.91,83.8,7.2,182.88,7.54,118.8
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,1,23.32,7.92,77.86,6.64,181.52,9.37,118
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,1.5,23.39,7.92,75.33,6.41,181.33,9.48,118
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,2,23.37,7.83,66.84,5.69,181.9,8.76,118
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,2.5,23.33,7.72,51.63,4.4,183.71,7.35,119.43
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,3,23.23,7.54,30,2.56,187.44,6.08,121.8
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,3.5,22.52,7.45,19.4,1.67,195.1,5.42,126.8
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,4,20.6,7.19,14.05,1.26,239.48,5.51,155.75
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,4.5,18.33,6.92,9.59,0.9,308.19,6.01,200.38
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,5,16.93,6.83,8.4,0.81,331.23,6.35,215
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,5.5,15.47,6.7,7.38,0.73,355,5.94,230.67
+(66) Lake of Three Fires (Taylor),Lake of Three Fires,9/9/2019,9:05:00 AM,6,14.5,6.65,6,0.61,384.16,6.97,249.8
+(67) Orient Lake (Adair),Orient Lake,9/8/2019,2:00:00 PM,0,22.61,8.82,93.1,8.04,177.3,37.3,115
+(67) Orient Lake (Adair),Orient Lake,9/8/2019,2:00:00 PM,0.5,22.61,8.83,86.95,7.51,262.35,88.08,171
+(67) Orient Lake (Adair),Orient Lake,9/8/2019,2:00:00 PM,1,22.57,8.84,82.87,7.16,262.6,88.86,171
+(67) Orient Lake (Adair),Orient Lake,9/8/2019,2:00:00 PM,1.5,22.56,8.85,80.3,6.94,262.77,80.06,171
+(67) Orient Lake (Adair),Orient Lake,9/8/2019,2:00:00 PM,2,22.54,8.86,74.66,6.45,262.96,75.63,171
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,0,21.56,8.24,110.39,9.72,626.59,7.03,407.33
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,0.5,21.56,8.26,117.26,10.33,627.98,7.43,408
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,1,21.49,8.26,118.34,10.43,628.98,7.32,408.8
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,1.5,21.39,8.25,117.43,10.37,630.52,6.63,409.83
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,2,21.21,8.11,108.5,9.62,632.45,5.78,411.25
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,2.5,20.97,8.04,94.63,8.42,635.22,5.39,413
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,3,20.67,7.82,74.84,6.7,641.56,5.29,417.2
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,3.5,20.32,7.64,50.38,4.54,655.58,5.27,426.2
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,4,19.71,7.54,30.53,2.78,682.6,5.41,443.63
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,4.5,17.65,7.31,18.08,1.71,772.69,6.1,502.11
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,5,16.68,7.19,12.76,1.24,796.28,3.62,517.55
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,5.5,15.57,7.08,8.04,0.8,807.88,2.57,525.11
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,6,14.63,7.04,7.19,0.72,817.5,2.82,531.43
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,6.5,13.76,6.96,5.93,0.61,835.76,3.33,543.1
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,7,13.01,6.85,4.79,0.5,870.59,4.56,566.11
+(68) Lake Pahoja (Lyon),Lake Pahoja,9/3/2019,12:47:00 PM,7.5,12.44,6.72,4.04,0.43,921.81,8.11,599.14
+(69) Lake Smith (Kossuth),Lake Smith,9/5/2019,10:35:00 AM,0,21.4,8.19,81.97,7.24,350.54,8.37,227.71
+(69) Lake Smith (Kossuth),Lake Smith,9/5/2019,10:35:00 AM,0.5,21.35,8.18,79.28,7.01,351.03,8.73,228
+(69) Lake Smith (Kossuth),Lake Smith,9/5/2019,10:35:00 AM,1,21.3,8.17,74.4,6.59,350.99,7.04,228
+(69) Lake Smith (Kossuth),Lake Smith,9/5/2019,10:35:00 AM,1.5,21.2,8.14,69.69,6.18,351.45,7.52,228.4
+(69) Lake Smith (Kossuth),Lake Smith,9/5/2019,10:35:00 AM,2,21.17,8.1,65.3,5.8,351.88,7.72,229
+(69) Lake Smith (Kossuth),Lake Smith,9/5/2019,10:35:00 AM,2.5,21.17,8.07,64.45,5.72,351.84,8.73,229
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,0,23.56,7.73,77.62,6.59,174.62,3.36,113.4
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,0.5,23.58,7.68,71.34,6.05,174.52,3.35,113
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,1,23.66,7.65,69.2,5.87,174.5,3.33,113
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,1.5,23.67,7.6,67.99,5.76,174.4,3.29,113
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,2,23.67,7.57,67.2,5.69,174.4,3.2,113
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,2.5,23.67,7.55,66.67,5.64,174.4,3.06,113
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,3,23.7,7.53,66.46,5.62,174.4,3.05,113
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,3.5,23.72,7.52,66.4,5.62,174.4,3.03,113
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,4,23.72,7.51,66.33,5.61,174.4,2.97,113
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,4.5,23.72,7.51,66.3,5.61,174.4,2.98,113
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,5,23.68,7.5,66.3,5.62,174.54,3.04,113.25
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,5.5,22.57,7.35,52.29,4.5,180.86,3.67,117.71
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,6,19.18,7.09,27.8,2.54,204.75,4.39,133.17
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,6.5,17.53,6.97,16.21,1.55,236.68,4.32,154
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,7,16.73,6.92,9.53,0.93,254.11,3.63,165.11
+(70) Lake Sugema (Van Buren),Lake Sugema,8/28/2019,8:26:00 AM,7.5,15.85,6.84,7.56,0.75,265.5,4.92,172.67
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,0,23.74,7.72,92.65,7.84,188.23,2.47,122.25
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,0.5,23.92,7.69,88.02,7.42,187.73,2.56,122
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,1,23.9,7.67,87.15,7.35,187.58,2.66,122
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,1.5,23.89,7.66,86.56,7.3,187.5,2.66,122
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,2,23.85,7.65,86.08,7.26,187.5,2.7,122
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,2.5,23.81,7.64,85.01,7.18,187.51,2.85,122
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,3,23.67,7.61,79.67,6.74,187.61,2.95,122
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,3.5,23.57,7.57,78.05,6.62,187.62,2.76,122
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,4,23.53,7.54,76.8,6.52,187.62,2.76,122
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,4.5,22.61,7.27,54.09,4.65,192.28,4.11,124.88
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,5,18.54,7.05,26.56,2.46,216.19,5.68,140.43
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,5.5,17.44,7.01,15.5,1.48,227.15,5.56,147.67
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,6,16.65,6.98,11.12,1.08,233.52,5.11,151.67
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,6.5,15.75,6.95,7.1,0.7,243.14,4.97,158.14
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,7,15.24,6.92,6.14,0.61,250.64,4.78,163
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,7.5,14.7,6.89,4.97,0.5,257.5,4.79,167.43
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,8,14.16,6.88,4.01,0.41,266,5.06,172.86
+(71) Lake Wapello (Davis),Lake Wapello,8/28/2019,12:12:00 PM,8.5,13.73,6.86,3.32,0.35,276.09,5.98,179.44
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,0,23.9,8.57,86.77,7.33,185.87,10.6,120.86
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,0.5,24,8.67,77.08,6.48,185.2,9.19,120
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,1,24,8.71,74.42,6.26,185.2,7.93,120
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,1.5,24,8.76,70.63,5.94,185.33,8.2,120.13
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,2,24,8.79,67.93,5.72,185.44,7.83,121
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,2.5,23.99,8.8,66.61,5.61,185.56,8.3,121
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,3,23.94,8.81,64.55,5.44,185.7,7.9,121
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,3.5,23.94,8.81,63.67,5.36,185.77,8.15,121
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,4,23.94,8.81,62.84,5.3,185.8,7.44,121
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,4.5,23.94,8.82,63.3,5.33,185.78,8.41,121
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,5,23.9,8.84,63.57,5.36,185.7,7.85,121
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,5.5,23.89,8.85,63.52,5.35,185.75,7.45,121
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,6,23.89,8.85,63.44,5.35,185.8,6.73,121
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,6.5,22.37,7.9,22.7,1.95,218.81,5.7,142.26
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,7,21.27,7.33,4.66,0.41,249.93,3.57,162.39
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,7.5,18.4,7.1,2.38,0.22,278.81,2.62,181.24
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,8,18.07,7.04,2.17,0.21,283.29,2.59,184.2
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,8.5,17.28,6.89,1.79,0.17,297.36,2.84,193.4
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,9,16.71,6.86,1.6,0.16,308.01,2.9,200.27
+(72) Little River Watershed Lake (Decatur),Little River Watershed Lake,8/27/2019,10:52:00 AM,9.5,16.17,6.77,1.49,0.15,320.19,10.51,208.33
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,0,25.69,8.19,102.86,8.39,378.24,4.18,245.8
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,0.5,25.72,8.2,104.13,8.49,378.27,2.8,246
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,1,25.72,8.21,104.82,8.54,378.44,1.66,246
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,1.5,25.72,8.23,105.5,8.6,378.63,1.55,246
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,2,25.7,8.24,105.68,8.62,379.07,1.54,246.33
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,2.5,25.67,8.24,104.73,8.54,380.47,1.66,247.33
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,3,25.67,8.23,103.05,8.41,382.23,1.73,248.5
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,3.5,25.64,8.23,102.58,8.37,382.53,1.63,249
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,4,25.6,8.15,102.44,8.36,382.76,1.77,248.6
+(73) Little Sioux Park Lake (Woodbury),Little Sioux Park Lake,8/19/2019,9:22:00 AM,4.5,24.3,7.64,73.31,6.09,473.01,2.8,307.38
+(74) Little Spirit Lake (Dickinson),Little Spirit Lake,9/3/2019,9:11:00 AM,0,20.94,7.87,80.37,7.17,457.7,37.71,297.67
+(74) Little Spirit Lake (Dickinson),Little Spirit Lake,9/3/2019,9:11:00 AM,0.5,21.23,7.9,74.68,6.62,455.24,40.86,295.8
+(74) Little Spirit Lake (Dickinson),Little Spirit Lake,9/3/2019,9:11:00 AM,1,21.49,7.93,71.44,6.3,453.18,42.65,294.67
+(74) Little Spirit Lake (Dickinson),Little Spirit Lake,9/3/2019,9:11:00 AM,1.5,21.5,7.97,70.08,6.18,453.35,40.79,295
+(74) Little Spirit Lake (Dickinson),Little Spirit Lake,9/3/2019,9:11:00 AM,2,21.5,8.01,68.74,6.06,453.47,44.14,295
+(74) Little Spirit Lake (Dickinson),Little Spirit Lake,9/3/2019,9:11:00 AM,2.5,21.48,8.04,65.84,5.81,453.73,413.83,295
+(75) Little Wall Lake (Hamilton),Little Wall Lake,9/23/2019,3:40:00 PM,0,22.56,8.46,104.35,9.02,365.18,12.78,237.33
+(75) Little Wall Lake (Hamilton),Little Wall Lake,9/23/2019,3:40:00 PM,0.5,22.89,8.51,105.85,9.1,363.33,10.59,236
+(75) Little Wall Lake (Hamilton),Little Wall Lake,9/23/2019,3:40:00 PM,1,22.71,8.53,105.1,9.06,363.78,10.67,236.41
+(75) Little Wall Lake (Hamilton),Little Wall Lake,9/23/2019,3:40:00 PM,1.5,22.45,8.52,101.95,8.83,364.26,10.76,237
+(75) Little Wall Lake (Hamilton),Little Wall Lake,9/23/2019,3:40:00 PM,2,22.18,8.5,94.27,8.2,365.13,11.18,237.38
+(75) Little Wall Lake (Hamilton),Little Wall Lake,9/23/2019,3:40:00 PM,2.5,21.73,8.44,85.23,7.48,366.16,12.02,238
+(75) Little Wall Lake (Hamilton),Little Wall Lake,9/23/2019,3:40:00 PM,3,21.46,8.4,80.81,7.13,366.84,12.65,238.36
+(75) Little Wall Lake (Hamilton),Little Wall Lake,9/23/2019,3:40:00 PM,3.5,21.24,8.4,79.73,7.07,367.73,14.65,239
+(76) Littlefield Lake (Audubon),Littlefield Lake,9/8/2019,3:20:00 PM,0,22.61,8.69,94.85,8.2,261.65,10.59,170
+(76) Littlefield Lake (Audubon),Littlefield Lake,9/8/2019,3:20:00 PM,0.5,22.61,8.61,95.08,8.22,262.43,23.12,171
+(76) Littlefield Lake (Audubon),Littlefield Lake,9/8/2019,3:20:00 PM,1,22.65,8.52,94.87,8.19,262.3,29.73,170.67
+(76) Littlefield Lake (Audubon),Littlefield Lake,9/8/2019,3:20:00 PM,1.5,22.78,8.5,89.45,7.7,261.67,31.09,170
+(76) Littlefield Lake (Audubon),Littlefield Lake,9/8/2019,3:20:00 PM,2,22.76,8.48,85.28,7.34,261.88,31.48,170
+(76) Littlefield Lake (Audubon),Littlefield Lake,9/8/2019,3:20:00 PM,2.5,22.71,8.46,79.88,6.88,262.53,30.91,170.75
+(76) Littlefield Lake (Audubon),Littlefield Lake,9/8/2019,3:20:00 PM,3,22.6,8.29,68.64,5.93,263.8,29.79,171.4
+(76) Littlefield Lake (Audubon),Littlefield Lake,9/8/2019,3:20:00 PM,3.5,22.44,8.19,50.85,4.41,266.28,36.5,173
+(77) Lost Island Lake (Palo Alto),Lost Island Lake,9/4/2019,12:56:00 PM,0,23.2,8.45,104.61,8.93,278.06,9.8,180.64
+(77) Lost Island Lake (Palo Alto),Lost Island Lake,9/4/2019,12:56:00 PM,0.5,22.37,8.66,133.6,11.59,342.12,14.44,222.32
+(77) Lost Island Lake (Palo Alto),Lost Island Lake,9/4/2019,12:56:00 PM,1,21.87,8.71,161.31,14.12,338.24,13.33,219.87
+(77) Lost Island Lake (Palo Alto),Lost Island Lake,9/4/2019,12:56:00 PM,1.5,21.58,8.55,136.71,12.04,342.61,10.8,222.75
+(77) Lost Island Lake (Palo Alto),Lost Island Lake,9/4/2019,12:56:00 PM,2,21.46,8.5,119.12,10.52,345.89,10,224.7
+(77) Lost Island Lake (Palo Alto),Lost Island Lake,9/4/2019,12:56:00 PM,2.5,21.39,8.47,108.17,9.56,347.43,9.4,226
+(77) Lost Island Lake (Palo Alto),Lost Island Lake,9/4/2019,12:56:00 PM,3,21.36,8.43,102.92,9.1,347.9,8.9,226
+(77) Lost Island Lake (Palo Alto),Lost Island Lake,9/4/2019,12:56:00 PM,3.5,21.33,8.39,94.63,8.38,348.73,10.49,226.67
+(78) Lower Gar Lake (Dickinson),Lower Gar Lake,9/3/2019,11:24:00 AM,0,22.46,8.24,91.67,7.93,429.3,11.91,279
+(78) Lower Gar Lake (Dickinson),Lower Gar Lake,9/3/2019,11:24:00 AM,0.5,22.44,8.2,89.96,7.79,429.26,22.2,279
+(78) Lower Gar Lake (Dickinson),Lower Gar Lake,9/3/2019,11:24:00 AM,1,22.4,8.16,87.66,7.6,428.87,24.89,279
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,0,22.11,7.95,82.17,7.16,319.23,6.29,207.5
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,0.5,21.75,7.89,66.72,5.86,317.28,8.66,206
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,1,21.49,7.76,53.96,4.76,318.25,9.31,207
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,1.5,21.31,7.68,42.62,3.77,320.19,10.43,208.17
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,2,21,7.63,41.41,3.69,334,11.54,217.14
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,2.5,20.71,7.56,34.88,3.12,345.55,11.01,224.62
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,3,20.54,7.42,16.71,1.5,352.07,9.2,228.76
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,3.5,20.21,7.31,9.12,0.82,356.98,8.23,232.23
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,4,19.42,7.1,5,0.46,386.22,9.54,251.06
+(79) Lower Pine Lake (Hardin),Lower Pine Lake,9/23/2019,1:45:00 PM,4.5,18.61,6.72,3.32,0.31,575.71,15.3,374.18
+(80) Manteno Park Pond (Shelby),Manteno Park Pond,8/20/2019,9:53:00 AM,0,25.17,7.9,94.37,7.76,466.43,10,303
+(80) Manteno Park Pond (Shelby),Manteno Park Pond,8/20/2019,9:53:00 AM,0.5,24.94,7.83,87.74,7.23,467.4,7.01,303.86
+(80) Manteno Park Pond (Shelby),Manteno Park Pond,8/20/2019,9:53:00 AM,1,23.44,7.58,61.4,5.2,481.86,4.03,313
+(80) Manteno Park Pond (Shelby),Manteno Park Pond,8/20/2019,9:53:00 AM,1.5,23.06,7.35,34.76,2.97,496.52,4.92,322.6
+(80) Manteno Park Pond (Shelby),Manteno Park Pond,8/20/2019,9:53:00 AM,2,22.72,7.15,20.35,1.75,553.07,16.76,359.67
+(82) Meadow Lake (Adair),Meadow Lake,9/8/2019,10:00:00 AM,0,22.71,8.05,92.5,7.98,225.13,8,146.5
+(82) Meadow Lake (Adair),Meadow Lake,9/8/2019,10:00:00 AM,0.5,22.72,8.08,85.52,7.37,223.78,12.66,145.4
+(82) Meadow Lake (Adair),Meadow Lake,9/8/2019,10:00:00 AM,1,22.72,8.11,80.66,6.95,223.14,18.04,145
+(82) Meadow Lake (Adair),Meadow Lake,9/8/2019,10:00:00 AM,1.5,22.67,8.13,78.77,6.79,222.72,19.12,145
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,0,22.31,8.38,93.8,8.15,343.44,16.38,223.13
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,0.5,22.46,8.39,93.23,8.07,402.89,13.17,262
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,1,22.56,8.42,92.4,7.99,402.45,10.88,262
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,1.5,22.56,8.43,91.89,7.94,402.73,10.79,262
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,2,22.56,8.44,91.21,7.88,402.96,10.92,262
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,2.5,22.54,8.44,89.46,7.73,403.22,10.97,262
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,3,22.49,8.37,83.29,7.21,403.98,10.92,262.63
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,3.5,22.37,8.11,65.03,5.64,405.54,11.08,263.57
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,4,22.19,7.94,44.52,3.87,407.75,11.44,264.83
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,4.5,22.06,7.86,27.76,2.42,409.26,13.07,266
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,5,21.94,7.79,16.19,1.41,410.91,15.2,267.14
+(83) Meyer Lake (Black Hawk),Meyer Lake,9/25/2019,10:10:00 AM,5.5,21.89,7.68,13.23,1.16,412.9,16.77,268.33
+(84) Mill Creek Lake (Obrien),Mill Creek Lake,9/3/2019,2:55:00 PM,0,24.73,8.84,156.95,13.02,361.76,11.58,235.1
+(84) Mill Creek Lake (Obrien),Mill Creek Lake,9/3/2019,2:55:00 PM,0.5,23.76,8.7,155.23,13.1,370.01,11.28,240.5
+(84) Mill Creek Lake (Obrien),Mill Creek Lake,9/3/2019,2:55:00 PM,1,22.46,8.44,118.26,10.23,378.6,11.09,245.8
+(84) Mill Creek Lake (Obrien),Mill Creek Lake,9/3/2019,2:55:00 PM,1.5,22.19,8.3,86.19,7.5,379.56,10.71,247
+(84) Mill Creek Lake (Obrien),Mill Creek Lake,9/3/2019,2:55:00 PM,2,21.86,8.1,55.63,4.87,380.36,9.83,247
+(84) Mill Creek Lake (Obrien),Mill Creek Lake,9/3/2019,2:55:00 PM,2.5,21.55,7.95,31.89,2.81,381.24,9.39,248
+(84) Mill Creek Lake (Obrien),Mill Creek Lake,9/3/2019,2:55:00 PM,3,21.39,7.89,19.15,1.69,382.68,8.6,248.67
+(84) Mill Creek Lake (Obrien),Mill Creek Lake,9/3/2019,2:55:00 PM,3.5,21.28,7.67,14.01,1.24,387.18,8.16,251.63
+(84) Mill Creek Lake (Obrien),Mill Creek Lake,9/3/2019,2:55:00 PM,4,21.11,7.23,9.15,0.81,437.08,12.1,284
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,0,21.87,8.36,96.12,8.42,237.78,10.42,154.56
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,0.5,21.95,8.38,94.93,8.3,253.68,6.35,165
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,1,22,8.4,94.15,8.23,253.77,5.61,165
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,1.5,22,8.42,93.67,8.19,253.93,5.49,165
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,2,21.94,8.38,88.8,7.77,254.4,5.4,165.29
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,2.5,21.64,8.2,73.31,6.44,256.14,5.42,166.43
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,3,21.18,8.04,55.9,4.96,258.33,5.32,168
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,3.5,20.56,7.92,36.29,3.25,261,5.13,169.71
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,4,19.04,7.86,22.31,2.06,268.36,4.8,174.43
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,4.5,17.14,7.74,14.53,1.39,277.89,4.2,180.63
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,5,14.61,7.71,10.63,1.08,292.13,4.36,189.86
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,5.5,12.12,7.65,7.51,0.8,308.19,6.23,200.29
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,6,10.34,7.56,6.72,0.75,321.56,7.8,209.2
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,6.5,8.97,7.54,5.8,0.67,330.66,8.23,214.88
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,7,8.48,7.51,4.73,0.55,331.64,8.18,215.57
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,7.5,7.88,7.44,4,0.47,336.56,8.05,218.57
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,8,7.23,7.36,3.46,0.42,351.3,7.74,228.14
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,8.5,6.62,7.33,3.08,0.38,378.07,7.35,245.83
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,9,6.15,7.3,2.75,0.34,415.1,7.08,270
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,9.5,5.84,7.17,2.5,0.31,449.65,6.99,292.33
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,10,5.69,7.15,2.33,0.29,471.39,7.13,306.14
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,10.5,5.62,7.13,2.15,0.27,487.4,7.42,317
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,11,5.56,7.12,2.02,0.25,498.96,7.69,324.4
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,11.5,5.54,7.1,1.93,0.24,507.4,7.84,329.75
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,12,5.5,7.08,1.83,0.23,516.73,8.02,336
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,12.5,5.5,7.05,1.72,0.22,526.25,8.23,342.17
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,13,5.5,7.02,1.62,0.2,533.48,8.44,346.8
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,13.5,5.5,7,1.53,0.19,540.77,8.55,351.43
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,14,5.5,6.98,1.43,0.18,546.69,8.69,355.29
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,14.5,5.5,6.96,1.37,0.17,550.08,8.75,357.5
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,15,5.5,6.95,1.3,0.16,552.64,8.75,359.4
+(85) Mitchell Lake (Black Hawk),Mitchell Lake,9/25/2019,11:00:00 AM,15.5,5.5,6.91,1.13,0.14,574.18,34.47,373.31
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,0,24.16,8.16,99.48,8.35,376.74,8.38,245
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,0.5,24.17,8.31,99.1,8.31,375.87,4.24,244.29
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,1,24.22,8.39,98.62,8.26,375.38,2.76,244
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,1.5,24.28,8.42,98,8.2,375.4,2.7,244
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,2,24.28,8.44,96.48,8.07,376.22,2.62,244.6
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,2.5,24.23,8.2,74.55,6.24,380.5,2.86,247.17
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,3,22.98,7.78,40.94,3.49,406.11,4.99,264
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,3.5,20.67,7.42,21.43,1.91,481.11,9.09,312.57
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,4,18.77,7.2,13.37,1.24,524.47,11.73,341
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,4.5,16.64,7.14,10.15,0.99,553.51,11.87,359.75
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,5,14.87,7.07,6.26,0.63,578.01,10.64,375.57
+(86) Moorehead Park Pond (Ida),Moorehead Park Pond,8/19/2019,8:13:00 AM,5.5,13.88,6.86,5.47,0.56,606.3,11.4,394
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,0,22.4,7.61,99.26,8.62,113.61,6.21,74.14
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,0.5,23.39,8.15,100.8,8.57,193.13,7.06,125.67
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,1,23.39,8.19,101.08,8.6,193,7.8,125
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,1.5,23.39,8.22,101.23,8.61,193,7.58,125
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,2,23.39,8.23,101.3,8.62,193,6.88,125
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,2.5,23.39,8.24,97.1,8.26,193.23,6.83,125.67
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,3,23.31,8.1,86.13,7.34,194,6.96,126
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,3.5,23.15,7.91,64.47,5.51,195.53,7.11,127.33
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,4,21.51,7.75,42.18,3.7,203.8,7.1,132.25
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,4.5,20.19,7.49,26.12,2.36,216.33,6.74,140.67
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,5,17.78,7.31,19.3,1.81,236,6.12,153.67
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,5.5,16.33,7.27,14.5,1.42,252.5,5.59,164
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,6,15.13,7.23,13.1,1.31,265.27,5.25,172.67
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,6.5,13.27,7.05,11.62,1.22,284.52,5.01,185
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,7,12.85,6.97,9.4,0.99,299.78,5.45,194.91
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,7.5,12.29,6.88,7.2,0.77,314.13,6.16,204.25
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,8,11.96,6.79,6.33,0.68,321.48,6.51,208.75
+(87) Mormon Trail Lake (Adair),Mormon Trail Lake,9/8/2019,12:30:00 PM,8.5,11.36,6.73,4.25,0.46,366.25,16.91,238.07
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,0,25.83,8.23,117.68,9.57,420.58,2.45,273.4
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,0.5,25.71,8.23,118.42,9.64,420.1,2.53,273
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,1,25.34,8.23,118.25,9.69,420.2,2.74,273
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,1.5,24.82,8.23,117.77,9.75,419.62,2.91,272.83
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,2,24.54,8.16,109.8,9.14,419.15,2.91,272
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,2.5,24.38,8.06,102.14,8.52,419.88,2.86,273
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,3,24.15,7.92,90.31,7.57,422.27,3.17,274.43
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,3.5,23.94,7.76,70.67,5.95,425.97,3.44,277
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,4,23.73,7.63,55.63,4.7,430.9,3.47,280
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,4.5,23.2,7.44,34.42,2.93,441.45,4.51,287
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,5,20.02,7.12,20.01,1.81,524.27,7.35,340.86
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,5.5,16.13,6.87,11.78,1.15,683.93,11.46,444.25
+(88) Nelson Park Lake (Crawford),Nelson Park Lake,8/19/2019,2:51:00 PM,6,14.65,6.79,10,1.01,800.7,15.45,520.33
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,0,23.4,7.98,84.81,7.22,165.17,1.97,107.29
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,0.5,23.54,8,82.83,7.03,164.77,1.15,107
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,1,23.56,8,81.4,6.91,164.8,0.94,107
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,1.5,23.56,8.02,81.02,6.87,164.83,0.98,107
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,2,23.56,8.03,80.81,6.86,164.81,0.99,107
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,2.5,23.56,8.03,80.6,6.84,164.94,0.96,107
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,3,23.56,8.03,80.27,6.81,165.01,0.95,107
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,3.5,23.46,7.81,58.55,4.97,169.35,1.13,110.08
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,4,21.14,7.53,20.04,1.77,197.61,1.36,128.33
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,4.5,17.18,7.48,8.78,0.84,225.91,6.66,146.92
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,5,14.95,7.31,5.83,0.59,232.16,10.94,150.71
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,5.5,13.22,7.11,3.62,0.38,237.92,9.66,154.8
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,6,12.25,7.02,2.54,0.27,238.79,8.29,155.15
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,6.5,11.23,6.92,2.13,0.23,245.85,7.69,159.73
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,7,10.82,6.86,1.83,0.2,259.64,7.29,168.79
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,7.5,10.55,6.83,1.63,0.18,270.98,7.44,176.08
+(89) Nine Eagles Lake (Decatur),Nine Eagles Lake,8/27/2019,8:35:00 AM,8,10.2,6.81,1.5,0.17,282.12,8.85,183.17
+(90) North Twin Lake (Calhoun),North Twin Lake,8/20/2019,10:47:00 AM,0,24.5,8.62,101.18,8.44,415.86,10.47,270.4
+(90) North Twin Lake (Calhoun),North Twin Lake,8/20/2019,10:47:00 AM,0.5,24.73,8.63,101.58,8.43,413.76,11.5,268.8
+(90) North Twin Lake (Calhoun),North Twin Lake,8/20/2019,10:47:00 AM,1,24.74,8.63,100.18,8.31,412.83,12.45,268
+(90) North Twin Lake (Calhoun),North Twin Lake,8/20/2019,10:47:00 AM,1.5,24.59,8.62,97.62,8.12,412.47,12.97,268
+(90) North Twin Lake (Calhoun),North Twin Lake,8/20/2019,10:47:00 AM,2,24.5,8.61,95.48,7.96,412.31,13.54,268
+(90) North Twin Lake (Calhoun),North Twin Lake,8/20/2019,10:47:00 AM,2.5,24.44,8.59,93.07,7.77,412.5,13.81,268
+(90) North Twin Lake (Calhoun),North Twin Lake,8/20/2019,10:47:00 AM,3,24.39,8.58,92.1,7.68,412.6,14.17,268
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,0,25.03,7.99,94.44,7.79,437.99,8.28,284.71
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,0.5,24.71,7.97,89.24,7.4,437.36,2.91,284.29
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,1,24.28,7.96,88.28,7.38,436.86,1.67,284
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,1.5,23.87,7.95,86.13,7.26,438.6,1.95,285.14
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,2,23.64,7.85,75.66,6.4,441.29,2.31,286.89
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,2.5,23.39,7.62,48.45,4.12,448.41,2.27,291.38
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,3,23.06,7.48,34.12,2.92,503.06,2.98,326.8
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,3.5,21.22,7.3,21.39,1.88,551.2,6.61,358
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,4,19.83,7.19,11.79,1.07,585.91,11.14,380.78
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,4.5,18.1,7.03,9.47,0.89,625.02,11.55,406.17
+(91) Oldham Lake (Monona),Oldham Lake,8/19/2019,1:18:00 PM,5,17.36,6.97,7.48,0.72,645.15,11.97,419.33
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,0,22.48,7.45,81.27,7.04,288.49,15.8,187.43
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,0.5,22.5,7.47,75.62,6.54,312.34,13.61,203
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,1,22.36,7.48,73.1,6.34,312.2,13.55,203
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,1.5,22.05,7.49,68.4,5.97,312.47,13.04,203
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,2,21.94,7.5,66.58,5.83,312.33,13,203
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,2.5,21.94,7.5,66.1,5.78,312.2,13.15,203
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,3,21.9,7.5,65.38,5.72,312.2,13.33,203
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,3.5,21.89,7.5,64.5,5.65,312.25,13.87,203
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,4,21.86,7.5,61.13,5.36,312.6,14.13,203.25
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,4.5,21.75,7.35,45.88,4.02,315.98,13.86,205.33
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,5,20.92,7.16,27.76,2.46,357.24,12.86,232.2
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,5.5,19.28,6.98,18.92,1.74,457.5,11.32,297.2
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,6,17.67,6.8,12,1.13,568.82,10.15,369.6
+(92) Otter Creek Lake (Tama),Otter Creek Lake,9/15/2019,10:40:00 AM,6.5,16.72,6.73,10.4,1.01,606.5,10.74,394
+(93) Ottumwa Lagoon (Wapello),Ottumwa Lagoon,8/28/2019,10:24:00 AM,0,22.14,7.61,102.31,8.92,467.29,20.84,303.64
+(93) Ottumwa Lagoon (Wapello),Ottumwa Lagoon,8/28/2019,10:24:00 AM,0.5,22.01,7.59,97.59,8.52,575.86,34.47,374.33
+(94) Pierce Creek Pond (Page),Pierce Creek Pond,9/9/2019,12:00:00 PM,0,24.09,7.62,89.39,7.49,186.8,11.61,121.38
+(94) Pierce Creek Pond (Page),Pierce Creek Pond,9/9/2019,12:00:00 PM,0.5,23.37,7.69,73.52,6.26,296.52,12.75,192.82
+(94) Pierce Creek Pond (Page),Pierce Creek Pond,9/9/2019,12:00:00 PM,1,23.31,7.68,65.08,5.55,297.17,10.99,193
+(94) Pierce Creek Pond (Page),Pierce Creek Pond,9/9/2019,12:00:00 PM,1.5,23.2,7.66,59.15,5.05,298.22,11.69,193.67
+(94) Pierce Creek Pond (Page),Pierce Creek Pond,9/9/2019,12:00:00 PM,2,22.83,7.5,35.07,3.01,306.34,13.1,199.14
+(94) Pierce Creek Pond (Page),Pierce Creek Pond,9/9/2019,12:00:00 PM,2.5,22.34,7.4,19.4,1.69,323.5,14.37,210.17
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,0,22.67,8.29,115.58,9.98,344.28,3.56,224
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,0.5,22.67,8.31,115.88,10,344.38,3.53,224
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,1,22.65,8.31,113.5,9.8,344.81,3.75,224
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,1.5,22.48,8.13,96.64,8.36,347.33,4.3,225.82
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,2,22.3,8.04,82.09,7.13,349.91,4.79,227.45
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,2.5,22.2,8,78.96,6.87,350.42,4.97,228
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,3,22.14,7.96,74.63,6.5,350.7,4.88,228
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,3.5,22.09,7.93,69.73,6.08,351.03,5,228
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,4,22.01,7.88,66.09,5.77,351.37,5.25,228
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,4.5,21.93,7.84,62.58,5.48,351.62,5.15,229
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,5,21.8,7.79,59.15,5.19,352.13,4.74,229
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,5.5,21.68,7.72,51.11,4.49,352.94,4.41,229.3
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,6,21.6,7.67,45.26,3.98,353.36,4.39,230
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,6.5,21.45,7.58,31.84,2.81,354.3,3.97,230.14
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,7,20.21,7.38,14.25,1.28,364.47,4.41,236.92
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,7.5,18.23,7.35,9.18,0.86,385.77,5.87,250.73
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,8,16.46,7.33,5.52,0.54,400.19,7.15,260.17
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,8.5,14.93,7.34,3.7,0.37,402,7.67,261.33
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,9,14.07,7.35,2.74,0.28,398.53,8.05,259
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,9.5,13.36,7.34,2.22,0.23,400.51,8.15,260.33
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,10,12.83,7.33,1.97,0.21,402.95,7.84,262
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,10.5,12.58,7.31,1.8,0.19,403.94,7.52,262.6
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,11,12.36,7.3,1.63,0.17,404.55,7.18,263
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,11.5,12.06,7.26,1.39,0.15,405.76,6.62,263.88
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,12,11.86,7.22,1.24,0.13,405.9,6.43,264
+(95) Pleasant Creek Lake (Linn),Pleasant Creek Lake,9/16/2019,8:05:00 AM,12.5,11.69,7.17,0.89,0.1,407.48,5.61,264.82
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,0,24.26,8.27,92.93,7.79,276.1,1.36,179.67
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,0.5,24.28,8.2,90.05,7.54,275.55,2.1,179
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,1,24.28,8.16,88.16,7.38,275.49,2.93,179
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,1.5,24.28,8.13,86.58,7.25,275.38,2.92,179
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,2,24.26,8.12,85.9,7.2,275.25,2.85,179
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,2.5,24.22,8.08,85.36,7.15,275.15,2.78,179
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,3,24.22,8.05,85.12,7.13,275.08,2.92,179
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,3.5,24.15,7.99,82.85,6.95,274.73,5.59,178.67
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,4,21.81,7.78,65.77,5.74,287.93,12.73,187.17
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,4.5,19.01,7.56,37.12,3.41,314.72,18.14,204.5
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,5,15.56,7.42,16.53,1.63,354,17.36,230
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,5.5,13.26,7.27,10.03,1.05,382.06,15.87,248.29
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,6,11.73,7.21,8.15,0.88,399.07,15.04,259.33
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,6.5,11.08,7.12,6.48,0.71,401.23,15.01,260.83
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,7,10.41,7,4.81,0.54,408.06,14.62,265.29
+(96) Poll Miller Park Lake (Lee),Poll Miller Park Lake,8/26/2019,10:40:00 AM,7.5,9.78,6.77,3.87,0.44,424.43,13.11,275.83
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,0,22.15,7.72,56.21,4.9,257.5,7.36,167.14
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,0.5,22.19,7.71,54.07,4.71,279.13,5.23,181
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,1,22.22,7.69,52.44,4.56,279.06,1.49,181
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,1.5,22.22,7.68,51.26,4.46,279.11,1.48,181
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,2,22.22,7.67,50.67,4.41,279.2,1.47,181
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,2.5,22.22,7.67,50.25,4.37,279.15,1.46,181
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,3,22.22,7.67,49.91,4.34,279.1,1.46,181
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,3.5,22.26,7.66,49.67,4.32,279.04,1.4,181
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,4,22.22,7.66,49.49,4.3,278.8,1.34,181
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,4.5,22.22,7.66,49.35,4.29,278.83,1.36,181
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,5,22.22,7.65,47.73,4.15,280.09,1.34,182
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,5.5,21.44,7.43,33.46,2.94,351.58,4.76,228.56
+(97) Prairie Rose Lake (Shelby),Prairie Rose Lake,9/10/2019,8:48:00 AM,6,19.58,7.19,19.72,1.8,482.8,12.22,313.8
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,0,23.52,7.66,72.78,6.18,172.61,11.72,112.44
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,0.5,23.59,7.63,68.43,5.8,214.8,10.13,140
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,1,23.61,7.63,67.53,5.72,214.7,10.12,140
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,1.5,23.61,7.62,66.6,5.65,214.7,10.17,140
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,2,23.56,7.61,65.67,5.57,214.7,10.21,140
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,2.5,23.54,7.6,64.92,5.51,214.63,10.08,139.67
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,3,23.5,7.6,64.36,5.47,214.55,10.11,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,3.5,23.5,7.59,63.98,5.43,214.5,10.24,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,4,23.5,7.59,63.72,5.41,214.5,10.28,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,4.5,23.5,7.58,63.48,5.39,214.6,10.25,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,5,23.5,7.58,63.3,5.38,214.6,10.37,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,5.5,23.5,7.58,63.14,5.36,214.6,10.44,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,6,23.5,7.57,62.96,5.35,214.6,10.31,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,6.5,23.5,7.57,62.83,5.34,214.6,10.22,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,7,23.5,7.57,62.74,5.33,214.6,10.28,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,7.5,23.5,7.57,62.7,5.33,214.57,10.37,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,8,23.5,7.57,62.79,5.33,214.5,10.33,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,8.5,23.5,7.57,62.73,5.33,214.52,10.26,139
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,9,23.5,7.57,62.39,5.3,214.64,10.27,139.63
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,9.5,23.5,7.56,61.9,5.26,214.77,10.32,140
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,10,23.5,7.56,61.45,5.22,214.88,10.5,140
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,10.5,23.44,7.56,60.8,5.17,215,10.77,140
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,11,23.42,7.55,56.18,4.78,215.38,11.6,140
+(98) Rathbun Reservoir (Appanoose),Rathbun Reservoir,8/29/2019,12:17:00 PM,11.5,23.32,7.53,50.43,4.3,216.28,13.01,140.75
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,0,23.97,7.7,97.26,8.19,188.22,2.12,122.44
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,0.5,24.06,7.65,95.78,8.05,196.64,2.19,128
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,1,23.92,7.64,94.21,7.94,196.7,2.31,128
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,1.5,23.64,7.63,91.1,7.71,196.6,2.46,128
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,2,23.36,7.61,87.72,7.47,196.47,2.51,128
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,2.5,23.17,7.58,86.63,7.4,196.32,2.49,128
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,3,23.07,7.55,83.94,7.18,196.3,2.49,128
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,3.5,22.91,7.38,69.68,5.98,196.96,4.1,128.2
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,4,21.08,7.14,41.57,3.67,207.27,7.91,134.56
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,4.5,17.56,7,24.49,2.33,232.61,8.5,151.14
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,5,16.08,6.97,16.88,1.66,243.85,6.24,158.33
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,5.5,14.5,6.95,14.56,1.48,250.81,5.14,163
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,6,14.03,6.92,12.17,1.25,252.96,4.72,164.43
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,6.5,13.63,6.9,9.96,1.03,257.84,4.37,167.6
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,7,12.99,6.88,8.39,0.88,268.33,3.98,174.43
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,7.5,12.4,6.85,7.24,0.77,280.08,3.79,182.2
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,8,12.06,6.82,6.5,0.7,288.94,3.79,188
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,8.5,11.72,6.78,5.85,0.64,298.83,3.8,194.17
+(99) Red Haw Lake (Lucas),Red Haw Lake,8/28/2019,2:40:00 PM,9,11.36,6.72,5.06,0.55,351.05,8.95,228.27
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,0,23.33,7.95,65.8,5.61,371.9,11.34,242
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,0.5,23.33,7.84,56.84,4.84,371.9,14.24,242
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,1,23.33,7.75,50.58,4.31,371.83,17.53,242
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,1.5,23.33,7.72,43.79,3.73,372.03,17.92,242
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,2,23.33,7.7,37.93,3.23,372.8,18.41,242.29
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,2.5,23.29,7.66,32.4,2.76,374.06,19.21,243.13
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,3,23.22,7.61,22.52,1.92,376.5,21.31,244.7
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,3.5,23.17,7.56,14.21,1.21,379.26,22.47,246.56
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,4,23.17,7.52,11.36,0.97,380.22,23.09,247
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,4.5,23.12,7.49,8.45,0.72,380.53,24.42,247
+(101) Roberts Creek Lake (Marion),Roberts Creek Lake,9/17/2019,7:12:00 AM,5,23.11,7.48,6.9,0.59,380.82,24.97,247.6
+(102) Rock Creek Lake (Jasper),Rock Creek Lake,9/18/2019,9:03:00 AM,0,24.28,8.65,105.63,8.84,306.23,8.36,199
+(102) Rock Creek Lake (Jasper),Rock Creek Lake,9/18/2019,9:03:00 AM,0.5,24.28,8.65,107.67,9.01,306.39,10.42,199
+(102) Rock Creek Lake (Jasper),Rock Creek Lake,9/18/2019,9:03:00 AM,1,24.28,8.65,109.41,9.15,306.8,10.9,199.29
+(102) Rock Creek Lake (Jasper),Rock Creek Lake,9/18/2019,9:03:00 AM,1.5,24.21,8.56,100.71,8.44,308.43,11.14,200.43
+(102) Rock Creek Lake (Jasper),Rock Creek Lake,9/18/2019,9:03:00 AM,2,23.93,8.35,78.87,6.64,312.71,11.63,203.22
+(102) Rock Creek Lake (Jasper),Rock Creek Lake,9/18/2019,9:03:00 AM,2.5,23.63,8.22,61.8,5.23,317.04,12.03,206
+(102) Rock Creek Lake (Jasper),Rock Creek Lake,9/18/2019,9:03:00 AM,3,23.42,8.08,49.51,4.21,319.1,12.44,207.38
+(102) Rock Creek Lake (Jasper),Rock Creek Lake,9/18/2019,9:03:00 AM,3.5,23.17,7.97,34.01,2.91,321.3,13.2,208.86
+(102) Rock Creek Lake (Jasper),Rock Creek Lake,9/18/2019,9:03:00 AM,4,22.94,7.87,20.43,1.75,324.31,14.48,210.71
+(103) Rodgers Park Lake (Benton),Rodgers Park Lake,9/25/2019,8:47:00 AM,0,21.81,7.9,72.52,6.36,288.04,22.48,187.22
+(103) Rodgers Park Lake (Benton),Rodgers Park Lake,9/25/2019,8:47:00 AM,0.5,22.03,7.91,65.05,5.68,337.88,21.74,219.63
+(103) Rodgers Park Lake (Benton),Rodgers Park Lake,9/25/2019,8:47:00 AM,1,22.15,7.92,62.93,5.49,337.38,25.43,219
+(103) Rodgers Park Lake (Benton),Rodgers Park Lake,9/25/2019,8:47:00 AM,1.5,22.17,7.93,60.11,5.23,337.55,36.37,219
+(103) Rodgers Park Lake (Benton),Rodgers Park Lake,9/25/2019,8:47:00 AM,2,22.17,7.94,57.96,5.05,337.7,22.6,219.75
+(103) Rodgers Park Lake (Benton),Rodgers Park Lake,9/25/2019,8:47:00 AM,2.5,22.17,7.95,56.57,4.92,337.7,29.59,220
+(103) Rodgers Park Lake (Benton),Rodgers Park Lake,9/25/2019,8:47:00 AM,3,22.17,7.96,55.6,4.84,337.81,20.68,220
+(103) Rodgers Park Lake (Benton),Rodgers Park Lake,9/25/2019,8:47:00 AM,3.5,22.02,7.74,43.3,3.78,342.84,14.1,223
+(103) Rodgers Park Lake (Benton),Rodgers Park Lake,9/25/2019,8:47:00 AM,4,20.58,7.36,28.9,2.59,367.1,17.64,238.5
+(105) Silver Lake (Dickinson),Silver Lake Dickinson,9/4/2019,9:10:00 AM,0,20.69,8.26,85.92,7.7,512.58,7.73,333
+(105) Silver Lake (Dickinson),Silver Lake Dickinson,9/4/2019,9:10:00 AM,0.5,20.76,8.28,82.71,7.4,513.49,8.29,333.75
+(105) Silver Lake (Dickinson),Silver Lake Dickinson,9/4/2019,9:10:00 AM,1,20.78,8.29,77.66,6.94,515.11,9.66,334.88
+(105) Silver Lake (Dickinson),Silver Lake Dickinson,9/4/2019,9:10:00 AM,1.5,20.74,8.3,76.29,6.82,516.05,9.67,335.25
+(105) Silver Lake (Dickinson),Silver Lake Dickinson,9/4/2019,9:10:00 AM,2,20.72,8.3,73.25,6.56,516.56,148.41,336
+(107) Silver Lake (Delaware),Silver Lake Delaware,9/23/2019,8:15:00 AM,0,21.56,7.88,62.29,5.49,265.37,4.5,172.43
+(107) Silver Lake (Delaware),Silver Lake Delaware,9/23/2019,8:15:00 AM,0.5,21.56,7.87,58.53,5.16,264.94,4.31,172
+(107) Silver Lake (Delaware),Silver Lake Delaware,9/23/2019,8:15:00 AM,1,21.61,7.85,54.04,4.76,264.8,4.28,172
+(107) Silver Lake (Delaware),Silver Lake Delaware,9/23/2019,8:15:00 AM,1.5,21.61,7.82,51.9,4.57,265.06,4.34,172
+(107) Silver Lake (Delaware),Silver Lake Delaware,9/23/2019,8:15:00 AM,2,21.61,7.79,49.35,4.34,265.44,4.19,172.8
+(107) Silver Lake (Delaware),Silver Lake Delaware,9/23/2019,8:15:00 AM,2.5,21.61,7.78,48.81,4.3,265.23,4.04,172.06
+(107) Silver Lake (Delaware),Silver Lake Delaware,9/23/2019,8:15:00 AM,3,21.51,7.66,41.48,3.66,268.48,4.85,174.58
+(107) Silver Lake (Delaware),Silver Lake Delaware,9/23/2019,8:15:00 AM,3.5,20.59,7.28,17.22,1.54,298.39,4.37,193.89
+(108) Silver Lake (Palo Alto),Silver Lake Palo Alto,9/4/2019,11:31:00 AM,0,22.9,8.63,102.45,8.78,290.2,45.46,188.73
+(108) Silver Lake (Palo Alto),Silver Lake Palo Alto,9/4/2019,11:31:00 AM,0.5,21.81,8.58,86.33,7.56,319.23,59.85,207.67
+(108) Silver Lake (Palo Alto),Silver Lake Palo Alto,9/4/2019,11:31:00 AM,1,21.4,8.47,76.8,6.79,319.29,66.25,207.57
+(108) Silver Lake (Palo Alto),Silver Lake Palo Alto,9/4/2019,11:31:00 AM,1.5,21.22,8.36,70.7,6.27,319.6,69.46,208
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,0,24.34,7.96,90.76,7.59,150.66,1.17,98
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,0.5,24.31,8.06,86.81,7.26,149.09,1.53,97
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,1,24.28,8.14,85.25,7.14,148.9,1.54,97
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,1.5,24.19,8.16,84.53,7.09,148.9,1.45,97
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,2,24.17,8.16,84.08,7.05,148.93,1.6,97
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,2.5,24.15,8.16,83.99,7.05,149.02,1.62,97
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,3,24.07,8.14,82.42,6.93,149.62,1.69,97
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,3.5,23.82,8.07,78.12,6.59,151.09,3.16,98.11
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,4,19.88,7.67,29.7,2.66,169.21,8.22,109.96
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,4.5,17.53,7.46,7.13,0.68,172.92,14.47,112.31
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,5,14.12,7.05,2.93,0.3,197.59,17.67,128.5
+(109) Slip Bluff Lake (Decatur),Slip Bluff Lake,8/27/2019,9:57:00 AM,5.5,11.77,6.71,2.11,0.23,241.35,20.45,156.79
+(110) South Prairie Lake (Black Hawk),South Prairie Lake,9/23/2019,11:05:00 AM,0,22.06,7.87,72.66,6.33,573.54,12.6,372.94
+(110) South Prairie Lake (Black Hawk),South Prairie Lake,9/23/2019,11:05:00 AM,0.5,22.06,7.87,65.9,5.75,573.98,13.49,373
+(110) South Prairie Lake (Black Hawk),South Prairie Lake,9/23/2019,11:05:00 AM,1,22.01,7.88,63.05,5.5,574.17,12.62,373
+(110) South Prairie Lake (Black Hawk),South Prairie Lake,9/23/2019,11:05:00 AM,1.5,21.91,7.87,59.88,5.24,574.5,12.75,373
+(110) South Prairie Lake (Black Hawk),South Prairie Lake,9/23/2019,11:05:00 AM,2,21.89,7.86,57.95,5.07,574.58,12.81,373
+(110) South Prairie Lake (Black Hawk),South Prairie Lake,9/23/2019,11:05:00 AM,2.5,21.89,7.85,57.14,5,574.64,12.78,373.5
+(110) South Prairie Lake (Black Hawk),South Prairie Lake,9/23/2019,11:05:00 AM,3,21.77,7.78,49.37,4.33,576.17,11.79,374.58
+(110) South Prairie Lake (Black Hawk),South Prairie Lake,9/23/2019,11:05:00 AM,3.5,21.06,7.46,23.05,2.04,588.71,7.71,383
+(110) South Prairie Lake (Black Hawk),South Prairie Lake,9/23/2019,11:05:00 AM,4,20.02,7.27,10.44,0.95,607.84,11.88,395.12
+(111) Spring Lake (Greene),Spring Lake,8/20/2019,12:28:00 PM,0,26,8.89,109.86,8.91,358.04,9.81,232.63
+(111) Spring Lake (Greene),Spring Lake,8/20/2019,12:28:00 PM,0.5,26.06,8.91,112.13,9.08,357.11,12.78,232
+(111) Spring Lake (Greene),Spring Lake,8/20/2019,12:28:00 PM,1,26.02,8.92,114.13,9.25,356.67,12.76,232
+(111) Spring Lake (Greene),Spring Lake,8/20/2019,12:28:00 PM,1.5,25.94,8.92,113.95,9.25,356.65,13.04,232
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,0,24.03,8.11,95.1,7.99,397.75,13.09,258.5
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,0.5,23.81,8.06,93.63,7.89,394.53,14.5,256.33
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,1,23.4,7.86,86.94,7.39,395.28,15.53,257
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,1.5,23.11,7.77,73.85,6.31,401.65,15.47,261.25
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,2,22.68,7.59,58.37,5.03,409.33,25.42,266
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,2.5,22.18,7.57,47.8,4.16,405.95,65.5,264
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,3,21.81,7.45,43.53,3.81,405.98,29.54,263.75
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,3.5,21.09,7.33,32.87,2.9,428.37,27.15,278.67
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,4,19.38,7.1,21.94,2.01,516.02,22.84,335.2
+(112) Springbrook Lake (Guthrie),Springbrook Lake,8/20/2019,1:23:00 PM,4.5,18.6,7,17.3,1.62,546,20.05,354.75
+(113) Storm Lake (incl Little Storm Lake) (Buena Vista),Storm Lake (incl Little Storm Lake),8/19/2019,7:05:00 AM,0,23.2,7.89,94.65,8.16,359.6,11.52,233.8
+(113) Storm Lake (incl Little Storm Lake) (Buena Vista),Storm Lake (incl Little Storm Lake),8/19/2019,7:05:00 AM,0.5,23.58,8.14,87.22,7.39,399.44,10.33,259.77
+(113) Storm Lake (incl Little Storm Lake) (Buena Vista),Storm Lake (incl Little Storm Lake),8/19/2019,7:05:00 AM,1,23.66,8.22,85.21,7.21,400.28,8.82,260
+(113) Storm Lake (incl Little Storm Lake) (Buena Vista),Storm Lake (incl Little Storm Lake),8/19/2019,7:05:00 AM,1.5,23.72,8.32,84.94,7.18,400.83,8.98,260.67
+(113) Storm Lake (incl Little Storm Lake) (Buena Vista),Storm Lake (incl Little Storm Lake),8/19/2019,7:05:00 AM,2,23.72,8.34,84.65,7.15,401.17,8.96,261
+(113) Storm Lake (incl Little Storm Lake) (Buena Vista),Storm Lake (incl Little Storm Lake),8/19/2019,7:05:00 AM,2.5,23.72,8.35,84.67,7.16,401.2,10.24,261
+(114) Swan Lake (Carroll),Swan Lake,8/20/2019,11:50:00 AM,0,24.32,8.64,93.54,7.82,186.2,16.31,121
+(114) Swan Lake (Carroll),Swan Lake,8/20/2019,11:50:00 AM,0.5,24.07,9.04,88.07,7.39,308.43,21.61,200.33
+(114) Swan Lake (Carroll),Swan Lake,8/20/2019,11:50:00 AM,1,23.85,9.03,78.5,6.62,309.7,22.07,201.33
+(114) Swan Lake (Carroll),Swan Lake,8/20/2019,11:50:00 AM,1.5,23.57,8.99,67.4,5.71,311.47,21.68,202.33
+(114) Swan Lake (Carroll),Swan Lake,8/20/2019,11:50:00 AM,2,23.31,8.96,56.53,4.81,312.78,21.28,203
+(114) Swan Lake (Carroll),Swan Lake,8/20/2019,11:50:00 AM,2.5,23.08,8.81,46.92,4.01,313.56,21.12,204
+(114) Swan Lake (Carroll),Swan Lake,8/20/2019,11:50:00 AM,3,22.93,8.66,36,3.09,315.03,128.48,204.75
+(115) Thayer Lake (Union),Thayer Lake,8/27/2019,3:30:00 PM,0,23.78,7.71,72.87,6.16,250.09,5.98,162.71
+(115) Thayer Lake (Union),Thayer Lake,8/27/2019,3:30:00 PM,0.5,23.81,7.68,66.55,5.62,249.8,5.7,162
+(115) Thayer Lake (Union),Thayer Lake,8/27/2019,3:30:00 PM,1,23.69,7.54,55.51,4.7,249.88,6.51,162.1
+(115) Thayer Lake (Union),Thayer Lake,8/27/2019,3:30:00 PM,1.5,23.56,7.52,51.13,4.34,250.09,6.71,163
+(115) Thayer Lake (Union),Thayer Lake,8/27/2019,3:30:00 PM,2,23.49,7.5,46.67,3.96,250.1,6.89,163
+(115) Thayer Lake (Union),Thayer Lake,8/27/2019,3:30:00 PM,2.5,23.27,7.43,35.58,3.03,250.99,12.73,163.25
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,0,22.86,8.3,79.68,6.85,216.65,4.55,140.75
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,0.5,22.93,8.33,77.3,6.64,217.33,6.21,141
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,1,22.96,8.36,75.48,6.48,217.49,7.24,141
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,1.5,23,8.37,73.9,6.33,217.6,7.21,141
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,2,23,8.39,73.27,6.28,217.63,7.27,141
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,2.5,23.02,8.41,72.76,6.24,217.76,7.32,142
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,3,23.06,8.42,72.3,6.2,217.9,7.23,142
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,3.5,23.06,8.43,72.03,6.17,218,7.16,142
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,4,23.06,8.44,71.83,6.15,218,7.14,142
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,4.5,23.06,8.27,65.25,5.59,218.25,6.98,142
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,5,22.99,8.07,41.75,3.58,219.78,6.67,142.75
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,5.5,22.91,7.96,25.77,2.21,221.97,6.46,144.33
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,6,22.79,7.82,15.53,1.34,224.98,5.91,146.25
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,6.5,22.57,7.77,11.8,1.02,229.67,5.05,149
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,7,21.85,7.74,6.67,0.58,237.17,4.38,154.33
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,7.5,19.7,7.63,5.7,0.52,256.13,3.76,166.33
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,8,18.54,7.53,5,0.47,275.5,3.11,179
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,8.5,17.19,7.48,4.6,0.43,294.93,3.07,191.67
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,9,16.3,7.44,4.3,0.42,307.73,3.09,200
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,9.5,15.87,7.3,3.7,0.36,312.25,3.19,203
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,10,15.67,7.28,3.15,0.31,311.65,3.09,202.75
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,10.5,15.53,7.26,2.9,0.29,311.9,3.02,203
+(116) Three Mile Lake (Union),Three Mile Lake,9/8/2019,9:00:00 AM,11,15.39,7.25,2.8,0.28,313,3.02,203
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,0,23.17,8.25,78.63,6.72,208.65,5.37,136
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,0.5,23.17,8.25,77.47,6.62,208.9,6.67,136
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,1,23.17,8.24,76.67,6.55,209.07,6.79,136
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,1.5,23.2,8.24,74.87,6.39,209.3,6.61,136
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,2,23.22,8.24,70.9,6.06,209.6,6.5,136
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,2.5,23.22,8.23,69.5,5.94,209.9,6.45,136
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,3,23.17,8.22,68.85,5.88,210.1,6.42,137
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,3.5,23.17,8.22,68.43,5.85,210.3,6.38,137
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,4,23.17,8.2,68.08,5.82,210.43,6.42,137
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,4.5,23.17,8.2,67.6,5.78,210.5,6.41,137
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,5,23.17,8.19,67.08,5.74,210.5,6.48,137
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,5.5,23.14,8.01,55.9,4.78,210.8,6.17,137
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,6,23.04,7.87,32.18,2.75,213.12,5.36,138.4
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,6.5,22.72,7.77,14.23,1.22,219.93,3.7,143.14
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,7,20.81,7.55,8.8,0.78,262.3,2.37,170.5
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,7.5,19.48,7.46,7.63,0.7,305.4,2.2,198.67
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,8,17.4,7.29,6.78,0.64,326.16,2.02,212.2
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,8.5,16.76,7.22,5.7,0.55,333.43,1.93,217
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,9,16.37,7.1,4.62,0.45,340.36,1.87,221.2
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,9.5,16.11,7.02,4,0.39,348.65,1.91,227
+(119) Twelve Mile Creek Lake (Union),Twelve Mile Creek Lake,9/8/2019,10:20:00 AM,10,15.57,6.82,3.32,0.33,367.33,3.57,238.75
+(120) Union Grove Lake (Tama),Union Grove Lake,9/15/2019,9:24:00 AM,0,22.05,8.09,96.48,8.42,327.08,13.96,212.63
+(120) Union Grove Lake (Tama),Union Grove Lake,9/15/2019,9:24:00 AM,0.5,21.96,8.11,91.16,7.97,330.56,13.88,214.78
+(120) Union Grove Lake (Tama),Union Grove Lake,9/15/2019,9:24:00 AM,1,21.81,8.11,82.6,7.24,332.09,13.52,215.9
+(120) Union Grove Lake (Tama),Union Grove Lake,9/15/2019,9:24:00 AM,1.5,21.78,8.09,78.58,6.9,332.95,13.44,216.38
+(120) Union Grove Lake (Tama),Union Grove Lake,9/15/2019,9:24:00 AM,2,21.73,8.08,75.45,6.63,333.73,13.71,217
+(120) Union Grove Lake (Tama),Union Grove Lake,9/15/2019,9:24:00 AM,2.5,21.72,8.06,73.49,6.46,334.15,13.84,217
+(120) Union Grove Lake (Tama),Union Grove Lake,9/15/2019,9:24:00 AM,3,21.72,8.05,72.6,6.38,334.3,13.92,217
+(120) Union Grove Lake (Tama),Union Grove Lake,9/15/2019,9:24:00 AM,3.5,21.72,8.05,72.09,6.33,334.41,13.63,217
+(120) Union Grove Lake (Tama),Union Grove Lake,9/15/2019,9:24:00 AM,4,21.72,8.04,71.5,6.29,334.6,13.31,217
+(121) Upper Gar Lake (Dickinson),Upper Gar Lake,9/3/2019,10:33:00 AM,0,21.22,7.94,91.26,8.1,263.68,4.63,171.5
+(121) Upper Gar Lake (Dickinson),Upper Gar Lake,9/3/2019,10:33:00 AM,0.5,21.83,8.2,83.8,7.35,445.15,8.95,289.5
+(121) Upper Gar Lake (Dickinson),Upper Gar Lake,9/3/2019,10:33:00 AM,1,22.1,8.16,80.98,7.06,442.62,10.81,288
+(121) Upper Gar Lake (Dickinson),Upper Gar Lake,9/3/2019,10:33:00 AM,1.5,22.06,8.14,76.56,6.68,442.9,10.83,288
+(121) Upper Gar Lake (Dickinson),Upper Gar Lake,9/3/2019,10:33:00 AM,2,21.94,8.12,69.08,6.04,444.2,12.82,288.75
+(122) Upper Pine Lake (Hardin),Upper Pine Lake,9/23/2019,12:53:00 PM,0,22.17,7.87,87.76,7.64,380.99,9.16,247.63
+(122) Upper Pine Lake (Hardin),Upper Pine Lake,9/23/2019,12:53:00 PM,0.5,21.85,7.83,80.3,7.03,375.97,10.57,244.17
+(122) Upper Pine Lake (Hardin),Upper Pine Lake,9/23/2019,12:53:00 PM,1,21.63,7.7,64.95,5.71,377.38,10.27,245.3
+(122) Upper Pine Lake (Hardin),Upper Pine Lake,9/23/2019,12:53:00 PM,1.5,21.42,7.54,37.41,3.3,386.3,12.8,251.07
+(122) Upper Pine Lake (Hardin),Upper Pine Lake,9/23/2019,12:53:00 PM,2,21.21,7.42,14.61,1.3,410.05,14.28,266.53
+(122) Upper Pine Lake (Hardin),Upper Pine Lake,9/23/2019,12:53:00 PM,2.5,20.78,7.35,8.9,0.8,413.13,9.91,268.58
+(122) Upper Pine Lake (Hardin),Upper Pine Lake,9/23/2019,12:53:00 PM,3,20.13,7.2,6,0.55,423.59,7.96,275.38
+(122) Upper Pine Lake (Hardin),Upper Pine Lake,9/23/2019,12:53:00 PM,3.5,19.59,7.01,4.09,0.37,470.24,10.85,305.71
+(122) Upper Pine Lake (Hardin),Upper Pine Lake,9/23/2019,12:53:00 PM,4,18.92,6.8,3.08,0.29,598.75,13.54,389.18
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,0,20.99,7.94,89.67,7.99,342.99,20.93,222.71
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,0.5,20.96,7.96,89.02,7.93,343.82,22.08,223.33
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,1,20.94,7.97,87.84,7.83,344.09,22.28,224
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,1.5,20.94,7.98,86.52,7.71,344.57,22.47,224
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,2,20.93,7.94,80.92,7.21,346.32,22.19,225.17
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,2.5,20.8,7.82,69.32,6.2,350.76,20.86,228
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,3,20.63,7.77,58.85,5.28,357.07,19.05,232
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,3.5,20.39,7.63,42.47,3.83,363.6,18.11,236.33
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,4,20.16,7.58,27.84,2.52,370.4,18.5,241
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,4.5,19.85,7.42,19.19,1.75,380.96,19.69,247.57
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,5,19.5,7.25,12.79,1.17,399.89,18.99,260
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,5.5,19.15,7.09,10.87,1,446.24,16.48,289.86
+(124) Volga Lake (Fayette),Volga Lake,9/24/2019,7:55:00 AM,6,18.55,6.89,8.74,0.82,510.91,15.57,332.13
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,0,21.46,8.01,93.29,8.23,390.41,6.3,253.78
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,0.5,21.67,8.02,93.54,8.22,465.66,3.15,302.6
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,1,21.78,8.03,93.47,8.19,464.57,0.25,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,1.5,21.81,8.03,93.28,8.18,464.58,-0.68,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,2,21.83,8.04,93.05,8.16,464.68,-0.68,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,2.5,21.83,8.05,92.93,8.15,464.73,-0.64,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,3,21.83,8.05,92.85,8.14,464.72,-0.6,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,3.5,21.79,8.05,92.8,8.13,464.71,-0.64,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,4,21.78,8.05,92.72,8.13,464.78,-0.62,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,4.5,21.78,8.05,92.61,8.12,464.8,-0.54,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,5,21.78,8.06,92.4,8.1,464.8,-0.48,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,5.5,21.78,8.06,92.17,8.09,464.8,-0.51,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,6,21.75,8.06,91.86,8.06,464.8,-0.6,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,6.5,21.71,8.05,91.34,8.02,464.82,-0.62,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,7,21.67,8.05,90.63,7.97,464.9,-0.63,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,7.5,21.61,8.05,90.05,7.92,464.98,-0.64,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,8,21.61,8.05,89.62,7.88,465.02,-0.68,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,8.5,21.59,8.05,89.22,7.85,465.08,-0.7,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,9,21.56,8.04,88.84,7.82,465.1,-0.69,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,9.5,21.56,8.04,88.6,7.81,465.08,-0.68,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,10,21.56,8.04,88.48,7.8,465,-0.68,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,10.5,21.51,8.04,88.33,7.79,465.02,-0.71,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,11,21.49,8.04,87.94,7.76,465.16,-0.72,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,11.5,21.44,8.04,87.2,7.7,465.27,-0.72,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,12,21.43,8.03,86.48,7.64,465.3,-0.72,302
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,12.5,21.39,8.03,86.13,7.61,465.4,-0.69,302.5
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,13,20.3,7.89,69.53,6.24,472.9,-0.7,307.5
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,13.5,18.98,7.76,45.3,4.19,481.94,-0.72,313.2
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,14,18.6,7.7,31.27,2.92,477.17,-0.73,310.17
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,14.5,18.09,7.59,23.4,2.2,476.16,-0.71,309.6
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,15,16.23,7.52,16.21,1.59,487.69,-0.72,317.14
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,15.5,15.89,7.5,14.63,1.45,480.83,-0.76,312.5
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,16,15.68,7.49,14.15,1.41,475.88,-0.78,309.25
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,16.5,15.36,7.48,13.46,1.34,473.86,-0.77,308
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,17,14.97,7.48,12.95,1.3,473.7,-0.76,308
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,17.5,14.61,7.46,12.75,1.29,473.7,-0.76,308
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,18,14.28,7.45,12.75,1.31,473.8,-0.74,308
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,18.5,13.97,7.44,12.78,1.32,474.08,-0.73,308
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,19,13.72,7.42,11.44,1.18,474.5,-0.71,308.4
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,19.5,13.47,7.41,6.8,0.71,475.03,-0.66,309
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,20,13.25,7.4,5.7,0.6,475.95,-0.6,309.25
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,20.5,13.04,7.39,5.13,0.54,477,-0.57,310
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,21,12.81,7.37,4.65,0.49,478.15,-0.56,310.75
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,21.5,12.56,7.36,3.84,0.41,479.4,-0.64,311.6
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,22,12.38,7.35,3.15,0.34,480.18,-0.75,312
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,22.5,12.26,7.34,2.8,0.3,480.53,-0.8,312
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,23,12.18,7.33,2.55,0.27,480.85,-0.81,312.75
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,23.5,12.08,7.32,2.32,0.25,481.3,-0.8,313
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,24,12,7.31,2.17,0.23,481.67,-0.81,313
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,24.5,11.94,7.25,2.05,0.22,481.85,-0.81,313
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,25,11.92,7.28,1.95,0.21,481.9,-0.82,313
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,25.5,11.89,7.27,1.9,0.2,481.9,-0.82,313
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,26,11.87,7.27,1.8,0.2,481.97,-0.8,313
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,26.5,11.82,7.27,1.78,0.19,482.2,-0.77,313.25
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,27,11.77,7.27,1.7,0.18,482.68,-0.69,314
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,27.5,11.71,7.26,1.6,0.18,483.08,-0.62,314
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,28,11.67,7.26,1.58,0.17,483.38,-0.55,314
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,28.5,11.65,7.26,1.5,0.16,483.53,-0.49,314
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,29,11.61,7.26,1.5,0.16,483.67,-0.45,314
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,29.5,11.61,7.26,1.45,0.16,483.78,-0.38,314
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,30,11.57,7.26,1.4,0.15,483.88,-0.34,314.75
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,30.5,11.56,7.26,1.4,0.15,483.9,-0.31,315
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,31,11.56,7.26,1.34,0.15,483.96,-0.29,315
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,31.5,11.56,7.26,1.3,0.14,484,-0.29,315
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,32,11.56,7.25,1.3,0.14,484.1,-0.27,315
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,32.5,11.53,7.25,1.23,0.13,484.64,0.13,315
+(125) West Okoboji Lake (Dickinson),West Okoboji Lake,9/3/2019,9:24:00 AM,33,11.43,6.96,1.2,0.13,488.85,20.07,317.68
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,0,23.46,7.75,73.48,6.25,167.1,7.14,108.67
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,0.5,23.44,7.67,59.8,5.09,207.83,4.97,135
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,1,23.42,7.63,52.69,4.48,208.34,3.17,135.36
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,1.5,23.39,7.6,49.36,4.2,208.49,3.1,135.5
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,2,23.33,7.55,46.34,3.95,208.5,3.01,136
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,2.5,23.27,7.51,42.45,3.62,208.55,2.94,136
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,3,23.18,7.48,37.67,3.22,208.7,2.97,136
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,3.5,23,7.43,31.96,2.74,209.43,3.25,136
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,4,22.9,7.39,29.97,2.57,210.34,3.39,136.59
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,4.5,22.76,7.36,28.74,2.47,212.45,3.39,138.09
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,5,22.35,7.22,13.69,1.18,220.04,3.52,143
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,5.5,18.53,7.01,5.34,0.5,254.1,3.72,165.2
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,6,17.36,6.93,3.62,0.35,275.87,3.95,179.36
+(126) West Lake (Clarke),West Lake,8/27/2019,2:20:00 PM,6.5,15.45,6.85,1.85,0.18,306.56,9.78,199.16
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,0,25.45,8.65,127.85,10.48,196.19,9.15,127.25
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,0.5,25.5,8.74,142.61,11.67,220.21,11.7,143
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,1,25.5,8.77,145.1,11.88,219.85,11.82,143
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,1.5,25.01,8.55,123.15,10.13,223.17,11.58,145.17
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,2,23.99,8.2,69.72,5.86,233.48,10.31,151.67
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,2.5,23.68,7.89,38.32,3.24,241.84,8.28,157
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,3,21.83,7.49,22.18,1.94,270.15,6.39,175.7
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,3.5,19.96,7.09,12.53,1.14,349.3,4.66,227.11
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,4,17.88,6.83,10.21,0.97,438.11,4.07,284.63
+(127) White Oak Conservation Area Lake (Mahaska),White Oak Conservation Area Lake,9/17/2019,9:45:00 AM,4.5,17.36,6.77,8.9,0.85,470.15,8.13,305.5
+(128) Williamson Pond (Lucas),Williamson Pond,8/28/2019,3:40:00 PM,0,23.84,7.83,87.21,7.36,174.89,11.51,113.75
+(128) Williamson Pond (Lucas),Williamson Pond,8/28/2019,3:40:00 PM,0.5,23.53,7.85,88.73,7.53,189.4,11.4,123.13
+(128) Williamson Pond (Lucas),Williamson Pond,8/28/2019,3:40:00 PM,1,23.08,7.71,82.13,7.03,191.4,11.53,124.38
+(128) Williamson Pond (Lucas),Williamson Pond,8/28/2019,3:40:00 PM,1.5,22.77,7.61,73.37,6.31,192.23,11.38,125
+(128) Williamson Pond (Lucas),Williamson Pond,8/28/2019,3:40:00 PM,2,22.56,7.5,62.62,5.41,192.9,10.85,125.17
+(128) Williamson Pond (Lucas),Williamson Pond,8/28/2019,3:40:00 PM,2.5,22.37,7.44,47.5,4.12,193.79,10.42,126
+(128) Williamson Pond (Lucas),Williamson Pond,8/28/2019,3:40:00 PM,3,22.15,7.17,25.81,2.25,208.74,16.57,135.89
+(128) Williamson Pond (Lucas),Williamson Pond,8/28/2019,3:40:00 PM,3.5,20.37,6.85,14.34,1.29,306,23.62,198.8
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,0,25.89,8.15,97.13,7.91,351.1,2.45,228.13
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,0.5,26.39,8.22,94.94,7.64,403.36,2.37,262
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,1,26.39,8.23,93.74,7.54,403.54,2.42,262
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,1.5,26.22,8.24,87.96,7.1,404.19,2.74,262.89
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,2,25.61,8.22,79.12,6.46,405.32,3.4,263.33
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,2.5,25.31,8.17,69.67,5.72,406.5,3.52,264
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,3,25.22,8.03,65.65,5.39,407.2,3.51,265
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,3.5,25.17,7.99,58.83,4.84,408.03,3.56,265.25
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,4,25,7.75,39.38,3.25,410.65,4.17,267
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,4.5,24.04,7.51,22.72,1.9,421.9,5.62,274.2
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,5,21.69,7.32,13.62,1.19,451.4,7.33,293.17
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,5.5,19.66,7.12,10.64,0.97,489.7,7.98,318.2
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,6,17.61,6.99,9.08,0.86,586.73,7.9,381.33
+(129) Willow Lake (Harrison),Willow Lake,8/20/2019,7:55:00 AM,6.5,16.04,6.88,7.07,0.7,637.98,9.55,414.67
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,0,22.21,8.72,78.6,6.85,176.94,33.88,115.2
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,0.5,22.49,8.77,74.14,6.42,177.32,35.6,115
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,1,22.55,8.8,72.7,6.29,177.15,37.13,115
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,1.5,22.56,8.82,71.48,6.18,177.17,36.49,115
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,2,22.61,8.83,69.8,6.03,177.3,34.65,115
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,2.5,22.15,8.62,61.58,5.34,180.32,20.61,117.17
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,3,20.75,7.91,34.21,3.05,229.86,11.33,149.33
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,3.5,18.81,7.34,19.22,1.79,314.57,9.85,204.5
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,4,17.43,7.02,13.04,1.24,351.67,8.31,228.57
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,4.5,15.89,6.82,11.02,1.09,395.24,7.66,257
+(130) Wilson Park Lake (Taylor),Wilson Park Lake,9/9/2019,8:12:00 AM,5,15.6,6.76,9.32,0.93,425.25,7.72,276.17
+(131) Windmill Lake (Taylor),Windmill Lake,9/9/2019,10:20:00 AM,0,23.64,7.59,90.44,7.63,143.49,17.96,93.38
+(131) Windmill Lake (Taylor),Windmill Lake,9/9/2019,10:20:00 AM,0.5,23.06,7.64,84.17,7.21,228.95,49.25,149
+(131) Windmill Lake (Taylor),Windmill Lake,9/9/2019,10:20:00 AM,1,23.06,7.63,79.5,6.81,229,49.38,149
+(131) Windmill Lake (Taylor),Windmill Lake,9/9/2019,10:20:00 AM,1.5,23.05,7.63,78.5,6.73,229,49.65,149
+(131) Windmill Lake (Taylor),Windmill Lake,9/9/2019,10:20:00 AM,2,22.99,7.62,77.52,6.65,229.08,58.24,149
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,0,27.37,8.28,104.11,8.23,268.59,6.67,174.5
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,0.5,26.92,8.5,108.76,8.67,373.86,2.41,243
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,1,26.15,8.45,107.95,8.72,372.79,2.47,242.2
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,1.5,25.71,8.39,103.9,8.47,372.19,2.97,242
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,2,25.5,8.35,98.65,8.07,372.3,2.95,242
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,2.5,25.38,8.34,99.91,8.19,371.19,3.22,241.25
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,3,25.29,8.33,97.59,8.01,370.83,3.17,241
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,3.5,25.19,8.18,81.14,6.67,373.46,2.82,242.7
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,4,25.08,8.03,57.6,4.75,380.83,2.48,247.27
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,4.5,24.95,7.94,50.69,4.19,382.41,2.2,248.33
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,5,24.53,7.83,32.48,2.7,391.67,2.78,254.5
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,5.5,22.39,7.66,14.19,1.23,429.78,4.84,279.4
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,6,20.29,7.54,8.38,0.75,471.99,6.61,306.75
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,6.5,17.91,7.42,6.22,0.59,508.39,10.71,330.43
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,7,14.85,7.4,5.16,0.52,567.9,9.51,369
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,7.5,13.77,7.29,4.23,0.44,624.28,8.65,405.82
+(132) Yellow Smoke Park Lake (Crawford),Yellow Smoke Park Lake,8/19/2019,3:34:00 PM,8,13.21,7.16,3.66,0.38,712.52,10.41,463.11
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,0,24.51,8.72,110.79,9.23,205.52,11.77,133.56
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,0.5,24.44,8.72,115.48,9.63,208.6,11.53,136
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,1,24.39,8.69,115.33,9.63,208.78,11.3,136
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,1.5,24.18,8.54,106.44,8.92,209.26,10.62,136
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,2,23.82,8.33,89.72,7.57,210.54,9.23,136.8
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,2.5,23.33,8.15,66.24,5.64,212.67,6.96,138.29
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,3,22.98,7.99,42.32,3.63,214.58,4.76,139.5
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,3.5,22.66,7.92,24.4,2.1,216.7,3.69,140.86
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,4,22.19,7.85,14.81,1.29,219.71,2.98,142.86
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,4.5,21.42,7.75,11.73,1.03,224.84,2.29,146.29
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,5,19,7.71,9.73,0.9,241.76,1.78,157.14
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,5.5,16.95,7.58,7.21,0.69,260.51,1.76,169.38
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,6,15.68,7.54,5.44,0.54,268.07,1.88,174
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,6.5,13.81,7.51,4.43,0.46,273.91,1.61,178
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,7,13.25,7.41,3.71,0.39,272.7,1.32,177
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,7.5,12.63,7.34,3.14,0.33,275.31,1.46,179
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,8,11.83,7.29,2.72,0.3,283.58,1.72,184.5
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,8.5,11.23,7.17,2.4,0.26,294.57,2,191.43
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,9,10.85,7.15,2.18,0.24,303,2.18,197
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,9.5,10.56,7.13,2.04,0.23,309.14,2.35,201
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,10,10.27,7.11,1.88,0.21,317.32,2.54,206.4
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,10.5,9.87,7,1.7,0.19,330.36,2.97,214.63
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,11,9.55,6.96,1.54,0.18,345.03,3.77,224.29
+(205) Belva Deer Lake (Keokuk),Belva Deer Lake,9/17/2019,1:16:00 PM,11.5,9.34,6.94,1.42,0.16,357.72,7.73,232.4
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,0,21.85,7.79,98.65,8.72,131.03,4.33,85
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,0.5,23,8.05,96.83,8.3,258.4,6.23,168
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,1,23,8.07,96.17,8.24,258.33,7.81,168
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,1.5,23,8.09,95.73,8.21,258.4,9.44,168
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,2,23,8.11,95.5,8.18,258.4,11.1,168
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,2.5,23,8.12,95.23,8.16,258.4,11.53,168
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,3,22.98,8.04,88.87,7.62,258.67,11.22,168
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,3.5,21.18,7.61,61.75,5.47,273.2,10.43,177.75
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,4,20.57,7.37,37.93,3.4,289.65,9.44,188.33
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,4.5,19.33,7.14,22.22,2.04,352.18,8.98,228.83
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,5,17.62,6.95,16.66,1.58,409.64,9.66,266.4
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,5.5,16.26,6.74,11.27,1.1,457.17,10.46,297
+(245) Nodaway Lake (Adair),Nodaway Lake,9/8/2019,11:22:00 AM,6,15.17,6.63,9.84,0.99,527.53,13.3,342.86
+(257) Snyder Bend Lake (Woodbury),Snyder Bend Lake,8/19/2019,11:43:00 AM,0,25.5,8.13,96.2,7.86,827.4,8.86,537.67
+(257) Snyder Bend Lake (Woodbury),Snyder Bend Lake,8/19/2019,11:43:00 AM,0.5,25.33,8.17,95.77,7.85,829.43,8.7,539.17
+(257) Snyder Bend Lake (Woodbury),Snyder Bend Lake,8/19/2019,11:43:00 AM,1,24.98,8.05,85.23,7.02,832.93,8.93,541.43
+(257) Snyder Bend Lake (Woodbury),Snyder Bend Lake,8/19/2019,11:43:00 AM,1.5,24.44,7.92,67.54,5.62,837.66,10.3,544.57
+(257) Snyder Bend Lake (Woodbury),Snyder Bend Lake,8/19/2019,11:43:00 AM,2,24.09,7.88,55.71,4.67,840.44,12.76,546.29
+(259) Summit Lake (Union),Summit Lake,9/8/2019,11:22:00 AM,0,23.19,9.45,107.67,9.2,168.45,63.84,109.17
+(259) Summit Lake (Union),Summit Lake,9/8/2019,11:22:00 AM,0.5,23.22,9.45,107.5,9.18,208.3,65.72,135
+(259) Summit Lake (Union),Summit Lake,9/8/2019,11:22:00 AM,1,23.22,9.45,103.15,8.81,208.3,64.02,135
+(259) Summit Lake (Union),Summit Lake,9/8/2019,11:22:00 AM,1.5,23.22,9.45,102.83,8.78,208.23,66.11,135
+(259) Summit Lake (Union),Summit Lake,9/8/2019,11:22:00 AM,2,23.22,9.46,103,8.8,208.1,64.37,135
+(259) Summit Lake (Union),Summit Lake,9/8/2019,11:22:00 AM,2.5,23.19,9.46,103.07,8.81,208.1,55.77,135
+(259) Summit Lake (Union),Summit Lake,9/8/2019,11:22:00 AM,3,23.17,9.45,102.8,8.78,208.1,30.15,135
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,0,22.98,8.28,102.73,8.85,223.69,4.54,145.29
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,0.5,24,8.95,106.7,8.97,387.5,9.92,252
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,1,24,9.01,107.45,9.04,387.51,15.13,252
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,1.5,24,9.04,108.18,9.1,387.6,16.19,252
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,2,24.03,9.04,108.64,9.13,387.66,15.94,252
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,2.5,23.75,8.67,99.03,8.33,405.95,15.04,263.75
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,3,20.61,8.14,52.32,4.64,501.78,11.15,326
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,3.5,17.16,7.77,26.12,2.49,546.44,5.7,355
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,4,15.07,7.67,14.63,1.46,567.45,1.99,368.67
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,4.5,12.99,7.51,11.2,1.18,592.68,1.21,385.33
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,5,12.29,7.48,8.28,0.88,599.98,1.19,390
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,5.5,10.66,7.46,5.4,0.6,630.3,1.24,409.6
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,6,9.73,7.45,4.9,0.56,657.58,1.34,427.2
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,6.5,9.39,7.35,4.58,0.52,678.1,1.63,440.5
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,7,8.26,7.29,4.18,0.49,713.7,1.85,463.75
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,7.5,7.6,7.25,3.63,0.43,745.61,2.07,484.71
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,8,7.38,7.12,3.22,0.39,770.26,2.45,500.6
+(300) Big Hollow Lake (Des Moines),Big Hollow Lake,8/26/2019,8:55:00 AM,8.5,7.26,7,2.94,0.36,790.24,4.19,513.6
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,0,22.15,7.92,89.86,7.83,255.5,10.92,165.91
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,0.5,22.07,7.92,89.17,7.78,311.12,4.05,202
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,1,22.01,7.91,88.76,7.75,311.14,1.64,202
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,1.5,21.9,7.9,88.29,7.73,311.05,1.89,202
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,2,21.56,7.89,87,7.66,311.17,2.21,202
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,2.5,21.24,7.89,85.66,7.59,311.2,2.47,202
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,3,21.12,7.87,83.64,7.43,311.39,2.78,202.13
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,3.5,21.02,7.78,74.87,6.67,312.4,3.39,203.29
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,4,20.71,7.62,46.49,4.16,319.8,4.35,208
+(301) Rudd Lake (Floyd),Rudd Lake,9/24/2019,1:17:00 PM,4.5,20.31,7.53,26.53,2.4,331.08,7.12,215.33
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,0,24.06,8.15,108.34,9.1,330.86,2.15,215
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,0.5,23.97,8.18,109.97,9.25,329.98,2.18,214.42
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,1,23.71,8.23,107.55,9.09,329.97,2.3,214.36
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,1.5,23.36,8.21,96.33,8.2,331.67,2.65,215.58
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,2,23.08,8.14,84.54,7.23,333.31,2.54,216.73
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,2.5,22.84,8.08,74.67,6.42,333.35,2.37,216.82
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,3,22.75,8.04,69.78,6.01,333.58,2.4,217
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,3.5,22.72,7.99,63.67,5.49,335.05,2.52,217.7
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,4,22.59,7.85,46.9,4.05,338.3,3.06,219.96
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,4.5,22.21,7.63,19.04,1.65,345.99,5.17,224.94
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,5,21.36,7.48,10.86,0.96,365.95,4.38,237.91
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,5.5,19.44,7.34,8.53,0.78,398.76,5.66,259
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,6,18.1,7.27,5.86,0.55,432.89,6.22,281.28
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,6.5,16.97,7.24,4.37,0.42,446.16,6,290
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,7,15.75,7.23,3.58,0.36,449.58,4.94,292.14
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,7.5,14.83,7.22,3.04,0.31,450.41,4.36,292.75
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,8,14.16,7.22,2.65,0.27,454.48,4.35,295.4
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,8.5,13.32,7.2,2.24,0.24,461.99,4.24,300.29
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,9,12.71,7.16,1.97,0.21,472.09,4.74,306.92
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,9.5,12.35,7.12,1.81,0.19,481.8,4.87,313.18
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,10,11.93,7.07,1.63,0.17,499.64,5.08,324.67
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,10.5,11.66,7.02,1.49,0.16,512.8,5.21,333.27
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,11,11.43,6.99,1.4,0.15,525.15,5.21,341.38
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,11.5,11.11,6.94,1.25,0.14,549.06,5.25,357
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,12,10.86,6.88,1.13,0.13,574.2,5.54,373.09
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,12.5,10.6,6.84,1.04,0.11,605.05,5.71,393.36
+(304) Lost Grove Lake (Scott),Lost Grove Lake,9/16/2019,12:30:00 PM,13,10.15,6.75,0.86,0.1,705.16,5.85,458.33
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,0,23.53,8.3,102.46,8.7,394.85,2.15,256.73
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,0.5,23.59,8.3,103.84,8.8,398.47,1.32,259
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,1,23.61,8.3,104.67,8.87,399.93,1.29,260
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,1.5,23.61,8.3,105.03,8.9,400.38,1.29,260
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,2,23.61,8.3,105.26,8.92,400.65,1.25,260.1
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,2.5,23.61,8.3,105.34,8.93,400.92,1.13,261
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,3,23.61,8.3,105.46,8.94,401.07,0.98,261
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,3.5,23.58,8.3,105.6,8.95,401.28,0.87,261
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,4,22.83,8.29,105.52,9.06,410.35,1.47,266.63
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,4.5,21.62,8.2,101.98,8.97,426.36,3.86,277.1
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,5,21.22,8.11,95.65,8.48,433.64,5.3,281.82
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,5.5,20.97,8.05,91.59,8.16,437.84,6.13,284.64
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,6,20.7,7.97,83.45,7.47,442.28,7.65,287.47
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,6.5,20.06,7.77,64.79,5.87,452.54,8.35,294.06
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,7,19.04,7.6,33.16,3.06,469.59,6.88,305.25
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,7.5,18.39,7.52,15.66,1.47,478.45,5.29,311
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,8,16.4,7.47,9.73,0.95,502.5,4.08,326.67
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,8.5,13.36,7.41,6.06,0.63,541.38,4.01,351.9
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,9,11.96,7.36,4.34,0.47,552.73,4.22,359.4
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,9.5,10.96,7.31,3.35,0.37,551.74,3.9,358.45
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,10,10.19,7.27,2.76,0.31,550.55,3.67,357.8
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,10.5,9.67,7.25,2.43,0.28,551.61,3.47,358.57
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,11,9.37,7.23,2.19,0.25,551.78,3.26,358.88
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,11.5,9.15,7.21,1.97,0.23,552.47,3.1,359
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,12,8.83,7.18,1.71,0.2,554.96,3.09,360.82
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,12.5,8.54,7.15,1.51,0.18,558.02,3.04,362.67
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,13,8.42,7.13,1.4,0.16,559.51,3.07,363.88
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,13.5,8.28,7.11,1.28,0.15,561.01,3.04,364.56
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,14,8.13,7.09,1.16,0.14,562.83,2.99,365.8
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,14.5,8.03,7.07,1.02,0.12,564.71,5.22,367.17
+(400) Ada Hayden Lake (Story),Ada Hayden Lake,9/22/2019,3:15:00 PM,15,8,7.06,0.9,0.11,566.6,5.45,368

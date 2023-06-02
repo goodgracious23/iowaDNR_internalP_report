@@ -23,22 +23,34 @@ tcline_sum = tcline %>%
          tcline_percent = (yes_tcline/n_tcline_obs)*100) %>%
   filter(n_tcline_obs>9) 
 
-windows(height = 4.5, width = 6)
-plot(rank(tcline_sum$tcline_percent), tcline_sum$tcline_percent)
-hist(tcline_sum$tcline_percent, ylab = "Number of Lakes", xlab = "% of observations Thermocline Observed (2007-2020)", cex.lab = 1, main = "")
+windows(height = 3, width = 6)
+par(mfrow = c(1,2), omi = c(0.5,0.1,0.1,0.1), mai = c(0.1, 0.7, 0.1, 0.1))
+# plot(rank(tcline_sum$tcline_percent), tcline_sum$tcline_percent)
+hist(tcline_sum$tcline_percent, 
+     col = "darkgray", border = "white",
+     ylab = "Number of Lakes", xlab = "% of observations Thermocline Observed (2007-2020)", 
+     cex.lab = 1, main = "")
 
 #pair with lake depth, surface area
 tcline_static = left_join(tcline_sum, static, by = "siteID")
 
+#Mean Depth Data and Model
 plot(tcline_static$tcline_percent, tcline_static$meanDepth_m,
-     ylim = c(12,0), pch = 19, col = rgb(102,102,102, max = 255, alpha = 150), cex = 3, xlab = "Observations with Thermocline", ylab = "Mean Depth (m)")
+     ylim = c(0,16), pch = 19, 
+     col = rgb(117,112,179, max = 255, alpha = 100), 
+     cex = 1, xlab = "Observations with Thermocline", ylab = "Mean Depth (m)")
 
-tcline_contour = tcline_static %>%
-  select(tcline_percent, maxDepth_m, surfaceArea_km2) %>%
-  filter(!is.na(maxDepth_m),
-         !is.na(surfaceArea_km2))
+mean_model <- lm(log(meanDepth_m)~ tcline_percent, data = tcline_static)
+s <- seq(1:100)
+lines(s, (2.71828^mean_model$coefficients[1])*(2.71828^mean_model$coefficients[2])^s,
+      lwd = 4, col = rgb(117,112,179, max = 255, alpha = 250))
 
+#Max Depth Data and Model
+points(tcline_static$tcline_percent, tcline_static$maxDepth_m,
+       pch = 19, cex = 1, 
+       col = rgb(27, 158, 119, max = 255, alpha = 100))
 
-plot1 <- ggplot(tcline_contour, aes(x = maxDepth_m, y = surfaceArea_km2, z = tcline_percent)) +
-  stat_contour()
-plot1
+max_model <- lm(log(tcline_static$maxDepth_m)~ tcline_static$tcline_percent)
+s <- seq(1:100)
+lines(s, (2.71828^max_model$coefficients[1])*(2.71828^max_model$coefficients[2])^s,
+      lwd = 4, col = rgb(27, 158, 119, max = 255, alpha = 250))

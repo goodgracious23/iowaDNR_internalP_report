@@ -1,0 +1,86 @@
+year,doy,siteID,lake,site,name,TSS,TFSS
+2009,168,22060001,Hannen Lake,deep site,Hannen Lake,4,NA
+2009,127,22060001,Hannen Lake,deep site,Hannen Lake,3,NA
+2009,217,22060001,Hannen Lake,deep site,Hannen Lake,7,NA
+2009,190,22060001,Hannen Lake,deep site,Hannen Lake,3,NA
+2009,253,22060001,Hannen Lake,deep site,Hannen Lake,5,NA
+2009,267,22060003,Hannen Lake,outfall,Hannen Lake Outfall,5,NA
+2009,190,22060003,Hannen Lake,outfall,Hannen Lake Outfall,3,NA
+2009,217,22060003,Hannen Lake,outfall,Hannen Lake Outfall,50,NA
+2009,253,22060003,Hannen Lake,outfall,Hannen Lake Outfall,26,NA
+2009,127,22060003,Hannen Lake,outfall,Hannen Lake Outfall,4,NA
+2009,141,22060003,Hannen Lake,outfall,Hannen Lake Outfall,6,NA
+2009,168,22060003,Hannen Lake,outfall,Hannen Lake Outfall,10,NA
+2011,132,22250001,Beaver Lake,deep site,Beaver Lake,3,NA
+2011,167,22250001,Beaver Lake,deep site,Beaver Lake,14,NA
+2011,187,22250001,Beaver Lake,deep site,Beaver Lake,15,NA
+2011,229,22250001,Beaver Lake,deep site,Beaver Lake,31,NA
+2011,257,22250001,Beaver Lake,deep site,Beaver Lake,22,NA
+2011,257,22250003,Beaver Lake,inlet,Beaver Lake inlet at Dexter,30,NA
+2011,229,22250003,Beaver Lake,inlet,Beaver Lake inlet at Dexter,34,NA
+2011,187,22250003,Beaver Lake,inlet,Beaver Lake inlet at Dexter,18,NA
+2011,167,22250003,Beaver Lake,inlet,Beaver Lake inlet at Dexter,13,NA
+2011,132,22250003,Beaver Lake,inlet,Beaver Lake inlet at Dexter,23,NA
+2011,186,22270001,Little River Lake,deep site,Little River Lake,11,NA
+2011,200,22270001,Little River Lake,deep site,Little River Lake,18,NA
+2011,221,22270001,Little River Lake,deep site,Little River Lake,6,NA
+2011,215,22270001,Little River Lake,deep site,Little River Lake,8,NA
+2010,153,22270001,Little River Lake,deep site,Little River Lake,4,1
+2010,188,22270001,Little River Lake,deep site,Little River Lake,5,4
+2010,214,22270001,Little River Lake,deep site,Little River Lake,8,5
+2010,245,22270001,Little River Lake,deep site,Little River Lake,5,4
+2010,123,22270001,Little River Lake,deep site,Little River Lake,3,2
+2010,123,22270004,Little River Lake,outfall,Little River Lake near Leon (site LRL4),4,2
+2010,245,22270004,Little River Lake,outfall,Little River Lake near Leon (site LRL4),15,12
+2010,214,22270004,Little River Lake,outfall,Little River Lake near Leon (site LRL4),9,5
+2010,188,22270004,Little River Lake,outfall,Little River Lake near Leon (site LRL4),12,7
+2010,153,22270004,Little River Lake,outfall,Little River Lake near Leon (site LRL4),6,3
+2011,215,22270004,Little River Lake,outfall,Little River Lake near Leon (site LRL4),22,NA
+2011,221,22270004,Little River Lake,outfall,Little River Lake near Leon (site LRL4),13,NA
+2011,200,22270004,Little River Lake,outfall,Little River Lake near Leon (site LRL4),25,NA
+2011,186,22270004,Little River Lake,outfall,Little River Lake near Leon (site LRL4),6,NA
+2009,259,22620002,Lake Keomah,deep site,Lake Keomah,1,NA
+2009,190,22620002,Lake Keomah,deep site,Lake Keomah,3,NA
+2009,217,22620002,Lake Keomah,deep site,Lake Keomah,4,NA
+2009,127,22620002,Lake Keomah,deep site,Lake Keomah,8,NA
+2009,159,22620002,Lake Keomah,deep site,Lake Keomah,7,NA
+2009,159,22620004,Lake Keomah,east arm,Lake Keomah - East Arm,6,NA
+2009,127,22620004,Lake Keomah,east arm,Lake Keomah - East Arm,7,NA
+2009,217,22620004,Lake Keomah,east arm,Lake Keomah - East Arm,5,NA
+2009,190,22620004,Lake Keomah,east arm,Lake Keomah - East Arm,3,NA
+2009,259,22620004,Lake Keomah,east arm,Lake Keomah - East Arm,1,NA
+2009,259,22620005,Lake Keomah,west arm,Lake Keomah - West Arm,2,NA
+2009,190,22620005,Lake Keomah,west arm,Lake Keomah - West Arm,5,NA
+2009,217,22620005,Lake Keomah,west arm,Lake Keomah - West Arm,4,NA
+2009,127,22620005,Lake Keomah,west arm,Lake Keomah - West Arm,7,NA
+2009,159,22620005,Lake Keomah,west arm,Lake Keomah - West Arm,3,NA
+2008,178,22810002,Black Hawk Lake,deep site,Black Hawk Lake,25,16
+2008,150,22810002,Black Hawk Lake,deep site,Black Hawk Lake,12,8
+2008,234,22810002,Black Hawk Lake,deep site,Black Hawk Lake,63,13
+2008,205,22810002,Black Hawk Lake,deep site,Black Hawk Lake,36,14
+2008,280,22810002,Black Hawk Lake,deep site,Black Hawk Lake,42,5
+2008,280,22810003,Black Hawk Lake,west arm,Black Hawk Lake West Arm,100,52
+2008,205,22810003,Black Hawk Lake,west arm,Black Hawk Lake West Arm,64,26
+2008,234,22810003,Black Hawk Lake,west arm,Black Hawk Lake West Arm,55,19
+2008,150,22810003,Black Hawk Lake,west arm,Black Hawk Lake West Arm,31,16
+2008,178,22810003,Black Hawk Lake,west arm,Black Hawk Lake West Arm,49,27
+2007,227,22810003,Black Hawk Lake,west arm,Black Hawk Lake West Arm,38,17
+2007,198,22810003,Black Hawk Lake,west arm,Black Hawk Lake West Arm,50,20
+2007,164,22810003,Black Hawk Lake,west arm,Black Hawk Lake West Arm,32,17
+2007,164,22810004,Black Hawk Lake,open bay,Black Hawk Lake Open Bay,16,6
+2007,198,22810004,Black Hawk Lake,open bay,Black Hawk Lake Open Bay,50,24
+2007,227,22810004,Black Hawk Lake,open bay,Black Hawk Lake Open Bay,46,19
+2008,150,22810004,Black Hawk Lake,open bay,Black Hawk Lake Open Bay,15,11
+2008,234,22810004,Black Hawk Lake,open bay,Black Hawk Lake Open Bay,67,14
+2008,205,22810004,Black Hawk Lake,open bay,Black Hawk Lake Open Bay,29,12
+2008,280,22810004,Black Hawk Lake,open bay,Black Hawk Lake Open Bay,50,10
+2011,159,22860002,Otter Creek Lake,deep site,Otter Creek Lake,5,NA
+2011,130,22860002,Otter Creek Lake,deep site,Otter Creek Lake,4,NA
+2011,195,22860002,Otter Creek Lake,deep site,Otter Creek Lake,10,NA
+2011,220,22860002,Otter Creek Lake,deep site,Otter Creek Lake,23,NA
+2011,257,22860002,Otter Creek Lake,deep site,Otter Creek Lake,14,NA
+2011,257,22860004,Otter Creek Lake,inlet,Otter Creek Lake inlet at Clutier,14,NA
+2011,220,22860004,Otter Creek Lake,inlet,Otter Creek Lake inlet at Clutier,35,NA
+2011,195,22860004,Otter Creek Lake,inlet,Otter Creek Lake inlet at Clutier,56,NA
+2011,159,22860004,Otter Creek Lake,inlet,Otter Creek Lake inlet at Clutier,18,NA
+2011,130,22860004,Otter Creek Lake,inlet,Otter Creek Lake inlet at Clutier,6,NA

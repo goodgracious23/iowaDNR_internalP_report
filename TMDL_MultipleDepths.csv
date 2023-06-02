@@ -1,0 +1,442 @@
+year,doy,siteID,lake,site,name,TSS,TFSS
+2005,266,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),12,NA
+2005,216,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),19,NA
+2005,230,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),13,NA
+2005,251,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),15,NA
+2004,189,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),8,NA
+2004,216,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),60,NA
+2004,202,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),19,NA
+2004,260,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),47,NA
+2004,279,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),22,NA
+2004,245,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),21,NA
+2004,231,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),60,NA
+2005,188,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),25,NA
+2005,166,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),15,NA
+2005,76,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),8,NA
+2005,153,22050001,Littlefield Lake,bottom water,Littlefield Lake (maximum water depth),13,NA
+2005,153,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),16,NA
+2005,166,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),26,NA
+2005,188,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),21,NA
+2004,231,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),64,NA
+2004,245,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),18,NA
+2004,279,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),20,NA
+2004,260,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),42,NA
+2004,202,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),16,NA
+2004,216,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),50,NA
+2004,189,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),4,NA
+2005,251,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),12,NA
+2005,230,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),14,NA
+2005,216,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),17,NA
+2005,266,22050002,Littlefield Lake,mid depth,Littlefield Lake (mean water depth),14,NA
+2005,266,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),18,NA
+2005,216,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),13,NA
+2005,230,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),28,NA
+2005,251,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),24,NA
+2004,189,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),11,NA
+2004,216,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),50,NA
+2004,202,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),20,NA
+2004,260,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),41,NA
+2004,279,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),17,NA
+2004,245,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),23,NA
+2004,231,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),68,NA
+2005,188,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),31,NA
+2005,166,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),14,NA
+2005,153,22050003,Littlefield Lake,surface water,Littlefield Lake (shallow water depth),16,NA
+2002,254,22080001,Don Williams,surface water,Don Williams Lake Surface Grab (1),19,NA
+2002,282,22080001,Don Williams,surface water,Don Williams Lake Surface Grab (1),2,NA
+2002,169,22080001,Don Williams,surface water,Don Williams Lake Surface Grab (1),8,NA
+2002,142,22080001,Don Williams,surface water,Don Williams Lake Surface Grab (1),7,NA
+2002,115,22080001,Don Williams,surface water,Don Williams Lake Surface Grab (1),3,NA
+2002,224,22080001,Don Williams,surface water,Don Williams Lake Surface Grab (1),10,NA
+2002,199,22080001,Don Williams,surface water,Don Williams Lake Surface Grab (1),8,NA
+2002,87,22080001,Don Williams,surface water,Don Williams Lake Surface Grab (1),5,NA
+2002,101,22080001,Don Williams,surface water,Don Williams Lake Surface Grab (1),6,NA
+2002,101,22080002,Don Williams,mid depth,Don Williams Lake Mid-depth Grab (2),4,NA
+2002,87,22080002,Don Williams,mid depth,Don Williams Lake Mid-depth Grab (2),5,NA
+2002,199,22080002,Don Williams,mid depth,Don Williams Lake Mid-depth Grab (2),8,NA
+2002,224,22080002,Don Williams,mid depth,Don Williams Lake Mid-depth Grab (2),6,NA
+2002,115,22080002,Don Williams,mid depth,Don Williams Lake Mid-depth Grab (2),5,NA
+2002,169,22080002,Don Williams,mid depth,Don Williams Lake Mid-depth Grab (2),6,NA
+2002,142,22080002,Don Williams,mid depth,Don Williams Lake Mid-depth Grab (2),7,NA
+2002,282,22080002,Don Williams,mid depth,Don Williams Lake Mid-depth Grab (2),2,NA
+2002,254,22080002,Don Williams,mid depth,Don Williams Lake Mid-depth Grab (2),20,NA
+2002,254,22080003,Don Williams,bottom water,Don Williams Lake Bottom Grab (3),12,NA
+2002,282,22080003,Don Williams,bottom water,Don Williams Lake Bottom Grab (3),4,NA
+2002,169,22080003,Don Williams,bottom water,Don Williams Lake Bottom Grab (3),5,NA
+2002,142,22080003,Don Williams,bottom water,Don Williams Lake Bottom Grab (3),5,NA
+2002,115,22080003,Don Williams,bottom water,Don Williams Lake Bottom Grab (3),7,NA
+2002,224,22080003,Don Williams,bottom water,Don Williams Lake Bottom Grab (3),21,NA
+2002,199,22080003,Don Williams,bottom water,Don Williams Lake Bottom Grab (3),7,NA
+2002,87,22080003,Don Williams,bottom water,Don Williams Lake Bottom Grab (3),4,NA
+2002,101,22080003,Don Williams,bottom water,Don Williams Lake Bottom Grab (3),6,NA
+2003,190,22080004,Don Williams,bottom water,Don Williams Lake (maximum water depth),26,NA
+2003,202,22080004,Don Williams,bottom water,Don Williams Lake (maximum water depth),13,NA
+2003,254,22080004,Don Williams,bottom water,Don Williams Lake (maximum water depth),9,NA
+2003,268,22080004,Don Williams,bottom water,Don Williams Lake (maximum water depth),15,NA
+2003,280,22080004,Don Williams,bottom water,Don Williams Lake (maximum water depth),14,NA
+2003,232,22080004,Don Williams,bottom water,Don Williams Lake (maximum water depth),6,NA
+2003,216,22080004,Don Williams,bottom water,Don Williams Lake (maximum water depth),11,NA
+2003,216,22080005,Don Williams,mid depth,Don Williams Lake (mean water depth),8,NA
+2003,232,22080005,Don Williams,mid depth,Don Williams Lake (mean water depth),8,NA
+2003,280,22080005,Don Williams,mid depth,Don Williams Lake (mean water depth),15,NA
+2003,268,22080005,Don Williams,mid depth,Don Williams Lake (mean water depth),15,NA
+2003,254,22080005,Don Williams,mid depth,Don Williams Lake (mean water depth),11,NA
+2003,202,22080005,Don Williams,mid depth,Don Williams Lake (mean water depth),11,NA
+2003,190,22080005,Don Williams,mid depth,Don Williams Lake (mean water depth),28,NA
+2003,190,22080006,Don Williams,surface water,Don Williams Lake (shallow water depth),210,NA
+2003,202,22080006,Don Williams,surface water,Don Williams Lake (shallow water depth),32,NA
+2003,254,22080006,Don Williams,surface water,Don Williams Lake (shallow water depth),32,NA
+2003,280,22080006,Don Williams,surface water,Don Williams Lake (shallow water depth),22,NA
+2003,268,22080006,Don Williams,surface water,Don Williams Lake (shallow water depth),23,NA
+2003,232,22080006,Don Williams,surface water,Don Williams Lake (shallow water depth),35,NA
+2003,216,22080006,Don Williams,surface water,Don Williams Lake (shallow water depth),18,NA
+2004,230,22130001,North Twin,bottom water,North Twin Lake (maximum water depth),33,NA
+2004,217,22130001,North Twin,bottom water,North Twin Lake (maximum water depth),31,NA
+2004,244,22130001,North Twin,bottom water,North Twin Lake (maximum water depth),20,NA
+2004,259,22130001,North Twin,bottom water,North Twin Lake (maximum water depth),21,NA
+2004,280,22130001,North Twin,bottom water,North Twin Lake (maximum water depth),15,NA
+2004,204,22130001,North Twin,bottom water,North Twin Lake (maximum water depth),18,NA
+2004,188,22130001,North Twin,bottom water,North Twin Lake (maximum water depth),41,NA
+2004,188,22130002,North Twin,mid depth,North Twin Lake (mean water depth),20,NA
+2004,259,22130002,North Twin,mid depth,North Twin Lake (mean water depth),27,NA
+2004,244,22130002,North Twin,mid depth,North Twin Lake (mean water depth),25,NA
+2004,204,22130002,North Twin,mid depth,North Twin Lake (mean water depth),17,NA
+2004,217,22130002,North Twin,mid depth,North Twin Lake (mean water depth),29,NA
+2004,230,22130002,North Twin,mid depth,North Twin Lake (mean water depth),33,NA
+2004,280,22130002,North Twin,mid depth,North Twin Lake (mean water depth),7,NA
+2004,230,22130003,North Twin,surface water,North Twin Lake (shallow water depth),37,NA
+2004,217,22130003,North Twin,surface water,North Twin Lake (shallow water depth),28,NA
+2004,204,22130003,North Twin,surface water,North Twin Lake (shallow water depth),19,NA
+2004,244,22130003,North Twin,surface water,North Twin Lake (shallow water depth),40,NA
+2004,259,22130003,North Twin,surface water,North Twin Lake (shallow water depth),27,NA
+2004,280,22130003,North Twin,surface water,North Twin Lake (shallow water depth),12,NA
+2004,188,22130003,North Twin,surface water,North Twin Lake (shallow water depth),21,NA
+2003,217,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),31,NA
+2003,231,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),17,NA
+2003,273,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),9,NA
+2003,259,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),24,NA
+2003,203,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),24,NA
+2003,191,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),10,NA
+2010,161,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),11,4
+2010,189,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),13,NA
+2010,215,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),29,NA
+2010,244,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),18,3
+2010,125,22330001,Volga Lake,bottom water,Volga Lake (maximum water depth),7,NA
+2003,191,22330002,Volga Lake,mid depth,Volga Lake (mean water depth),14,NA
+2003,203,22330002,Volga Lake,mid depth,Volga Lake (mean water depth),21,NA
+2003,273,22330002,Volga Lake,mid depth,Volga Lake (mean water depth),8,NA
+2003,259,22330002,Volga Lake,mid depth,Volga Lake (mean water depth),11,NA
+2003,231,22330002,Volga Lake,mid depth,Volga Lake (mean water depth),32,NA
+2003,217,22330002,Volga Lake,mid depth,Volga Lake (mean water depth),31,NA
+2003,217,22330003,Volga Lake,surface water,Volga Lake (shallow water depth),26,NA
+2003,231,22330003,Volga Lake,surface water,Volga Lake (shallow water depth),33,NA
+2003,259,22330003,Volga Lake,surface water,Volga Lake (shallow water depth),7,NA
+2003,273,22330003,Volga Lake,surface water,Volga Lake (shallow water depth),6,NA
+2003,203,22330003,Volga Lake,surface water,Volga Lake (shallow water depth),28,NA
+2003,191,22330003,Volga Lake,surface water,Volga Lake (shallow water depth),49,NA
+2005,82,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),24,NA
+2005,152,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),52,NA
+2005,187,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),45,NA
+2005,202,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),36,NA
+2005,167,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),53,NA
+2005,265,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),35,NA
+2005,217,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),32,NA
+2005,229,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),21,NA
+2005,252,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),23,NA
+2003,191,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),25,NA
+2003,204,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),30,NA
+2003,281,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),60,NA
+2003,267,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),53,NA
+2003,252,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),42,NA
+2003,233,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),45,NA
+2003,217,22400001,Little Wall Lake,bottom water,Little Wall Lake (maximum water depth),36,NA
+2003,204,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),29,NA
+2003,217,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),48,NA
+2003,233,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),43,NA
+2003,252,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),46,NA
+2003,267,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),49,NA
+2003,281,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),60,NA
+2003,191,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),66,NA
+2005,252,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),22,NA
+2005,229,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),22,NA
+2005,217,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),34,NA
+2005,265,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),30,NA
+2005,167,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),48,NA
+2005,202,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),38,NA
+2005,187,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),36,NA
+2005,152,22400002,Little Wall Lake,mid depth,Little Wall Lake (mean water depth),42,NA
+2005,152,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),44,NA
+2005,187,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),40,NA
+2005,202,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),36,NA
+2005,167,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),50,NA
+2005,265,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),30,NA
+2005,217,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),36,NA
+2005,229,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),21,NA
+2005,252,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),18,NA
+2003,191,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),28,NA
+2003,281,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),62,NA
+2003,267,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),56,NA
+2003,252,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),42,NA
+2003,233,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),35,NA
+2003,217,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),87,NA
+2003,204,22400003,Little Wall Lake,surface water,Little Wall Lake (shallow water depth),30,NA
+2003,204,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),9,NA
+2003,218,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),8,NA
+2003,232,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),9,NA
+2003,260,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),2,NA
+2003,272,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),3,NA
+2003,189,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),7,NA
+2012,163,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),5,NA
+2012,221,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),10,NA
+2012,193,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),9,NA
+2012,256,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),7,NA
+2012,130,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),3,NA
+2008,262,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),8,1
+2008,140,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),4,2
+2008,238,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),12,2
+2008,212,22520001,Lake Macbride,bottom water,Lake Macbride (maximum water depth),9,3
+2003,189,22520002,Lake Macbride,mid depth,Lake Macbride (mean water depth),12,NA
+2003,204,22520002,Lake Macbride,mid depth,Lake Macbride (mean water depth),12,NA
+2003,260,22520002,Lake Macbride,mid depth,Lake Macbride (mean water depth),7,NA
+2003,232,22520002,Lake Macbride,mid depth,Lake Macbride (mean water depth),11,NA
+2003,218,22520002,Lake Macbride,mid depth,Lake Macbride (mean water depth),16,NA
+2003,272,22520002,Lake Macbride,mid depth,Lake Macbride (mean water depth),9,NA
+2003,204,22520003,Lake Macbride,surface water,Lake Macbride (shallow water depth),23,NA
+2003,218,22520003,Lake Macbride,surface water,Lake Macbride (shallow water depth),27,NA
+2003,232,22520003,Lake Macbride,surface water,Lake Macbride (shallow water depth),15,NA
+2003,260,22520003,Lake Macbride,surface water,Lake Macbride (shallow water depth),18,NA
+2003,272,22520003,Lake Macbride,surface water,Lake Macbride (shallow water depth),17,NA
+2003,283,22770001,Easter Lake,bottom water,Easter Lake (maximum water depth),8,NA
+2003,269,22770001,Easter Lake,bottom water,Easter Lake (maximum water depth),21,NA
+2003,255,22770001,Easter Lake,bottom water,Easter Lake (maximum water depth),17,NA
+2003,234,22770001,Easter Lake,bottom water,Easter Lake (maximum water depth),25,NA
+2003,219,22770001,Easter Lake,bottom water,Easter Lake (maximum water depth),18,NA
+2003,203,22770001,Easter Lake,bottom water,Easter Lake (maximum water depth),12,NA
+2003,192,22770001,Easter Lake,bottom water,Easter Lake (maximum water depth),9,NA
+2003,192,22770002,Easter Lake,mid depth,Easter Lake (mean water depth),13,NA
+2003,203,22770002,Easter Lake,mid depth,Easter Lake (mean water depth),16,NA
+2003,219,22770002,Easter Lake,mid depth,Easter Lake (mean water depth),18,NA
+2003,234,22770002,Easter Lake,mid depth,Easter Lake (mean water depth),27,NA
+2003,255,22770002,Easter Lake,mid depth,Easter Lake (mean water depth),28,NA
+2003,269,22770002,Easter Lake,mid depth,Easter Lake (mean water depth),24,NA
+2003,283,22770002,Easter Lake,mid depth,Easter Lake (mean water depth),10,NA
+2003,283,22770003,Easter Lake,surface water,Easter Lake (shallow water depth),9,NA
+2003,269,22770003,Easter Lake,surface water,Easter Lake (shallow water depth),25,NA
+2003,255,22770003,Easter Lake,surface water,Easter Lake (shallow water depth),18,NA
+2003,234,22770003,Easter Lake,surface water,Easter Lake (shallow water depth),29,NA
+2003,219,22770003,Easter Lake,surface water,Easter Lake (shallow water depth),21,NA
+2003,203,22770003,Easter Lake,surface water,Easter Lake (shallow water depth),16,NA
+2003,192,22770003,Easter Lake,surface water,Easter Lake (shallow water depth),13,NA
+2003,282,22850001,Hickory Grove,bottom water,Hickory Grove Lake (maximum water depth),11,NA
+2003,195,22850001,Hickory Grove,bottom water,Hickory Grove Lake (maximum water depth),5,NA
+2003,230,22850001,Hickory Grove,bottom water,Hickory Grove Lake (maximum water depth),9,NA
+2003,218,22850001,Hickory Grove,bottom water,Hickory Grove Lake (maximum water depth),9,NA
+2003,253,22850001,Hickory Grove,bottom water,Hickory Grove Lake (maximum water depth),10,NA
+2003,265,22850001,Hickory Grove,bottom water,Hickory Grove Lake (maximum water depth),8,NA
+2003,265,22850002,Hickory Grove,mid depth,Hickory Grove Lake (mean water depth),10,NA
+2003,253,22850002,Hickory Grove,mid depth,Hickory Grove Lake (mean water depth),10,NA
+2003,230,22850002,Hickory Grove,mid depth,Hickory Grove Lake (mean water depth),7,NA
+2003,218,22850002,Hickory Grove,mid depth,Hickory Grove Lake (mean water depth),6,NA
+2003,195,22850002,Hickory Grove,mid depth,Hickory Grove Lake (mean water depth),8,NA
+2003,282,22850002,Hickory Grove,mid depth,Hickory Grove Lake (mean water depth),7,NA
+2003,282,22850003,Hickory Grove,surface water,Hickory Grove Lake (shallow water depth),7,NA
+2003,195,22850003,Hickory Grove,surface water,Hickory Grove Lake (shallow water depth),16,NA
+2003,218,22850003,Hickory Grove,surface water,Hickory Grove Lake (shallow water depth),6,NA
+2003,230,22850003,Hickory Grove,surface water,Hickory Grove Lake (shallow water depth),8,NA
+2003,253,22850003,Hickory Grove,surface water,Hickory Grove Lake (shallow water depth),15,NA
+2003,265,22850003,Hickory Grove,surface water,Hickory Grove Lake (shallow water depth),9,NA
+2004,189,22890001,Indian Lake,bottom water,Indian Lake (maximum water depth),12,NA
+2004,204,22890001,Indian Lake,bottom water,Indian Lake (maximum water depth),11,NA
+2004,280,22890001,Indian Lake,bottom water,Indian Lake (maximum water depth),20,NA
+2004,259,22890001,Indian Lake,bottom water,Indian Lake (maximum water depth),17,NA
+2004,217,22890001,Indian Lake,bottom water,Indian Lake (maximum water depth),20,NA
+2004,231,22890001,Indian Lake,bottom water,Indian Lake (maximum water depth),20,NA
+2004,244,22890001,Indian Lake,bottom water,Indian Lake (maximum water depth),12,NA
+2004,244,22890002,Indian Lake,mid depth,Indian Lake (mean water depth),18,NA
+2004,231,22890002,Indian Lake,mid depth,Indian Lake (mean water depth),24,NA
+2004,217,22890002,Indian Lake,mid depth,Indian Lake (mean water depth),22,NA
+2004,259,22890002,Indian Lake,mid depth,Indian Lake (mean water depth),13,NA
+2004,280,22890002,Indian Lake,mid depth,Indian Lake (mean water depth),19,NA
+2004,204,22890002,Indian Lake,mid depth,Indian Lake (mean water depth),20,NA
+2004,189,22890002,Indian Lake,mid depth,Indian Lake (mean water depth),14,NA
+2004,189,22890003,Indian Lake,surface water,Indian Lake (shallow water depth),10,NA
+2004,204,22890003,Indian Lake,surface water,Indian Lake (shallow water depth),14,NA
+2004,280,22890003,Indian Lake,surface water,Indian Lake (shallow water depth),22,NA
+2004,259,22890003,Indian Lake,surface water,Indian Lake (shallow water depth),27,NA
+2004,217,22890003,Indian Lake,surface water,Indian Lake (shallow water depth),20,NA
+2004,244,22890003,Indian Lake,surface water,Indian Lake (shallow water depth),26,NA
+2004,231,22890003,Indian Lake,surface water,Indian Lake (shallow water depth),21,NA
+2003,273,22960004,Lake Meyer,bottom water,Lake Meyer (maximum water depth),14,NA
+2003,258,22960004,Lake Meyer,bottom water,Lake Meyer (maximum water depth),7,NA
+2003,217,22960004,Lake Meyer,bottom water,Lake Meyer (maximum water depth),15,NA
+2003,231,22960004,Lake Meyer,bottom water,Lake Meyer (maximum water depth),14,NA
+2003,203,22960004,Lake Meyer,bottom water,Lake Meyer (maximum water depth),14,NA
+2003,191,22960004,Lake Meyer,bottom water,Lake Meyer (maximum water depth),25,NA
+2003,191,22960005,Lake Meyer,mid depth,Lake Meyer (mean water depth),17,NA
+2003,203,22960005,Lake Meyer,mid depth,Lake Meyer (mean water depth),12,NA
+2003,231,22960005,Lake Meyer,mid depth,Lake Meyer (mean water depth),13,NA
+2003,217,22960005,Lake Meyer,mid depth,Lake Meyer (mean water depth),14,NA
+2003,273,22960005,Lake Meyer,mid depth,Lake Meyer (mean water depth),16,NA
+2003,258,22960005,Lake Meyer,mid depth,Lake Meyer (mean water depth),9,NA
+2003,258,22960006,Lake Meyer,surface water,Lake Meyer (shallow water depth),17,NA
+2003,273,22960006,Lake Meyer,surface water,Lake Meyer (shallow water depth),19,NA
+2003,217,22960006,Lake Meyer,surface water,Lake Meyer (shallow water depth),18,NA
+2003,231,22960006,Lake Meyer,surface water,Lake Meyer (shallow water depth),15,NA
+2003,203,22960006,Lake Meyer,surface water,Lake Meyer (shallow water depth),18,NA
+2003,191,22960006,Lake Meyer,surface water,Lake Meyer (shallow water depth),17,NA
+2004,229,22990001,Lake Cornelia,bottom water,Lake Cornelia (maximum water depth),24,NA
+2004,218,22990001,Lake Cornelia,bottom water,Lake Cornelia (maximum water depth),20,NA
+2004,258,22990001,Lake Cornelia,bottom water,Lake Cornelia (maximum water depth),40,NA
+2004,247,22990001,Lake Cornelia,bottom water,Lake Cornelia (maximum water depth),25,NA
+2004,278,22990001,Lake Cornelia,bottom water,Lake Cornelia (maximum water depth),19,NA
+2004,201,22990001,Lake Cornelia,bottom water,Lake Cornelia (maximum water depth),15,NA
+2004,190,22990001,Lake Cornelia,bottom water,Lake Cornelia (maximum water depth),16,NA
+2004,190,22990002,Lake Cornelia,mid depth,Lake Cornelia (mean water depth),16,NA
+2004,201,22990002,Lake Cornelia,mid depth,Lake Cornelia (mean water depth),15,NA
+2004,278,22990002,Lake Cornelia,mid depth,Lake Cornelia (mean water depth),17,NA
+2004,247,22990002,Lake Cornelia,mid depth,Lake Cornelia (mean water depth),17,NA
+2004,258,22990002,Lake Cornelia,mid depth,Lake Cornelia (mean water depth),24,NA
+2004,218,22990002,Lake Cornelia,mid depth,Lake Cornelia (mean water depth),24,NA
+2004,229,22990002,Lake Cornelia,mid depth,Lake Cornelia (mean water depth),28,NA
+2004,229,22990003,Lake Cornelia,surface water,Lake Cornelia (shallow water depth),22,NA
+2004,218,22990003,Lake Cornelia,surface water,Lake Cornelia (shallow water depth),20,NA
+2004,258,22990003,Lake Cornelia,surface water,Lake Cornelia (shallow water depth),23,NA
+2004,247,22990003,Lake Cornelia,surface water,Lake Cornelia (shallow water depth),16,NA
+2004,278,22990003,Lake Cornelia,surface water,Lake Cornelia (shallow water depth),14,NA
+2004,201,22990003,Lake Cornelia,surface water,Lake Cornelia (shallow water depth),13,NA
+2004,190,22990003,Lake Cornelia,surface water,Lake Cornelia (shallow water depth),16,NA
+2002,87,22960001,Lake Meyer,surface water,Lake Meyer Surface Grab (4),2,NA
+2002,115,22960001,Lake Meyer,surface water,Lake Meyer Surface Grab (4),8,NA
+2002,133,22960001,Lake Meyer,surface water,Lake Meyer Surface Grab (4),1,NA
+2002,176,22960001,Lake Meyer,surface water,Lake Meyer Surface Grab (4),3,NA
+2002,196,22960001,Lake Meyer,surface water,Lake Meyer Surface Grab (4),8,NA
+2002,233,22960001,Lake Meyer,surface water,Lake Meyer Surface Grab (4),10,NA
+2002,262,22960001,Lake Meyer,surface water,Lake Meyer Surface Grab (4),9,NA
+2002,281,22960001,Lake Meyer,surface water,Lake Meyer Surface Grab (4),11,NA
+2002,281,22960002,Lake Meyer,mid depth,Lake Meyer Mid-depth Grab (5),10,NA
+2002,262,22960002,Lake Meyer,mid depth,Lake Meyer Mid-depth Grab (5),7,NA
+2002,233,22960002,Lake Meyer,mid depth,Lake Meyer Mid-depth Grab (5),8,NA
+2002,196,22960002,Lake Meyer,mid depth,Lake Meyer Mid-depth Grab (5),18,NA
+2002,176,22960002,Lake Meyer,mid depth,Lake Meyer Mid-depth Grab (5),3,NA
+2002,133,22960002,Lake Meyer,mid depth,Lake Meyer Mid-depth Grab (5),2,NA
+2002,115,22960002,Lake Meyer,mid depth,Lake Meyer Mid-depth Grab (5),9,NA
+2002,87,22960002,Lake Meyer,mid depth,Lake Meyer Mid-depth Grab (5),5,NA
+2002,87,22960003,Lake Meyer,bottom water,Lake Meyer Bottom Grab (6),6,NA
+2002,115,22960003,Lake Meyer,bottom water,Lake Meyer Bottom Grab (6),17,NA
+2002,133,22960003,Lake Meyer,bottom water,Lake Meyer Bottom Grab (6),1,NA
+2002,176,22960003,Lake Meyer,bottom water,Lake Meyer Bottom Grab (6),10,NA
+2002,196,22960003,Lake Meyer,bottom water,Lake Meyer Bottom Grab (6),6,NA
+2002,233,22960003,Lake Meyer,bottom water,Lake Meyer Bottom Grab (6),7,NA
+2002,262,22960003,Lake Meyer,bottom water,Lake Meyer Bottom Grab (6),9,NA
+2002,281,22960003,Lake Meyer,bottom water,Lake Meyer Bottom Grab (6),10,NA
+2002,234,22920001,Lake Darling,surface water,Lake Darling Surface Grab (6),21,NA
+2002,198,22920001,Lake Darling,surface water,Lake Darling Surface Grab (6),14,NA
+2002,171,22920001,Lake Darling,surface water,Lake Darling Surface Grab (6),38,NA
+2002,113,22920001,Lake Darling,surface water,Lake Darling Surface Grab (6),9,NA
+2002,150,22920001,Lake Darling,surface water,Lake Darling Surface Grab (6),14,NA
+2002,77,22920001,Lake Darling,surface water,Lake Darling Surface Grab (6),2,NA
+2002,77,22920002,Lake Darling,mid depth,Lake Darling Mid-depth Grab (7),14,NA
+2002,150,22920002,Lake Darling,mid depth,Lake Darling Mid-depth Grab (7),37,NA
+2002,113,22920002,Lake Darling,mid depth,Lake Darling Mid-depth Grab (7),8,NA
+2002,171,22920002,Lake Darling,mid depth,Lake Darling Mid-depth Grab (7),23,NA
+2002,198,22920002,Lake Darling,mid depth,Lake Darling Mid-depth Grab (7),19,NA
+2002,234,22920002,Lake Darling,mid depth,Lake Darling Mid-depth Grab (7),17,NA
+2002,234,22920003,Lake Darling,bottom water,Lake Darling Bottom Grab (8),23,NA
+2002,198,22920003,Lake Darling,bottom water,Lake Darling Bottom Grab (8),37,NA
+2002,171,22920003,Lake Darling,bottom water,Lake Darling Bottom Grab (8),56,NA
+2002,113,22920003,Lake Darling,bottom water,Lake Darling Bottom Grab (8),8,NA
+2002,150,22920003,Lake Darling,bottom water,Lake Darling Bottom Grab (8),53,NA
+2002,77,22920003,Lake Darling,bottom water,Lake Darling Bottom Grab (8),47,NA
+2002,141,22790001,Arbor Lake,surface water,Arbor Lake Surface Grab (8),2,NA
+2002,114,22790001,Arbor Lake,surface water,Arbor Lake Surface Grab (8),5,NA
+2002,163,22790001,Arbor Lake,surface water,Arbor Lake Surface Grab (8),4,NA
+2002,203,22790001,Arbor Lake,surface water,Arbor Lake Surface Grab (8),30,NA
+2002,231,22790001,Arbor Lake,surface water,Arbor Lake Surface Grab (8),29,NA
+2002,260,22790001,Arbor Lake,surface water,Arbor Lake Surface Grab (8),18,NA
+2002,78,22790001,Arbor Lake,surface water,Arbor Lake Surface Grab (8),23,NA
+2002,56,22790001,Arbor Lake,surface water,Arbor Lake Surface Grab (8),20,NA
+2002,56,22790002,Arbor Lake,mid depth,Arbor Lake Mid-depth Grab (9),17,NA
+2002,78,22790002,Arbor Lake,mid depth,Arbor Lake Mid-depth Grab (9),22,NA
+2002,260,22790002,Arbor Lake,mid depth,Arbor Lake Mid-depth Grab (9),14,NA
+2002,231,22790002,Arbor Lake,mid depth,Arbor Lake Mid-depth Grab (9),22,NA
+2002,203,22790002,Arbor Lake,mid depth,Arbor Lake Mid-depth Grab (9),28,NA
+2002,163,22790002,Arbor Lake,mid depth,Arbor Lake Mid-depth Grab (9),6,NA
+2002,114,22790002,Arbor Lake,mid depth,Arbor Lake Mid-depth Grab (9),7,NA
+2002,141,22790002,Arbor Lake,mid depth,Arbor Lake Mid-depth Grab (9),18,NA
+2002,141,22790003,Arbor Lake,bottom water,Arbor Lake Bottom Grab (10),10,NA
+2002,114,22790003,Arbor Lake,bottom water,Arbor Lake Bottom Grab (10),5,NA
+2002,163,22790003,Arbor Lake,bottom water,Arbor Lake Bottom Grab (10),28,NA
+2002,203,22790003,Arbor Lake,bottom water,Arbor Lake Bottom Grab (10),13,NA
+2002,231,22790003,Arbor Lake,bottom water,Arbor Lake Bottom Grab (10),22,NA
+2002,260,22790003,Arbor Lake,bottom water,Arbor Lake Bottom Grab (10),16,NA
+2002,78,22790003,Arbor Lake,bottom water,Arbor Lake Bottom Grab (10),23,NA
+2002,56,22790003,Arbor Lake,bottom water,Arbor Lake Bottom Grab (10),19,NA
+2002,224,22610001,Badger Creek Lake,surface water,Badger Creek Lake Surface Grab (1),16,NA
+2002,184,22610001,Badger Creek Lake,surface water,Badger Creek Lake Surface Grab (1),18,NA
+2002,122,22610001,Badger Creek Lake,surface water,Badger Creek Lake Surface Grab (1),8,NA
+2002,156,22610001,Badger Creek Lake,surface water,Badger Creek Lake Surface Grab (1),12,NA
+2002,107,22610001,Badger Creek Lake,surface water,Badger Creek Lake Surface Grab (1),6,NA
+2002,94,22610001,Badger Creek Lake,surface water,Badger Creek Lake Surface Grab (1),9,NA
+2002,79,22610001,Badger Creek Lake,surface water,Badger Creek Lake Surface Grab (1),4,NA
+2002,94,22610002,Badger Creek Lake,mid depth,Badger Creek Lake Mid-depth Grab (2),6,NA
+2002,79,22610002,Badger Creek Lake,mid depth,Badger Creek Lake Mid-depth Grab (2),5,NA
+2002,107,22610002,Badger Creek Lake,mid depth,Badger Creek Lake Mid-depth Grab (2),5,NA
+2002,156,22610002,Badger Creek Lake,mid depth,Badger Creek Lake Mid-depth Grab (2),6,NA
+2002,122,22610002,Badger Creek Lake,mid depth,Badger Creek Lake Mid-depth Grab (2),8,NA
+2002,184,22610002,Badger Creek Lake,mid depth,Badger Creek Lake Mid-depth Grab (2),12,NA
+2002,224,22610002,Badger Creek Lake,mid depth,Badger Creek Lake Mid-depth Grab (2),24,NA
+2002,224,22610003,Badger Creek Lake,bottom water,Badger Creek Lake Bottom Grab (3),13,NA
+2002,184,22610003,Badger Creek Lake,bottom water,Badger Creek Lake Bottom Grab (3),24,NA
+2002,122,22610003,Badger Creek Lake,bottom water,Badger Creek Lake Bottom Grab (3),7,NA
+2002,156,22610003,Badger Creek Lake,bottom water,Badger Creek Lake Bottom Grab (3),5,NA
+2002,107,22610003,Badger Creek Lake,bottom water,Badger Creek Lake Bottom Grab (3),5,NA
+2002,94,22610003,Badger Creek Lake,bottom water,Badger Creek Lake Bottom Grab (3),4,NA
+2002,79,22610003,Badger Creek Lake,bottom water,Badger Creek Lake Bottom Grab (3),6,NA
+2002,225,22300001,Upper Gar,surface water,Upper Gar Lake Surface Grab (1),11,NA
+2002,170,22300001,Upper Gar,surface water,Upper Gar Lake Surface Grab (1),11,NA
+2002,190,22300001,Upper Gar,surface water,Upper Gar Lake Surface Grab (1),15,NA
+2002,128,22300001,Upper Gar,surface water,Upper Gar Lake Surface Grab (1),24,NA
+2002,134,22300001,Upper Gar,surface water,Upper Gar Lake Surface Grab (1),6,NA
+2002,280,22300001,Upper Gar,surface water,Upper Gar Lake Surface Grab (1),11,NA
+2002,252,22300001,Upper Gar,surface water,Upper Gar Lake Surface Grab (1),19,NA
+2002,99,22300001,Upper Gar,surface water,Upper Gar Lake Surface Grab (1),9,NA
+2002,71,22300001,Upper Gar,surface water,Upper Gar Lake Surface Grab (1),4,NA
+2002,71,22300002,Upper Gar,mid depth,Upper Gar Lake Mid-depth Grab (2),3,NA
+2002,99,22300002,Upper Gar,mid depth,Upper Gar Lake Mid-depth Grab (2),13,NA
+2002,252,22300002,Upper Gar,mid depth,Upper Gar Lake Mid-depth Grab (2),23,NA
+2002,280,22300002,Upper Gar,mid depth,Upper Gar Lake Mid-depth Grab (2),12,NA
+2002,134,22300002,Upper Gar,mid depth,Upper Gar Lake Mid-depth Grab (2),9,NA
+2002,128,22300002,Upper Gar,mid depth,Upper Gar Lake Mid-depth Grab (2),25,NA
+2002,190,22300002,Upper Gar,mid depth,Upper Gar Lake Mid-depth Grab (2),15,NA
+2002,170,22300002,Upper Gar,mid depth,Upper Gar Lake Mid-depth Grab (2),5,NA
+2002,225,22300002,Upper Gar,mid depth,Upper Gar Lake Mid-depth Grab (2),10,NA
+2002,225,22300003,Upper Gar,bottom water,Upper Gar Lake Bottom Grab (3),13,NA
+2002,170,22300003,Upper Gar,bottom water,Upper Gar Lake Bottom Grab (3),11,NA
+2002,190,22300003,Upper Gar,bottom water,Upper Gar Lake Bottom Grab (3),17,NA
+2002,128,22300003,Upper Gar,bottom water,Upper Gar Lake Bottom Grab (3),26,NA
+2002,134,22300003,Upper Gar,bottom water,Upper Gar Lake Bottom Grab (3),12,NA
+2002,280,22300003,Upper Gar,bottom water,Upper Gar Lake Bottom Grab (3),13,NA
+2002,252,22300003,Upper Gar,bottom water,Upper Gar Lake Bottom Grab (3),24,NA
+2002,99,22300003,Upper Gar,bottom water,Upper Gar Lake Bottom Grab (3),12,NA
+2002,71,22300003,Upper Gar,bottom water,Upper Gar Lake Bottom Grab (3),3,NA
+2002,71,22300004,Lower Gar,surface water,Lower Gar Lake Surface Grab (1),5,NA
+2002,99,22300004,Lower Gar,surface water,Lower Gar Lake Surface Grab (1),32,NA
+2002,134,22300004,Lower Gar,surface water,Lower Gar Lake Surface Grab (1),19,NA
+2002,128,22300004,Lower Gar,surface water,Lower Gar Lake Surface Grab (1),47,NA
+2002,170,22300004,Lower Gar,surface water,Lower Gar Lake Surface Grab (1),22,NA
+2002,225,22300004,Lower Gar,surface water,Lower Gar Lake Surface Grab (1),18,NA
+2002,190,22300004,Lower Gar,surface water,Lower Gar Lake Surface Grab (1),15,NA
+2002,190,22300005,Lower Gar,mid depth,Lower Gar Lake Mid-depth Grab (2),14,NA
+2002,225,22300005,Lower Gar,mid depth,Lower Gar Lake Mid-depth Grab (2),21,NA
+2002,170,22300005,Lower Gar,mid depth,Lower Gar Lake Mid-depth Grab (2),24,NA
+2002,128,22300005,Lower Gar,mid depth,Lower Gar Lake Mid-depth Grab (2),47,NA
+2002,134,22300005,Lower Gar,mid depth,Lower Gar Lake Mid-depth Grab (2),24,NA
+2002,99,22300005,Lower Gar,mid depth,Lower Gar Lake Mid-depth Grab (2),37,NA
+2002,71,22300005,Lower Gar,mid depth,Lower Gar Lake Mid-depth Grab (2),4,NA
+2002,71,22300006,Lower Gar,bottom water,Lower Gar Lake Bottom Grab (3),6,NA
+2002,99,22300006,Lower Gar,bottom water,Lower Gar Lake Bottom Grab (3),45,NA
+2002,134,22300006,Lower Gar,bottom water,Lower Gar Lake Bottom Grab (3),21,NA
+2002,128,22300006,Lower Gar,bottom water,Lower Gar Lake Bottom Grab (3),49,NA
+2002,170,22300006,Lower Gar,bottom water,Lower Gar Lake Bottom Grab (3),25,NA
+2002,225,22300006,Lower Gar,bottom water,Lower Gar Lake Bottom Grab (3),15,NA
+2002,190,22300006,Lower Gar,bottom water,Lower Gar Lake Bottom Grab (3),15,NA

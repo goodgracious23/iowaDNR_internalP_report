@@ -1,0 +1,20 @@
+lake_name,impairment,year,internal_kgyear,total_kgyear,internal_percent,method,lake_ha,z_max_m,z_mean_m,volume_km3,watershed_ha,watershed_ratio,WRT_d,eco_type
+Avenue of the Saints Lake,"Algae, Turbidity, pH",2019,1376.20,2730.60,50.4,"STEPL, BATHTUB",17.20,5.1,2.4,0.00041,"1,692.60",99,26,Impoundment
+Black Hawk Lake,"Algae, Turbidity",2012,2856.70,19328.80,14.8,"SWAT, BATHTUB",373.10,4.6,1.8,0.0055,"5,324.00",14.3,133,Glacial Lake
+Blue Lake,"Algae, Turbidity",2009,98.00,1206.80,8.1,"GWLF/BasinSims, BATHTUB",106.80,3,1.4,0.0015,"2,034.40",19,117,Oxbow Lake
+Casey Lake,"Algae, pH",2013,266.00,688.30,38.6,"STEPL, BATHTUB",15.20,6.1,2.3,0.00034,302.7,20,NA,Impoundment
+Clear Lake,"Algae, Nutrients",2007,798.20,8435.40,9.5,EUTROMOD,1467.00,5.8,2.9,0.043,"3,507.40",2.4,1715,Glacial Lake
+East Lake Osceola,"Algae, Turbidity",2008,192.70,333.80,57.7,"GWLF/BasinSims, BATHTUB",5.30,4,2.1,0.00011,120.1,22,96,Impoundment
+Green Valley Lake,"Algae, Turbidity, Low DO",2019,61.40,3180.20,1.9,"STEPL, BATHTUB",156.20,8.1,3.2,0.005,"1,938.10",12,246,Impoundment
+Hannen Lake,"Algae, pH",2013,57.40,294.10,19.5,"STEPL, BATHTUB",15.00,6.4,2.5,0.00038,NA,NA,NA,Impoundment
+Indian Lake,"Organic Enrichment, Noxious Aquatics",2005,36.30,108.80,33.3,Nurnberg Oxic Model,22.00,3.9,1.6,0.00035,134.8,6.1,NA,Impoundment
+Lake Keomah,"Algae, pH",2012,367.80,2071.20,17.8,"STEPL, BATHTUB",31.60,5.8,2.8,0.00089,758,24,93,Impoundment
+Little Spirit Lake,"Algae, Turbidity",2005,267.60,848.10,31.6,EUTROMOD,250.90,3,1.8,0.0046,578.7,2.3,1460,Glacial Lake
+Lower Pine Lake,Organic Enrichment,2003,589.60,3628.10,16.2,EUTROMOD,26.50,4.3,2.1,0.00054,"3,917.40",148,NA,Impoundment
+Otter Creek Lake,Algae,2004,132.40,678.90,19.5,"STEPL, BATHTUB",26.80,7.6,2.6,0.00069,388.2,14.5,nA,Impoundment
+Ottumwa Lagoon,"Algae, Chlordane, Turbidity",2005,113.40,1564.60,7.2,Nurnberg Oxic Model,31.20,3.6,1.9,0.00058,930.8,33,88,Oxbow Lake
+Silver Lake (Palo Alto),"Algae, Turbidity",2005,276.60,4698.40,5.9,Nurnberg Oxic Model,259.00,2.1,1.5,0.0038,"3,387.20",13,219,Glacial Lake
+Silver Lake (Worth),"Algae, Turbidity",2006,196.40,745.60,26.3,Nurnberg Oxic Model,135.20,1.8,1.4,0.0018,691.2,5.1,453,Glacial Lake
+Swan Lake,"Algae, Turbidity",2004,81.60,902.50,9,Nurnberg Oxic Model,48.60,4.3,1.6,0.00079,311.6,6.3,548,Glacial Lake
+Trumbull Lake,"Algae, Turbidity",2006,5986.40,9886.60,60.6,Nurnberg Oxic Model,435.40,1.2,1,0.0044,"20,536.60",46.2,40,Glacial Lake
+Volga Lake,"Algae, Non-Algal Turbidity",2014,861.70,3072.10,28,"STEPL, BATHTUB",59.10,7.2,3.2,0.0018,"2,375.50",40.2,NA,Impoundment

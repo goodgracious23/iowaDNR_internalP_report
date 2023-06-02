@@ -1,0 +1,19 @@
+year,lake_name,lake_id,exp_id,species_richness,emergent_richness,submersed_richness,floating_richness,max_depth_m,typha_angustifolia,sagittaria_latifolia,schenoplectus_tabernaemontani,sparganium_spp,ceratophyllum_demersum,chara_spp,najas_flexilis,potamogeton_crispus,potamogeton_foliosus ,potamogeton_nodosus,stuckenia_pectinata,Lemna_spp,persicaria_amphibia
+2018,Center,19,Pre,7,3,2,1,1.83,1,1,1,0,0,0,1,0,1,0,1,1,0
+2019,Center,19,Post,3,2,1,0,1.83,1,1,0,0,0,0,0,0,0,0,1,0,0
+2020,Center,19,Post,5,2,2,1,1.83,1,0,1,0,0,0,0,0,1,0,1,1,0
+2018,Five Island,36,Pre,2,2,0,0,0.61,1,0,1,0,0,0,0,0,0,0,0,0,0
+2019,Five Island,36,Post,2,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+2020,Five Island,36,Post,3,2,1,0,1.22,1,0,1,0,0,0,0,0,0,0,1,0,0
+2018,North Twin,90,Pre,4,2,2,0,1.83,1,0,1,0,0,1,0,0,0,0,1,0,0
+2019,North Twin,90,Pre,3,1,2,0,1.22,0,0,1,0,0,1,0,0,0,0,1,0,0
+2020,North Twin,90,Post,4,2,2,0,1.22,1,0,1,0,0,1,0,0,0,0,1,0,0
+2019,Silver,105,Pre,7,2,2,3,1.22,1,0,1,1,0,0,0,1,0,0,1,1,1
+2019,Silver,105,Pre,4,1,3,0,2.44,1,0,0,0,1,0,0,1,0,0,1,0,0
+2020,Silver,105,Post,6,2,4,0,1.83,1,0,0,1,1,0,0,1,1,0,1,0,0
+2018,South Twin,406,Reference,3,2,1,0,0.61,1,0,1,0,0,0,0,0,0,0,1,0,0
+2019,South Twin,406,Reference,3,2,1,0,0.61,1,0,1,0,0,0,0,0,0,0,1,0,0
+2020,South Twin,406,Reference,2,2,0,0,0.61,1,0,1,0,0,0,0,0,0,0,0,0,0
+2018,Storm,113,Reference,4,0,3,1,1.22,0,0,0,0,1,0,0,0,1,0,1,1,0
+2019,Storm,113,Reference,3,0,3,0,1.22,0,0,0,0,0,0,0,0,1,1,1,0,0
+2020,Storm,113,Reference,2,0,2,0,2.44,0,0,0,0,0,0,0,0,0,1,1,0,0

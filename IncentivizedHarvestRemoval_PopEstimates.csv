@@ -1,0 +1,53 @@
+lake,year,lakeyear,species,area_acres,biomass_lb,biomass_Cilow,biomass_Cihigh,harvest_kgha
+center,2017,center2017,carp,272,32703,13313,52093,0
+center,2018,center2018,carp,272,44329,19174,69485,23
+center,2019,center2019,carp,272,11025,845,21829,12
+center,2020,center2020,carp,272,18716,3680,33752,0
+five island,2017,five island2017,carp,951,0,0,0,0
+five island,2018,five island2018,carp,951,195786,14925,242328,15
+five island,2019,five island2019,carp,951,107395,46451,168339,19
+five island,2020,five island2020,carp,951,144161,86416,201907,0
+five island,2021,five island2021,carp,951,0,0,0,0
+north twin,2017,north twin2017,carp,452,9503,2890,16116,0
+north twin,2018,north twin2018,carp,452,25496,12976,38016,0
+north twin,2019,north twin2019,carp,452,17404,7090,27718,17
+north twin,2020,north twin2020,carp,452,4689,294,32259,13
+silver,2017,silver2017,carp,1040,0,0,0,0
+silver,2018,silver2018,carp,1040,84619,58045,111193,0
+silver,2019,silver2019,carp,1040,110910,50452,171369,10
+silver,2020,silver2020,carp,1040,60743,40009,81477,71
+silver,2021,silver2021,carp,1040,0,0,0,0
+south twin,2017,south twin2017,carp,600,54489,16579,92398,0
+south twin,2018,south twin2018,carp,600,36925,22983,50867,0
+south twin,2019,south twin2019,carp,600,25950,10566,41334,0
+south twin,2020,south twin2020,carp,600,45450,1035,106439,0
+storm,2017,storm2017,carp,600,0,0,0,0
+storm,2018,storm2018,carp,3097,38003,28691,47315,0
+storm,2019,storm2019,carp,3097,76256,37578,114934,0
+storm,2020,storm2020,carp,3097,102670,69570,135771,0
+center,2017,center2017,bmb,272,39862,28079,51645,0
+center,2018,center2018,bmb,272,19741,8537,30946,222
+center,2019,center2019,bmb,272,16370,607,58808,61
+center,2020,center2020,bmb,272,25532,14326,36739,0
+five island,2017,five island2017,bmb,951,0,0,0,0
+five island,2018,five island2018,bmb,951,17133,1381,33927,17
+five island,2019,five island2019,bmb,951,8235,465,56660,185
+five island,2020,five island2020,bmb,951,20932,1587,44435,0
+five island,2021,five island2021,bmb,951,0,0,0,0
+north twin,2017,north twin2017,bmb,452,103089,31364,174814,0
+north twin,2018,north twin2018,bmb,452,203313,87947,318679,0
+north twin,2019,north twin2019,bmb,452,191233,6558,378644,356
+north twin,2020,north twin2020,bmb,452,12918,1146,46417,276
+silver,2017,silver2017,bmb,1040,0,0,0,0
+silver,2018,silver2018,bmb,1040,80154,2552,187715,0
+silver,2019,silver2019,bmb,1040,29225,723,201069,65
+silver,2020,silver2020,bmb,1040,12517,3202,21831,74
+silver,2021,silver2021,bmb,1040,0,0,0,0
+south twin,2017,south twin2017,bmb,600,26951,20635,33267,0
+south twin,2018,south twin2018,bmb,600,155461,79128,231795,0
+south twin,2019,south twin2019,bmb,600,53935,1609,147162,0
+south twin,2020,south twin2020,bmb,600,32017,879,220275,0
+storm,2017,storm2017,bmb,600,0,0,0,0
+storm,2018,storm2018,bmb,3097,188334,4654,1295740,0
+storm,2019,storm2019,bmb,3097,1105,140,7599,0
+storm,2020,storm2020,bmb,3097,14087,735,50614,0

@@ -1,12 +1,13 @@
 # Green Valley Bottom DO
 library(tidyverse)
 #======== SITE COLORS =========#
-site1 = "#045275"
-site2 = "#089099"
-site3 = "#7CCBA2"
-site4 = "#FCDE92"
-site5 = "#F0746E"
-site6 = "#CF597E"
+site1 = "#c6dbef"
+site2 = "#9ecae1"
+site3 = "#3182bd"
+site4 = "#08519c"
+site5 = "#6baed6"
+site6 = "#c6dbef"
+
 
 gvl_btm = read.csv("field_profiles_gvl_2019.csv") %>%
   group_by(doy, siteID) %>%
@@ -21,7 +22,7 @@ plot(gvl_btm[gvl_btm$siteID==1, "doy"],
      pch = 19, cex = 1, lwd = 2, col = site1, type = "o",
      ylim = c(0,200), xlab = "Day of Year", ylab = "Bottom DO % Saturation")
 polygon(c(140,250,250,140), c(0,0,20,20), border = FALSE, 
-        col = rgb(102,102,102, max = 255, alpha = 25))
+        col = rgb(77,77,77, max = 255, alpha = 45))
 points(gvl_btm[gvl_btm$siteID==2, "doy"],
      gvl_btm[gvl_btm$siteID==2, "do_sat"],
      pch = 19, cex = 1, lwd = 2, col = site2, type = "o")
